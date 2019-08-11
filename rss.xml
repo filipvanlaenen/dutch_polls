@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sat, 10 Aug 2019 20:24:49 +0200</pubDate>
+    <pubDate>Sat, 10 Aug 2019 23:41:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 26–29 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-07-29-Ipsos.html</link>
@@ -19,6 +19,16 @@
       <pubDate>Sat, 10 Aug 2019 20:24:49 +0200</pubDate>
       <dc:date>2019-08-10T20:24:49.748557+02:00</dc:date>
     </item>
-    <dc:date>2019-08-10T20:24:49.748557+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 5–9 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-07-09-IOResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 17.7–21.0%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 5.1–7.1%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 8.8–11.3%&lt;/li&gt;&lt;li&gt;Democraten 66: 5.7–7.8%&lt;/li&gt;&lt;li&gt;GroenLinks: 11.3–14.1%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.5–6.3%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 8.8–11.3%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.3–4.9%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.3–4.9%&lt;/li&gt;&lt;li&gt;50Plus: 2.7–4.2%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.5–2.7%&lt;/li&gt;&lt;li&gt;DENK: 0.9–1.9%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 13.9–16.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-07-09-IOResearch.png"
+        length="339180"
+        type="image/png"/>
+      <pubDate>Sat, 10 Aug 2019 23:41:18 +0200</pubDate>
+      <dc:date>2019-08-10T23:41:18.039741+02:00</dc:date>
+    </item>
+    <dc:date>2019-08-10T23:41:18.039741+02:00</dc:date>
   </channel>
 </rss>
