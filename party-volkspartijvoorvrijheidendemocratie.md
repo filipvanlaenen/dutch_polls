@@ -10,9 +10,10 @@ Last result: **21.3%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.2% | 18.6–21.8% | 18.2–22.3% | 17.8–22.7% | 17.1–23.5% |
+| N/A | [Poll Average](average.html) | 19.7% | 18.4–21.3% | 18.1–21.8% | 17.8–22.3% | 17.2–23.2% |
+| [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 18.0% | N/A | N/A | N/A | N/A |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 20.1% | 18.6–21.8% | 18.2–22.3% | 17.8–22.7% | 17.1–23.5% |
-| [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 19.3% | N/A | N/A | N/A | N/A |
+| [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 19.3% | 18.3–20.4% | 18.0–20.7% | 17.7–21.0% | 17.2–21.5% |
 | [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 17.3% | N/A | N/A | N/A | N/A |
 | [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl | 17.3% | N/A | N/A | N/A | N/A |
 | [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 20.0% | N/A | N/A | N/A | N/A |
@@ -124,16 +125,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 1.3% | 99.9% |  |
-| 17.5–18.5% | 8% | 98.5% |  |
-| 18.5–19.5% | 22% | 91% |  |
-| 19.5–20.5% | 31% | 69% | Median |
-| 20.5–21.5% | 24% | 38% | Last Result |
-| 21.5–22.5% | 11% | 14% |  |
-| 22.5–23.5% | 3% | 3% |  |
-| 23.5–24.5% | 0.4% | 0.5% |  |
+| 16.5–17.5% | 1.4% | 99.9% |  |
+| 17.5–18.5% | 12% | 98.6% |  |
+| 18.5–19.5% | 33% | 87% |  |
+| 19.5–20.5% | 31% | 54% | Median |
+| 20.5–21.5% | 16% | 23% | Last Result |
+| 21.5–22.5% | 6% | 7% |  |
+| 22.5–23.5% | 1.4% | 2% |  |
+| 23.5–24.5% | 0.2% | 0.2% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
 
@@ -145,9 +145,10 @@ Last result: **33** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 31–32 | 31–32 | 31–32 | 27–34 |
+| N/A | [Poll Average](average.html) | 29 | 28–32 | 28–32 | 25–32 | 25–33 |
+| [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 32 | 31–32 | 31–32 | 31–32 | 27–34 |
-| [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 28 | 28–29 | 25–29 | 25–29 | 25–32 |
 | [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
@@ -261,19 +262,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0% | 99.9% |  |
-| 27 | 0.7% | 99.9% |  |
-| 28 | 1.0% | 99.2% |  |
-| 29 | 0.3% | 98% |  |
-| 30 | 0.2% | 98% |  |
-| 31 | 20% | 98% |  |
-| 32 | 77% | 78% | Median |
-| 33 | 0.7% | 1.2% | Last Result |
-| 34 | 0.4% | 0.6% |  |
-| 35 | 0.1% | 0.2% |  |
-| 36 | 0% | 0.1% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 25 | 3% | 100% |  |
+| 26 | 0% | 97% |  |
+| 27 | 0.4% | 97% |  |
+| 28 | 29% | 97% |  |
+| 29 | 19% | 68% | Median |
+| 30 | 0.1% | 49% |  |
+| 31 | 10% | 49% |  |
+| 32 | 39% | 39% |  |
+| 33 | 0.3% | 0.6% | Last Result |
+| 34 | 0.2% | 0.3% |  |
+| 35 | 0.1% | 0.1% |  |
+| 36 | 0% | 0% |  |
 
 
