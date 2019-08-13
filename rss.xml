@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sun, 11 Aug 2019 21:54:52 +0200</pubDate>
+    <pubDate>Tue, 13 Aug 2019 20:36:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 29 July–4 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-08-04-Peilnl.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-08-04-Peilnl.png"
         length="330004"
         type="image/png"/>
-      <pubDate>Sun, 11 Aug 2019 20:43:52 +0200</pubDate>
-      <dc:date>2019-08-11T20:43:52.560973+02:00</dc:date>
+      <pubDate>Tue, 13 Aug 2019 20:12:36 +0200</pubDate>
+      <dc:date>2019-08-13T20:12:36.044167+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 26–29 July 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-07-29-Ipsos.png"
         length="379766"
         type="image/png"/>
-      <pubDate>Sun, 11 Aug 2019 21:18:15 +0200</pubDate>
-      <dc:date>2019-08-11T21:18:15.436577+02:00</dc:date>
+      <pubDate>Tue, 13 Aug 2019 20:36:09 +0200</pubDate>
+      <dc:date>2019-08-13T20:36:09.03362+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 5–9 July 2019 – Voting Intentions</title>
@@ -39,6 +39,6 @@
       <pubDate>Sun, 11 Aug 2019 21:54:52 +0200</pubDate>
       <dc:date>2019-08-11T21:54:52.246037+02:00</dc:date>
     </item>
-    <dc:date>2019-08-11T21:54:52.246037+02:00</dc:date>
+    <dc:date>2019-08-13T20:36:09.03362+02:00</dc:date>
   </channel>
 </rss>
