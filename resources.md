@@ -4,6 +4,11 @@
 
 The following resources have been consulted in order to create this site:
 
++ Wikipedia page about the next general election: "[Next Dutch general election](https://en.wikipedia.org/wiki/Next_Dutch_general_election)"
++ Wikipedia page about the opinion polls for the next general election: "[Opinion polling for the next Dutch general election](https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Dutch_general_election)"
++ Wikipedia page about the 2017 general election: "[2017 Dutch general election](https://en.wikipedia.org/wiki/2017_Dutch_general_election)"
++ Information about the electoral system in the Netherlands: "[IPU PARLINE database: NETHERLANDS (Tweede Kamer der Staten-Generaal), Electoral system](http://archive.ipu.org/parline-e/reports/2231_B.htm)"
+
 ## Similar Websites
 
 The following websites provide similar information to this website:
