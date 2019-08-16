@@ -13,6 +13,10 @@ The following resources have been consulted in order to create this site:
 
 The following websites provide similar information to this website:
 
++ [Electograph – Netherlands](http://www.electograph.com/search/label/Netherlands)
++ [Netherlands – POLITICO](https://www.politico.eu/2019-european-elections/netherlands/)
++ [Twitter Search: EuropeElects Netherlands](https://twitter.com/search?q=europeelects%20netherlands&src=typd&f=live)
+
 ## Other Resources
 
 + The RSS 2.0 feed for this site: [rss.xml](rss.xml)
