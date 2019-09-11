@@ -40,7 +40,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](average-.png "Voting Intentions")
+![Graph with voting intentions not yet produced](average--.png "Voting Intentions")
 
 ### Confidence Intervals
 
@@ -270,9 +270,9 @@ Only polls for which at least the sample size has been published are included in
 
 ## Seats
 
-![Graph with seats not yet produced](average--seats.png "Seats")
+![Graph with seats not yet produced](average---seats.png "Seats")
 
-![Graph with seating plan not yet produced](average--seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](average---seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
@@ -298,7 +298,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Volkspartij voor Vrijheid en Democratie](party-volkspartijvoorvrijheidendemocratie.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-volkspartijvoorvrijheidendemocratie.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-volkspartijvoorvrijheidendemocratie.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -319,7 +319,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Partij voor de Vrijheid](party-partijvoordevrijheid.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-partijvoordevrijheid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-partijvoordevrijheid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -342,7 +342,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Christen-Democratisch Appèl](party-christen-democratischappèl.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-christen-democratischappèl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-christen-democratischappèl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -361,7 +361,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Democraten 66](party-democraten66.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-democraten66.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-democraten66.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -382,7 +382,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [GroenLinks](party-groenlinks.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-groenlinks.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-groenlinks.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -404,7 +404,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Socialistische Partij](party-socialistischepartij.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-socialistischepartij.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-socialistischepartij.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -423,7 +423,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Partij van de Arbeid](party-partijvandearbeid.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-partijvandearbeid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-partijvandearbeid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -443,7 +443,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [ChristenUnie](party-christenunie.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-christenunie.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-christenunie.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -459,7 +459,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Partij voor de Dieren](party-partijvoordedieren.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-partijvoordedieren.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-partijvoordedieren.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -476,7 +476,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [50Plus](party-50plus.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-50plus.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-50plus.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -493,7 +493,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Staatkundig Gereformeerde Partij](party-staatkundiggereformeerdepartij.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-staatkundiggereformeerdepartij.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-staatkundiggereformeerdepartij.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -508,7 +508,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [DENK](party-denk.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-denk.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-denk.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -523,7 +523,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Forum voor Democratie](party-forumvoordemocratie.html) page.*
 
-![Graph with seats probability mass function not yet produced](average--seats-pmf-forumvoordemocratie.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---seats-pmf-forumvoordemocratie.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -557,7 +557,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](average--coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](average---coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
@@ -587,7 +587,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – GroenLinks – ChristenUnie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda–d66–gl–cu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda–d66–gl–cu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -611,7 +611,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl – Staatkundig Gereformeerde Partij – Forum voor Democratie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–pvv–cda–sgp–fvd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–pvv–cda–sgp–fvd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -635,7 +635,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – Partij van de Arbeid – ChristenUnie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda–d66–pvda–cu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda–d66–pvda–cu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -659,7 +659,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl – Forum voor Democratie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–pvv–cda–fvd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–pvv–cda–fvd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -683,7 +683,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – 50Plus – Staatkundig Gereformeerde Partij – Forum voor Democratie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda–50–sgp–fvd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda–50–sgp–fvd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -711,7 +711,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Socialistische Partij – Partij van de Arbeid – ChristenUnie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-cda–d66–gl–sp–pvda–cu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-cda–d66–gl–sp–pvda–cu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -735,7 +735,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – 50Plus – Forum voor Democratie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda–50–fvd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda–50–fvd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -763,7 +763,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Staatkundig Gereformeerde Partij – Forum voor Democratie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda–sgp–fvd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda–sgp–fvd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -790,7 +790,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda–fvd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda–fvd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -817,7 +817,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Partij van de Arbeid – ChristenUnie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-cda–d66–gl–pvda–cu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-cda–d66–gl–pvda–cu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -839,7 +839,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – ChristenUnie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda–d66–cu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda–d66–cu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -866,7 +866,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Partij van de Arbeid
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda–pvda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -888,7 +888,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda–d66.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda–d66.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -916,7 +916,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–pvv–cda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–pvv–cda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -947,7 +947,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Democraten 66 – Partij van de Arbeid
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–d66–pvda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–d66–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -970,7 +970,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–cda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–cda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -992,7 +992,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Volkspartij voor Vrijheid en Democratie – Partij van de Arbeid
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-vvd–pvda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-vvd–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1015,7 +1015,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Christen-Democratisch Appèl – Democraten 66 – Partij van de Arbeid
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-cda–d66–pvda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-cda–d66–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1038,7 +1038,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Christen-Democratisch Appèl – Partij van de Arbeid – ChristenUnie
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-cda–pvda–cu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-cda–pvda–cu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1058,7 +1058,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Christen-Democratisch Appèl – Partij van de Arbeid
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-cda–pvda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-cda–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1078,7 +1078,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Christen-Democratisch Appèl – Democraten 66
 
-![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-cda–d66.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average---coalitions-seats-pmf-cda–d66.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
