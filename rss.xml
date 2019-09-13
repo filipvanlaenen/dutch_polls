@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Fri, 13 Sep 2019 17:17:32 +0200</pubDate>
+    <pubDate>Fri, 13 Sep 2019 18:28:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-09-07-Peilnl.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-09-07-Peilnl.png"
         length="332355"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 17:17:32 +0200</pubDate>
-      <dc:date>2019-09-13T17:17:32.556171+02:00</dc:date>
+      <pubDate>Fri, 13 Sep 2019 17:37:21 +0200</pubDate>
+      <dc:date>2019-09-13T17:37:21.816103+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 29 August–3 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-09-03-IOResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 18.7–22.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 7.4–10.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 8.6–11.5%&lt;/li&gt;&lt;li&gt;Democraten 66: 6.2–8.8%&lt;/li&gt;&lt;li&gt;GroenLinks: 9.5–12.5%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.9–7.3%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 8.8–11.8%&lt;/li&gt;&lt;li&gt;ChristenUnie: 4.5–6.7%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.4–5.4%&lt;/li&gt;&lt;li&gt;50Plus: 3.8–5.9%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2.2–3.8%&lt;/li&gt;&lt;li&gt;DENK: 0.8–1.9%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 6.1–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-09-03-IOResearch.png"
+        length="356361"
+        type="image/png"/>
+      <pubDate>Fri, 13 Sep 2019 18:07:27 +0200</pubDate>
+      <dc:date>2019-09-13T18:07:27.703259+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 30 August–2 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-09-02-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 18.5–23.5%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 8.2–11.9%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 8.9–12.8%&lt;/li&gt;&lt;li&gt;Democraten 66: 6.8–10.3%&lt;/li&gt;&lt;li&gt;GroenLinks: 7.6–11.3%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 7.5–11.0%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.9–6.6%&lt;/li&gt;&lt;li&gt;50Plus: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.6–3.6%&lt;/li&gt;&lt;li&gt;DENK: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 5.8–9.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-09-02-Ipsos.png"
+        length="378543"
+        type="image/png"/>
+      <pubDate>Fri, 13 Sep 2019 18:28:52 +0200</pubDate>
+      <dc:date>2019-09-13T18:28:52.191525+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 29 July–4 August 2019 – Voting Intentions</title>
@@ -49,6 +69,6 @@
       <pubDate>Wed, 28 Aug 2019 20:41:26 +0200</pubDate>
       <dc:date>2019-08-28T20:41:26.556379+02:00</dc:date>
     </item>
-    <dc:date>2019-09-13T17:17:32.556171+02:00</dc:date>
+    <dc:date>2019-09-13T18:28:52.191525+02:00</dc:date>
   </channel>
 </rss>
