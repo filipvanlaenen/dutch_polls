@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Fri, 13 Sep 2019 18:28:52 +0200</pubDate>
+    <pubDate>Fri, 13 Sep 2019 19:58:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-09-07-Peilnl.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-09-07-Peilnl.png"
         length="332355"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 17:37:21 +0200</pubDate>
-      <dc:date>2019-09-13T17:37:21.816103+02:00</dc:date>
+      <pubDate>Fri, 13 Sep 2019 19:39:06 +0200</pubDate>
+      <dc:date>2019-09-13T19:39:06.057776+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 29 August–3 September 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-09-03-IOResearch.png"
         length="356361"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 18:07:27 +0200</pubDate>
-      <dc:date>2019-09-13T18:07:27.703259+02:00</dc:date>
+      <pubDate>Fri, 13 Sep 2019 19:58:22 +0200</pubDate>
+      <dc:date>2019-09-13T19:58:22.987352+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 30 August–2 September 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-09-02-Ipsos.png"
         length="378543"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 18:28:52 +0200</pubDate>
-      <dc:date>2019-09-13T18:28:52.191525+02:00</dc:date>
+      <pubDate>Fri, 13 Sep 2019 18:39:30 +0200</pubDate>
+      <dc:date>2019-09-13T18:39:30.931791+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 29 July–4 August 2019 – Voting Intentions</title>
@@ -69,6 +69,6 @@
       <pubDate>Wed, 28 Aug 2019 20:41:26 +0200</pubDate>
       <dc:date>2019-08-28T20:41:26.556379+02:00</dc:date>
     </item>
-    <dc:date>2019-09-13T18:28:52.191525+02:00</dc:date>
+    <dc:date>2019-09-13T19:58:22.987352+02:00</dc:date>
   </channel>
 </rss>
