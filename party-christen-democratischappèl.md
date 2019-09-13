@@ -149,10 +149,10 @@ Last result: **19** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–17 | 13–17 | 13–18 | 13–21 |
-| [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 17 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 14 | 14–17 | 14–17 | 13–17 | 12–19 |
-| [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 17 | 13–17 | 13–17 | 13–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–17 | 13–18 | 12–20 |
+| [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 15 | 14–17 | 14–17 | 14–17 | 13–19 |
+| [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 16 | 15–17 | 13–17 | 13–18 | 12–21 |
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
@@ -271,16 +271,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% |  |
-| 13 | 6% | 99.8% |  |
-| 14 | 29% | 93% |  |
-| 15 | 7% | 64% |  |
-| 16 | 2% | 57% |  |
-| 17 | 51% | 54% | Median |
-| 18 | 1.0% | 3% |  |
-| 19 | 1.0% | 2% | Last Result |
-| 20 | 0% | 0.9% |  |
-| 21 | 0.8% | 0.8% |  |
+| 12 | 0.6% | 100% |  |
+| 13 | 3% | 99.4% |  |
+| 14 | 8% | 96% |  |
+| 15 | 31% | 88% |  |
+| 16 | 34% | 58% | Median |
+| 17 | 21% | 23% |  |
+| 18 | 1.4% | 3% |  |
+| 19 | 0.7% | 1.2% | Last Result |
+| 20 | 0.1% | 0.5% |  |
+| 21 | 0.4% | 0.4% |  |
 | 22 | 0% | 0% |  |
 
 
