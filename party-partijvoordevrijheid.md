@@ -149,10 +149,10 @@ Last result: **20** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–19 | 12–19 | 12–19 | 11–19 |
+| N/A | [Poll Average](average.html) | 15 | 12–16 | 12–18 | 12–19 | 11–19 |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 13 | 13–15 | 13–15 | 12–15 | 11–16 |
-| [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 15 | 12–15 | 12–15 | 12–15 | 10–16 |
-| [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 17 | 12–19 | 12–19 | 12–19 | 11–19 |
+| [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 14 | 12–15 | 12–15 | 12–15 | 10–16 |
+| [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 16 | 14–18 | 13–19 | 12–19 | 11–19 |
 | [26–31 August 2019](2019-08-31-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [19–24 August 2019](2019-08-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [29 July–4 August 2019](2019-08-04-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
@@ -271,16 +271,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.4% | 100% |  |
-| 11 | 1.2% | 99.6% |  |
-| 12 | 9% | 98% |  |
-| 13 | 26% | 90% |  |
-| 14 | 8% | 64% |  |
-| 15 | 29% | 55% | Median |
-| 16 | 1.4% | 26% |  |
-| 17 | 12% | 25% |  |
-| 18 | 0.5% | 13% |  |
-| 19 | 13% | 13% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 0.9% | 99.8% |  |
+| 12 | 10% | 98.9% |  |
+| 13 | 28% | 89% |  |
+| 14 | 10% | 61% |  |
+| 15 | 26% | 51% | Median |
+| 16 | 16% | 26% |  |
+| 17 | 4% | 9% |  |
+| 18 | 2% | 5% |  |
+| 19 | 3% | 3% |  |
 | 20 | 0% | 0% | Last Result |
 
 
