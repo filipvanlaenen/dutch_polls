@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Mon, 16 Dec 2019 22:09:35 +0100</pubDate>
+    <pubDate>Sat, 21 Dec 2019 19:25:00 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 9–14 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-12-14-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 11.5–13.9%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 11.5–13.9%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 9.0–11.1%&lt;/li&gt;&lt;li&gt;Democraten 66: 7.1–9.0%&lt;/li&gt;&lt;li&gt;GroenLinks: 7.1–9.0%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 11.5–13.9%&lt;/li&gt;&lt;li&gt;ChristenUnie: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.4–4.8%&lt;/li&gt;&lt;li&gt;50Plus: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK: 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 10.9–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-12-14-Peilnl.png"
+        length="329127"
+        type="image/png"/>
+      <pubDate>Sat, 21 Dec 2019 16:00:34 +0100</pubDate>
+      <dc:date>2019-12-21T16:00:34.091982+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-12-07-Peilnl.html</link>
@@ -26,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-25-Ipsos.png"
         length="387629"
         type="image/png"/>
-      <pubDate>Mon, 16 Dec 2019 21:21:03 +0100</pubDate>
-      <dc:date>2019-12-16T21:21:03.842832+01:00</dc:date>
+      <pubDate>Sat, 21 Dec 2019 17:46:12 +0100</pubDate>
+      <dc:date>2019-12-21T17:46:12.641096+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 7–13 November 2019 – Voting Intentions</title>
@@ -36,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-13-IOResearch.png"
         length="372191"
         type="image/png"/>
-      <pubDate>Mon, 16 Dec 2019 21:51:13 +0100</pubDate>
-      <dc:date>2019-12-16T21:51:13.650924+01:00</dc:date>
+      <pubDate>Sat, 21 Dec 2019 18:34:57 +0100</pubDate>
+      <dc:date>2019-12-21T18:34:57.087756+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 1 November 2019 – Voting Intentions</title>
@@ -46,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-01-KantarPublic.png"
         length="385513"
         type="image/png"/>
-      <pubDate>Mon, 16 Dec 2019 22:09:35 +0100</pubDate>
-      <dc:date>2019-12-16T22:09:35.473448+01:00</dc:date>
+      <pubDate>Sat, 21 Dec 2019 19:25:00 +0100</pubDate>
+      <dc:date>2019-12-21T19:25:00.693857+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Seat Projections for the Parties</title>
@@ -169,6 +179,6 @@
       <pubDate>Wed, 28 Aug 2019 20:41:26 +0200</pubDate>
       <dc:date>2019-08-28T20:41:26.556379+02:00</dc:date>
     </item>
-    <dc:date>2019-12-16T22:09:35.473448+01:00</dc:date>
+    <dc:date>2019-12-21T19:25:00.693857+01:00</dc:date>
   </channel>
 </rss>
