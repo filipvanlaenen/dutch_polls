@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sat, 21 Dec 2019 19:25:00 +0100</pubDate>
+    <pubDate>Sat, 28 Dec 2019 18:48:00 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 9–14 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-12-14-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 18–21 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 17–22 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 13–17 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 10–14 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 10–14 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 8–10 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 17–21 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 6–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 5–7 seats&lt;/li&gt;&lt;li&gt;50Plus: 5–8 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–4 seats&lt;/li&gt;&lt;li&gt;DENK: 2–3 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 17–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-12-14-Peilnl-seats.png"
+        length="253252"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 17:28:52 +0100</pubDate>
+      <dc:date>2019-12-28T17:28:52.530932+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 9–14 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-12-14-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-12-14-Peilnl-coalitions-seats.png"
+        length="475060"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 17:28:52 +0100</pubDate>
+      <dc:date>2019-12-28T17:28:52.530932+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 9–14 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-12-14-Peilnl.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-12-14-Peilnl.png"
         length="329127"
         type="image/png"/>
-      <pubDate>Sat, 21 Dec 2019 16:00:34 +0100</pubDate>
-      <dc:date>2019-12-21T16:00:34.091982+01:00</dc:date>
+      <pubDate>Sat, 28 Dec 2019 17:28:52 +0100</pubDate>
+      <dc:date>2019-12-28T17:28:52.530932+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 December 2019 – Voting Intentions</title>
@@ -30,14 +50,34 @@
       <dc:date>2019-12-16T20:43:33.789823+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 22–25 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-11-25-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 23–30 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 15–21 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 16–21 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 9–14 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 13–18 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 6–10 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 11–16 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 3–6 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4–7 seats&lt;/li&gt;&lt;li&gt;50Plus: 6–11 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–4 seats&lt;/li&gt;&lt;li&gt;DENK: 1–4 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 12–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-25-Ipsos-seats.png"
+        length="294082"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 18:48:00 +0100</pubDate>
+      <dc:date>2019-12-28T18:48:00.590732+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 22–25 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-11-25-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-25-Ipsos-coalitions-seats.png"
+        length="601032"
+        type="image/png"/>
+      <pubDate>Sat, 28 Dec 2019 18:48:00 +0100</pubDate>
+      <dc:date>2019-12-28T18:48:00.590732+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 22–25 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-11-25-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 15.0–19.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 9.8–13.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 10.1–14.1%&lt;/li&gt;&lt;li&gt;Democraten 66: 6.2–9.5%&lt;/li&gt;&lt;li&gt;GroenLinks: 8.8–12.6%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 7.2–10.7%&lt;/li&gt;&lt;li&gt;ChristenUnie: 2.7–5.0%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.0–5.4%&lt;/li&gt;&lt;li&gt;50Plus: 4.3–7.2%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.5–3.4%&lt;/li&gt;&lt;li&gt;DENK: 1.0–2.5%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 7.5–11.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-25-Ipsos.png"
         length="387629"
         type="image/png"/>
-      <pubDate>Sat, 21 Dec 2019 17:46:12 +0100</pubDate>
-      <dc:date>2019-12-21T17:46:12.641096+01:00</dc:date>
+      <pubDate>Sat, 28 Dec 2019 18:48:00 +0100</pubDate>
+      <dc:date>2019-12-28T18:48:00.590732+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 7–13 November 2019 – Voting Intentions</title>
@@ -179,6 +219,6 @@
       <pubDate>Wed, 28 Aug 2019 20:41:26 +0200</pubDate>
       <dc:date>2019-08-28T20:41:26.556379+02:00</dc:date>
     </item>
-    <dc:date>2019-12-21T19:25:00.693857+01:00</dc:date>
+    <dc:date>2019-12-28T18:48:00.590732+01:00</dc:date>
   </channel>
 </rss>
