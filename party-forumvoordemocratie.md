@@ -10,8 +10,8 @@ Last result: **1.8%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.5–10.1% | 7.1–10.5% | 6.8–10.8% | 6.3–11.4% |
-| [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 12.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 9.3% | 7.7–12.2% | 7.3–12.5% | 6.9–12.8% | 6.3–13.3% |
+| [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [25–30 November 2019](2019-11-30-Peilnl.html) | Peil.nl | 11.3% | N/A | N/A | N/A | N/A |
@@ -157,14 +157,16 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.2% | 100% |  |
-| 6.5–7.5% | 10% | 98.7% |  |
-| 7.5–8.5% | 27% | 89% |  |
-| 8.5–9.5% | 37% | 62% | Median |
-| 9.5–10.5% | 20% | 24% |  |
-| 10.5–11.5% | 4% | 4% |  |
-| 11.5–12.5% | 0.3% | 0.4% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.9% | 100% |  |
+| 6.5–7.5% | 7% | 99.1% |  |
+| 7.5–8.5% | 20% | 92% |  |
+| 8.5–9.5% | 28% | 71% | Median |
+| 9.5–10.5% | 15% | 43% |  |
+| 10.5–11.5% | 8% | 28% |  |
+| 11.5–12.5% | 15% | 20% |  |
+| 12.5–13.5% | 5% | 5% |  |
+| 13.5–14.5% | 0.2% | 0.2% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -175,15 +177,15 @@ Last result: **2** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 11–17 |
-| [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 14 | 11–19 | 11–19 | 11–19 | 11–21 |
+| [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 19 | 18–19 | 17–19 | 17–20 | 16–21 |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 19 | 17–22 | 17–22 | 16–22 | 16–22 |
 | [25–30 November 2019](2019-11-30-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [22–25 November 2019](2019-11-25-Ipsos.html) | Ipsos <br> EenVandaag | 15 | 13–16 | 12–16 | 12–17 | 11–18 |
 | [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
+| [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 14 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 13 | 11–13 | 11–13 | 11–13 | 10–14 |
@@ -327,17 +329,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 0.3% | 99.8% |  |
-| 11 | 13% | 99.6% |  |
-| 12 | 9% | 86% |  |
-| 13 | 29% | 77% | Median |
-| 14 | 11% | 48% |  |
-| 15 | 32% | 37% |  |
-| 16 | 4% | 5% |  |
-| 17 | 1.2% | 2% |  |
-| 18 | 0.1% | 0.3% |  |
-| 19 | 0.1% | 0.2% |  |
-| 20 | 0% | 0% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.2% | 99.9% |  |
+| 11 | 11% | 99.7% |  |
+| 12 | 3% | 89% |  |
+| 13 | 21% | 86% |  |
+| 14 | 15% | 65% | Median |
+| 15 | 21% | 50% |  |
+| 16 | 3% | 28% |  |
+| 17 | 2% | 26% |  |
+| 18 | 5% | 23% |  |
+| 19 | 17% | 18% |  |
+| 20 | 0.3% | 0.9% |  |
+| 21 | 0.5% | 0.6% |  |
+| 22 | 0% | 0% |  |
 
 
