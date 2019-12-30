@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/dutch_polls</id>
   <title>All Registered Polls for the Tweede Kamer</title>
-  <updated>2019-12-28T20:18:02.62828+01:00</updated>
+  <updated>2019-12-29T21:14:45.524815+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 11.5–13.9%, 18–21 seats</li><li>Partij voor de Vrijheid: 11.5–13.9%, 17–22 seats</li><li>Christen-Democratisch Appèl: 9.0–11.1%, 13–17 seats</li><li>Democraten 66: 7.1–9.0%, 10–14 seats</li><li>GroenLinks: 7.1–9.0%, 10–14 seats</li><li>Socialistische Partij: 5.2–6.9%, 8–10 seats</li><li>Partij van de Arbeid: 11.5–13.9%, 17–21 seats</li><li>ChristenUnie: 4.0–5.5%, 6–8 seats</li><li>Partij voor de Dieren: 3.4–4.8%, 5–7 seats</li><li>50Plus: 4.0–5.5%, 5–8 seats</li><li>Staatkundig Gereformeerde Partij: 1.6–2.6%, 2–4 seats</li><li>DENK: 1.6–2.6%, 2–3 seats</li><li>Forum voor Democratie: 10.9–13.2%, 17–20 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2019-12-21-Peilnl.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2019-12-21-Peilnl.html"/>
+    <title>Opinion Poll by Peil.nl, 16–21 December 2019</title>
+    <updated>2019-12-29T21:14:45.524815+01:00</updated>
+    <dc:date>2019-12-29T21:14:45.524815+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 11.5–13.9%, 18–21 seats</li><li>Partij voor de Vrijheid: 11.5–13.9%, 17–22 seats</li><li>Christen-Democratisch Appèl: 9.0–11.1%, 13–17 seats</li><li>Democraten 66: 7.1–9.0%, 10–14 seats</li><li>GroenLinks: 7.1–9.0%, 10–14 seats</li><li>Socialistische Partij: 5.2–6.9%, 8–10 seats</li><li>Partij van de Arbeid: 11.5–13.9%, 17–21 seats</li><li>ChristenUnie: 4.0–5.5%, 6–8 seats</li><li>Partij voor de Dieren: 3.4–4.8%, 5–7 seats</li><li>50Plus: 4.0–5.5%, 5–8 seats</li><li>Staatkundig Gereformeerde Partij: 1.6–2.6%, 2–4 seats</li><li>DENK: 1.6–2.6%, 2–3 seats</li><li>Forum voor Democratie: 10.9–13.2%, 17–20 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/dutch_polls/2019-12-14-Peilnl.html</id>
@@ -55,5 +63,5 @@
     <updated>2019-10-20T17:15:04.589433+02:00</updated>
     <dc:date>2019-10-20T17:15:04.589433+02:00</dc:date>
   </entry>
-  <dc:date>2019-12-28T20:18:02.62828+01:00</dc:date>
+  <dc:date>2019-12-29T21:14:45.524815+01:00</dc:date>
 </feed>
