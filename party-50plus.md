@@ -171,7 +171,7 @@ Last result: **4** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–9 | 5–9 | 5–11 | 4–11 |
+| N/A | [Poll Average](average.html) | 6 | 5–9 | 5–9 | 4–11 | 4–11 |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
@@ -182,7 +182,7 @@ Last result: **4** seats (General Election of 15 March 2017)
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 6 | 5–8 | 4–8 | 4–8 | 4–8 |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -316,11 +316,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.1% | 100% | Last Result |
-| 5 | 22% | 98.9% |  |
-| 6 | 33% | 77% | Median |
-| 7 | 20% | 44% |  |
-| 8 | 7% | 24% |  |
+| 4 | 3% | 100% | Last Result |
+| 5 | 19% | 97% |  |
+| 6 | 33% | 78% | Median |
+| 7 | 19% | 45% |  |
+| 8 | 9% | 27% |  |
 | 9 | 14% | 17% |  |
 | 10 | 0.8% | 4% |  |
 | 11 | 3% | 3% |  |

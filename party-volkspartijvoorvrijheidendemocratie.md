@@ -179,7 +179,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 19–32 | 19–32 | 19–32 | 17–32 |
+| N/A | [Poll Average](average.html) | 25 | 19–32 | 19–32 | 19–33 | 17–35 |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 19 | 19–21 | 18–21 | 18–21 | 17–22 |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 19 | 19–21 | 18–21 | 18–21 | 17–22 |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 19 | 18–21 | 17–21 | 17–21 | 17–22 |
@@ -190,7 +190,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 32 | 27–32 | 27–32 | 27–32 | 27–35 |
+| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 30 | 27–33 | 27–35 | 27–35 | 27–36 |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -334,16 +334,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 3% | 74% |  |
 | 25 | 22% | 71% | Median |
 | 26 | 3% | 49% |  |
-| 27 | 16% | 46% |  |
-| 28 | 13% | 30% |  |
-| 29 | 3% | 17% |  |
-| 30 | 1.4% | 14% |  |
-| 31 | 0.3% | 13% |  |
-| 32 | 12% | 13% |  |
-| 33 | 0.1% | 0.5% | Last Result |
-| 34 | 0.1% | 0.4% |  |
-| 35 | 0.2% | 0.3% |  |
-| 36 | 0.1% | 0.1% |  |
+| 27 | 12% | 46% |  |
+| 28 | 13% | 34% |  |
+| 29 | 5% | 21% |  |
+| 30 | 3% | 15% |  |
+| 31 | 2% | 12% |  |
+| 32 | 8% | 11% |  |
+| 33 | 0.1% | 3% | Last Result |
+| 34 | 0.3% | 2% |  |
+| 35 | 2% | 2% |  |
+| 36 | 0.1% | 0.2% |  |
 | 37 | 0% | 0% |  |
 
 

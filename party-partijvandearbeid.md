@@ -185,7 +185,7 @@ Last result: **9** seats (General Election of 15 March 2017)
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 15 | 14–16 | 13–18 | 13–18 | 13–18 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 16 | 16–17 | 16–17 | 16–17 | 13–18 |
+| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 17 | 15–17 | 15–18 | 15–18 | 13–19 |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -325,11 +325,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 2% | 96% |  |
 | 13 | 8% | 94% |  |
 | 14 | 17% | 87% |  |
-| 15 | 11% | 70% |  |
-| 16 | 19% | 59% | Median |
-| 17 | 14% | 40% |  |
-| 18 | 3% | 26% |  |
-| 19 | 1.5% | 23% |  |
+| 15 | 13% | 70% |  |
+| 16 | 15% | 57% | Median |
+| 17 | 13% | 41% |  |
+| 18 | 5% | 28% |  |
+| 19 | 2% | 23% |  |
 | 20 | 20% | 21% |  |
 | 21 | 1.5% | 2% |  |
 | 22 | 0.4% | 0.4% |  |

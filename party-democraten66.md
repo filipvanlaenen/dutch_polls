@@ -172,7 +172,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 9–13 | 9–14 | 8–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–14 | 8–14 |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 12 | 11–14 | 11–14 | 10–14 | 10–14 |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 12 | 11–14 | 11–14 | 10–14 | 10–14 |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
@@ -183,7 +183,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 11 | 9–12 | 9–12 | 9–13 | 9–13 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 10 | 10–12 | 10–12 | 10–12 | 8–12 |
+| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 10 | 10–12 | 10–12 | 9–12 | 7–12 |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -317,13 +317,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 0.1% | 99.9% |  |
-| 8 | 0.6% | 99.9% |  |
-| 9 | 5% | 99.3% |  |
-| 10 | 20% | 94% |  |
-| 11 | 22% | 74% |  |
-| 12 | 41% | 52% | Median |
+| 7 | 0.2% | 100% |  |
+| 8 | 0.6% | 99.8% |  |
+| 9 | 5% | 99.2% |  |
+| 10 | 22% | 94% |  |
+| 11 | 23% | 72% | Median |
+| 12 | 38% | 49% |  |
 | 13 | 6% | 11% |  |
 | 14 | 4% | 5% |  |
 | 15 | 0.1% | 0.2% |  |

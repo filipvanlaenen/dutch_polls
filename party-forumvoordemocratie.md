@@ -177,7 +177,7 @@ Last result: **2** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–19 | 11–19 | 11–19 | 11–20 |
+| N/A | [Poll Average](average.html) | 14 | 11–19 | 11–19 | 10–19 | 10–20 |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 19 | 17–22 | 17–22 | 16–22 | 16–22 |
@@ -188,7 +188,7 @@ Last result: **2** seats (General Election of 15 March 2017)
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 14 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 13 | 11–13 | 11–13 | 11–13 | 10–14 |
+| [1 November 2019](2019-11-01-KantarPublic.html) | Kantar Public | 12 | 10–13 | 10–13 | 10–13 | 9–15 |
 | [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -329,11 +329,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.1% | 100% |  |
-| 10 | 0.2% | 99.9% |  |
-| 11 | 11% | 99.7% |  |
-| 12 | 3% | 89% |  |
-| 13 | 21% | 86% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 4% | 99.7% |  |
+| 11 | 8% | 96% |  |
+| 12 | 6% | 89% |  |
+| 13 | 17% | 82% |  |
 | 14 | 15% | 65% | Median |
 | 15 | 21% | 50% |  |
 | 16 | 3% | 28% |  |
