@@ -172,8 +172,8 @@ Last result: **19** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–12 | 9–13 | 9–14 | 8–14 |
-| [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 12 | 12–14 | 11–14 | 10–14 | 10–14 |
+| N/A | [Poll Average](average.html) | 12 | 10–13 | 9–13 | 9–14 | 8–14 |
+| [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 12 | 11–14 | 11–14 | 10–14 | 10–14 |
 | [9–14 December 2019](2019-12-14-Peilnl.html) | Peil.nl | 12 | 11–14 | 11–14 | 10–14 | 10–14 |
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | [25–30 November 2019](2019-11-30-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -321,12 +321,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 99.9% |  |
 | 8 | 0.6% | 99.9% |  |
 | 9 | 5% | 99.3% |  |
-| 10 | 19% | 94% |  |
-| 11 | 20% | 75% |  |
-| 12 | 47% | 55% | Median |
-| 13 | 4% | 8% |  |
-| 14 | 4% | 4% |  |
-| 15 | 0.2% | 0.3% |  |
+| 10 | 20% | 94% |  |
+| 11 | 22% | 74% |  |
+| 12 | 41% | 52% | Median |
+| 13 | 6% | 11% |  |
+| 14 | 4% | 5% |  |
+| 15 | 0.1% | 0.2% |  |
 | 16 | 0% | 0.1% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
