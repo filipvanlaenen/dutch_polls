@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sun, 29 Dec 2019 21:14:45 +0100</pubDate>
+    <pubDate>Mon, 30 Dec 2019 20:35:42 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 16–21 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-12-21-Peilnl.html#seats</link>
@@ -140,14 +140,34 @@
       <dc:date>2019-12-28T20:18:02.62828+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Public, 1 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-11-01-KantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 27–35 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 16–20 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 10–14 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 9–12 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 16–19 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 7–10 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 15–18 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 6–9 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4–8 seats&lt;/li&gt;&lt;li&gt;50Plus: 4–8 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 3–5 seats&lt;/li&gt;&lt;li&gt;DENK: 0–1 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 10–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-01-KantarPublic-seats.png"
+        length="266341"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 20:35:42 +0100</pubDate>
+      <dc:date>2019-12-30T20:35:42.222755+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 1 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-11-01-KantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-01-KantarPublic-coalitions-seats.png"
+        length="519000"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 20:35:42 +0100</pubDate>
+      <dc:date>2019-12-30T20:35:42.222755+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Public, 1 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-11-01-KantarPublic.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 17.6–22.7%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 10.0–14.2%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 6.4–9.9%&lt;/li&gt;&lt;li&gt;Democraten 66: 5.3–8.5%&lt;/li&gt;&lt;li&gt;GroenLinks: 9.5–13.5%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.6–7.7%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 8.9–12.8%&lt;/li&gt;&lt;li&gt;ChristenUnie: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.5–6.1%&lt;/li&gt;&lt;li&gt;50Plus: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.8–3.9%&lt;/li&gt;&lt;li&gt;DENK: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 6.4–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-01-KantarPublic.png"
         length="385513"
         type="image/png"/>
-      <pubDate>Sat, 21 Dec 2019 19:25:00 +0100</pubDate>
-      <dc:date>2019-12-21T19:25:00.693857+01:00</dc:date>
+      <pubDate>Mon, 30 Dec 2019 20:35:42 +0100</pubDate>
+      <dc:date>2019-12-30T20:35:42.222755+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 2–7 September 2019 – Seat Projections for the Parties</title>
@@ -269,6 +289,6 @@
       <pubDate>Wed, 28 Aug 2019 20:41:26 +0200</pubDate>
       <dc:date>2019-08-28T20:41:26.556379+02:00</dc:date>
     </item>
-    <dc:date>2019-12-29T21:14:45.524815+01:00</dc:date>
+    <dc:date>2019-12-30T20:35:42.222755+01:00</dc:date>
   </channel>
 </rss>
