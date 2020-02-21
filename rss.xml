@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Thu, 20 Feb 2020 21:30:17 +0100</pubDate>
+    <pubDate>Fri, 21 Feb 2020 20:35:13 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 16–21 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-12-21-Peilnl.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-12-21-Ipsos.png"
         length="387322"
         type="image/png"/>
-      <pubDate>Thu, 20 Feb 2020 21:30:17 +0100</pubDate>
-      <dc:date>2020-02-20T21:30:17.308264+01:00</dc:date>
+      <pubDate>Fri, 21 Feb 2020 20:35:13 +0100</pubDate>
+      <dc:date>2020-02-21T20:35:13.135799+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 9–14 December 2019 – Seat Projections for the Parties</title>
@@ -299,6 +299,6 @@
       <pubDate>Wed, 28 Aug 2019 20:41:26 +0200</pubDate>
       <dc:date>2019-08-28T20:41:26.556379+02:00</dc:date>
     </item>
-    <dc:date>2020-02-20T21:30:17.308264+01:00</dc:date>
+    <dc:date>2020-02-21T20:35:13.135799+01:00</dc:date>
   </channel>
 </rss>
