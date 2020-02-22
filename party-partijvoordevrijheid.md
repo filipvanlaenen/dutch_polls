@@ -163,8 +163,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 3% | 100% |  |
-| 11.5–12.5% | 37% | 97% |  |
-| 12.5–13.5% | 52% | 60% | Last Result, Median |
+| 11.5–12.5% | 38% | 97% |  |
+| 12.5–13.5% | 51% | 59% | Last Result, Median |
 | 13.5–14.5% | 8% | 8% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -178,8 +178,8 @@ Last result: **20** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–21 | 15–22 | 13–22 |
-| [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 20 | 18–20 | 18–21 | 18–21 | 17–21 |
+| [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 20 | 18–20 | 18–21 | 18–21 | 17–21 |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos |  |  |  |  |  |
@@ -331,16 +331,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 1.2% | 100% |  |
-| 14 | 0.3% | 98.8% |  |
-| 15 | 2% | 98% |  |
-| 16 | 3% | 96% |  |
-| 17 | 10% | 93% |  |
-| 18 | 8% | 83% |  |
-| 19 | 53% | 75% | Median |
-| 20 | 17% | 22% | Last Result |
-| 21 | 2% | 5% |  |
-| 22 | 3% | 3% |  |
+| 16 | 0.3% | 100% |  |
+| 17 | 1.1% | 99.7% |  |
+| 18 | 15% | 98.6% |  |
+| 19 | 20% | 83% |  |
+| 20 | 56% | 64% | Last Result, Median |
+| 21 | 7% | 7% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
