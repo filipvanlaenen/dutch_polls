@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Mon, 24 Feb 2020 06:53:59 +0100</pubDate>
+    <pubDate>Fri, 28 Feb 2020 06:48:37 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 21–24 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-02-24-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 14.9–19.5%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 10.0–14.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 7.7–11.2%&lt;/li&gt;&lt;li&gt;Democraten 66: 6.8–10.2%&lt;/li&gt;&lt;li&gt;GroenLinks: 7.9–11.6%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 7.6–11.1%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 2.9–5.2%&lt;/li&gt;&lt;li&gt;50Plus: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.2–3.0%&lt;/li&gt;&lt;li&gt;DENK: 1.0–2.5%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 8.1–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-02-24-Ipsos.png"
+        length="387423"
+        type="image/png"/>
+      <pubDate>Fri, 28 Feb 2020 06:48:37 +0100</pubDate>
+      <dc:date>2020-02-28T06:48:37.754897+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 9–14 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2020-02-14-Peilnl.html</link>
@@ -359,6 +369,6 @@
       <pubDate>Wed, 28 Aug 2019 20:41:26 +0200</pubDate>
       <dc:date>2019-08-28T20:41:26.556379+02:00</dc:date>
     </item>
-    <dc:date>2020-02-24T06:53:59.477816+01:00</dc:date>
+    <dc:date>2020-02-28T06:48:37.754897+01:00</dc:date>
   </channel>
 </rss>
