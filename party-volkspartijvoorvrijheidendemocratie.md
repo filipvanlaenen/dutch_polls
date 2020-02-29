@@ -10,9 +10,9 @@ Last result: **21.3%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.4% | 16.0–18.7% | 15.6–19.0% | 15.2–19.4% | 14.5–20.1% |
+| N/A | [Poll Average](average.html) | 16.7% | 13.0–18.4% | 12.7–18.8% | 12.5–19.2% | 12.0–19.9% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 17.1% | 15.6–18.7% | 15.2–19.1% | 14.9–19.5% | 14.2–20.3% |
-| [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 13.3% | N/A | N/A | N/A | N/A |
+| [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 13.3% | 12.6–14.2% | 12.3–14.4% | 12.2–14.6% | 11.8–15.0% |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 13.3% | 12.6–14.2% | 12.3–14.4% | 12.2–14.6% | 11.8–15.0% |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 13.3% | 12.6–14.2% | 12.3–14.4% | 12.2–14.6% | 11.8–15.0% |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 12.7% | N/A | N/A | N/A | N/A |
@@ -163,14 +163,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.5% | 100% |  |
-| 14.5–15.5% | 4% | 99.4% |  |
-| 15.5–16.5% | 16% | 96% |  |
-| 16.5–17.5% | 35% | 80% | Median |
-| 17.5–18.5% | 33% | 45% |  |
-| 18.5–19.5% | 11% | 12% |  |
-| 19.5–20.5% | 1.5% | 2% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 3% | 100% |  |
+| 12.5–13.5% | 18% | 97% |  |
+| 13.5–14.5% | 12% | 79% |  |
+| 14.5–15.5% | 4% | 67% |  |
+| 15.5–16.5% | 10% | 64% |  |
+| 16.5–17.5% | 23% | 53% | Median |
+| 17.5–18.5% | 22% | 30% |  |
+| 18.5–19.5% | 7% | 8% |  |
+| 19.5–20.5% | 1.0% | 1.1% |  |
 | 20.5–21.5% | 0.1% | 0.1% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -183,9 +185,9 @@ Last result: **33** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 21–26 | 21–26 | 21–27 | 21–29 |
+| N/A | [Poll Average](average.html) | 21 | 21–26 | 21–26 | 19–26 | 17–28 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 21 | 21–26 | 21–26 | 21–27 | 21–28 |
-| [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 21 | 20–21 | 17–22 | 17–22 | 17–22 |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 21 | 20–21 | 19–22 | 19–22 | 17–23 |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 21 | 21 | 21 | 21 | 21 |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -338,17 +340,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 0.2% | 100% |  |
-| 21 | 31% | 99.8% |  |
-| 22 | 2% | 68% |  |
-| 23 | 8% | 66% |  |
-| 24 | 0.7% | 58% |  |
-| 25 | 0.4% | 57% |  |
-| 26 | 54% | 57% | Median |
-| 27 | 2% | 3% |  |
-| 28 | 0.8% | 1.3% |  |
-| 29 | 0.4% | 0.6% |  |
-| 30 | 0.2% | 0.2% |  |
+| 17 | 2% | 100% |  |
+| 18 | 0.3% | 98% |  |
+| 19 | 0.2% | 98% |  |
+| 20 | 2% | 97% |  |
+| 21 | 48% | 95% | Median |
+| 22 | 4% | 48% |  |
+| 23 | 5% | 44% |  |
+| 24 | 0.5% | 39% |  |
+| 25 | 0.3% | 38% |  |
+| 26 | 36% | 38% |  |
+| 27 | 1.1% | 2% |  |
+| 28 | 0.5% | 0.9% |  |
+| 29 | 0.3% | 0.4% |  |
+| 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% | Last Result |
