@@ -17,7 +17,7 @@ Last result: **9.1%** (General Election of 15 March 2017)
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.3–11.9% | 7.8–12.6% |
-| [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 8.0% | N/A | N/A | N/A | N/A |
+| [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 11.8% | 11.0–12.7% | 10.7–13.0% | 10.5–13.2% | 10.1–13.7% |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.0–9.1% | 6.8–9.4% |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
@@ -190,7 +190,7 @@ Last result: **14** seats (General Election of 15 March 2017)
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 12 | 12 | 12 | 12 | 12 |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 12 | 12–13 | 11–13 | 11–14 | 10–14 |
 | [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 14 | 12–16 | 12–16 | 12–16 | 11–19 |
-| [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 13 | 13 | 13 | 13 | 13 |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 18 | 18 | 17–20 | 17–20 | 16–20 |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [16–21 December 2019](2019-12-21-Peilnl.html) | Peil.nl | 11 | 11–13 | 10–14 | 10–14 | 10–14 |
