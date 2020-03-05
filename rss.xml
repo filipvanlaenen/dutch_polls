@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sun, 01 Mar 2020 21:49:31 +0100</pubDate>
+    <pubDate>Thu, 05 Mar 2020 06:52:29 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 21–24 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2020-02-24-Ipsos.html</link>
@@ -68,6 +68,16 @@
         type="image/png"/>
       <pubDate>Sun, 23 Feb 2020 19:00:36 +0100</pubDate>
       <dc:date>2020-02-23T19:00:36.124782+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 10–18 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-01-18-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 11.5–13.9%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 11.5–13.9%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 8.3–10.4%&lt;/li&gt;&lt;li&gt;Democraten 66: 7.7–9.7%&lt;/li&gt;&lt;li&gt;GroenLinks: 7.1–9.0%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 10.9–13.2%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.4–4.8%&lt;/li&gt;&lt;li&gt;50Plus: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2.1–3.3%&lt;/li&gt;&lt;li&gt;DENK: 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 10.2–12.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-01-18-Peilnl.png"
+        length="330739"
+        type="image/png"/>
+      <pubDate>Thu, 05 Mar 2020 06:52:29 +0100</pubDate>
+      <dc:date>2020-03-05T06:52:29.183646+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 10–14 January 2020 – Voting Intentions</title>
@@ -389,6 +399,6 @@
       <pubDate>Wed, 28 Aug 2019 20:41:26 +0200</pubDate>
       <dc:date>2019-08-28T20:41:26.556379+02:00</dc:date>
     </item>
-    <dc:date>2020-03-01T21:49:31.800855+01:00</dc:date>
+    <dc:date>2020-03-05T06:52:29.183646+01:00</dc:date>
   </channel>
 </rss>
