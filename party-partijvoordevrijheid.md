@@ -10,15 +10,19 @@ Last result: **13.1%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.8% | 6.5–12.5% | 6.2–13.0% | 6.0–13.4% | 5.7–14.2% |
+| N/A | [Poll Average](average.html) | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
+| [1–31 March 2020](2020-03-31-Ipsos.html) | Ipsos <br> EenVandaag | 10.0% | N/A | N/A | N/A | N/A |
+| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 10.0% | N/A | N/A | N/A | N/A |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 11.0% | 10.2–11.9% | 10.0–12.2% | 9.8–12.4% | 9.4–12.8% |
-| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
+| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–14.0% | 9.4–14.6% |
+| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 12.6% | N/A | N/A | N/A | N/A |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 10.7% | 9.6–12.0% | 9.3–12.4% | 9.0–12.7% | 8.5–13.4% |
+| [21–26 January 2020](2020-01-26-Peilnl.html) | Peil.nl | 12.7% | N/A | N/A | N/A | N/A |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 10.7% | 9.9–11.6% | 9.7–11.9% | 9.5–12.1% | 9.1–12.5% |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
@@ -165,17 +169,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 13% | 99.9% |  |
-| 6.5–7.5% | 19% | 87% |  |
-| 7.5–8.5% | 1.2% | 68% |  |
-| 8.5–9.5% | 0.6% | 67% |  |
-| 9.5–10.5% | 10% | 66% |  |
-| 10.5–11.5% | 28% | 56% | Median |
-| 11.5–12.5% | 19% | 28% |  |
-| 12.5–13.5% | 7% | 9% | Last Result |
-| 13.5–14.5% | 2% | 2% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 3% | 100% |  |
+| 11.5–12.5% | 38% | 97% |  |
+| 12.5–13.5% | 51% | 59% | Last Result, Median |
+| 13.5–14.5% | 8% | 8% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -188,15 +186,19 @@ Last result: **20** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 9–19 | 9–20 | 8–20 | 8–21 |
-| [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 18 | 16–19 | 14–19 | 14–19 | 14–19 |
-| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
+| N/A | [Poll Average](average.html) | 19 | 18–20 | 18–20 | 16–20 | 16–21 |
+| [1–31 March 2020](2020-03-31-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 15 | 15–16 | 15–17 | 15–18 | 15–19 |
+| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 19 | 18–20 | 18–20 | 16–20 | 16–21 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 19 | 17–20 | 15–20 | 15–20 | 15–22 |
+| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 19 | 17–20 | 17–20 | 17–20 | 17–21 |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 20 | 20 | 20 | 20 | 20 |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 19 | 18–19 | 18–19 | 18–21 | 17–21 |
 | [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 17 | 15–18 | 14–20 | 13–20 | 13–20 |
+| [21–26 January 2020](2020-01-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 20 | 20 | 20 | 20 | 20 |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 17 | 17 | 17 | 17 | 15–19 |
 | [6–11 January 2020](2020-01-11-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -345,22 +347,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 3% | 100% |  |
-| 9 | 11% | 97% |  |
-| 10 | 13% | 86% |  |
-| 11 | 6% | 73% |  |
-| 12 | 0.5% | 67% |  |
-| 13 | 0.1% | 67% |  |
-| 14 | 3% | 67% |  |
-| 15 | 3% | 64% |  |
-| 16 | 8% | 61% |  |
-| 17 | 6% | 53% | Median |
-| 18 | 20% | 47% |  |
-| 19 | 19% | 27% |  |
-| 20 | 7% | 8% | Last Result |
-| 21 | 0.4% | 0.6% |  |
-| 22 | 0.2% | 0.3% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 16 | 4% | 100% |  |
+| 17 | 0.1% | 96% |  |
+| 18 | 8% | 95% |  |
+| 19 | 46% | 87% | Median |
+| 20 | 41% | 41% | Last Result |
+| 21 | 0.2% | 0.7% |  |
+| 22 | 0.4% | 0.4% |  |
+| 23 | 0% | 0% |  |
 
 
