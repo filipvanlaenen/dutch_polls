@@ -191,11 +191,11 @@ Last result: **33** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–21 | 19–21 | 17–22 | 17–22 |
+| N/A | [Poll Average](average.html) | 21 | 19–22 | 19–22 | 18–23 | 17–23 |
 | [1–31 March 2020](2020-03-31-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research |  |  |  |  |  |
-| [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 28 | 28 | 28 | 27–29 | 26–31 |
-| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 21 | 19–21 | 19–21 | 17–22 | 17–22 |
+| [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 28 | 28–29 | 27–29 | 27–29 | 25–31 |
+| [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 21 | 19–22 | 19–22 | 18–23 | 17–23 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 24 | 22–28 | 22–28 | 22–28 | 22–30 |
 | [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 21 | 19–22 | 19–22 | 18–23 | 17–23 |
@@ -352,14 +352,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 3% | 100% |  |
-| 18 | 0.4% | 97% |  |
-| 19 | 43% | 97% |  |
-| 20 | 3% | 54% |  |
-| 21 | 47% | 51% | Median |
-| 22 | 4% | 4% |  |
-| 23 | 0.2% | 0.2% |  |
-| 24 | 0% | 0% |  |
+| 17 | 0.7% | 100% |  |
+| 18 | 3% | 99.3% |  |
+| 19 | 13% | 96% |  |
+| 20 | 7% | 83% |  |
+| 21 | 65% | 76% | Median |
+| 22 | 9% | 12% |  |
+| 23 | 3% | 3% |  |
+| 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |
