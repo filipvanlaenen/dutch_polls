@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sat, 04 Apr 2020 19:52:32 +0200</pubDate>
+    <pubDate>Sat, 04 Apr 2020 20:34:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by I&amp;O Research, 5–10 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2020-03-10-IOResearch.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-03-10-IOResearch.png"
         length="346458"
         type="image/png"/>
-      <pubDate>Sat, 04 Apr 2020 19:52:32 +0200</pubDate>
-      <dc:date>2020-04-04T19:52:32.016543+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2020 20:11:22 +0200</pubDate>
+      <dc:date>2020-04-04T20:11:22.831721+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 1–6 March 2020 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-03-06-Peilnl.png"
         length="335501"
         type="image/png"/>
-      <pubDate>Sat, 04 Apr 2020 18:27:24 +0200</pubDate>
-      <dc:date>2020-04-04T18:27:24.152921+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2020 20:34:58 +0200</pubDate>
+      <dc:date>2020-04-04T20:34:58.251125+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 21–24 February 2020 – Voting Intentions</title>
@@ -419,6 +419,6 @@
       <pubDate>Wed, 28 Aug 2019 20:41:26 +0200</pubDate>
       <dc:date>2019-08-28T20:41:26.556379+02:00</dc:date>
     </item>
-    <dc:date>2020-04-04T19:52:32.016543+02:00</dc:date>
+    <dc:date>2020-04-04T20:34:58.251125+02:00</dc:date>
   </channel>
 </rss>
