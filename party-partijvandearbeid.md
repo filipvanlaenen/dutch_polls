@@ -17,9 +17,9 @@ Last result: **5.7%** (General Election of 15 March 2017)
 | [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 9.3% | 8.6–10.1% | 8.4–10.4% | 8.2–10.6% | 7.8–11.0% |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 9.5% | 8.7–10.3% | 8.5–10.6% | 8.3–10.8% | 8.0–11.2% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
-| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 11.3% | N/A | N/A | N/A | N/A |
+| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.1% | 7.1–11.8% |
-| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 11.3% | N/A | N/A | N/A | N/A |
+| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.5–13.6% |
@@ -263,9 +263,9 @@ Last result: **9** seats (General Election of 15 March 2017)
 | [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 14 | 14–15 | 14–15 | 13–16 | 12–16 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 16 | 13–16 | 12–16 | 12–16 | 12–17 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 16 | 16–18 | 16–18 | 16–18 | 16–19 |
-| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 17 | 17–18 | 17–19 | 15–19 | 14–19 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 14 | 13–16 | 12–16 | 12–16 | 10–18 |
-| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 17 | 17–18 | 17–19 | 15–19 | 14–19 |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 17 | 16–19 | 16–19 | 16–19 | 14–19 |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 19 | 16–20 | 16–20 | 16–21 | 16–21 |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 18 | 18 | 18 | 18 | 18 |
