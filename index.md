@@ -2,14 +2,14 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | VVD | PVV | CDA | D66 | GL | SP | PvdA | CU | PvdD | 50+ | SGP | DENK | FvD | PP | B1 |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 15 March 2017 | General Election | 21.3% <br> 33 | 13.1% <br> 20 | 12.4% <br> 19 | 12.2% <br> 19 | 9.1% <br> 14 | 9.1% <br> 14 | 5.7% <br> 9 | 3.4% <br> 5 | 3.2% <br> 5 | 3.1% <br> 4 | 2.1% <br> 3 | 2.1% <br> 3 | 1.8% <br> 2 | 0.3% <br> 0 | 0.3% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–27% <br> 32–42 | 8–13% <br> 12–18 | 8–12% <br> 12–18 | 5–9% <br> 8–12 | 8–12% <br> 12–17 | 4–7% <br> 8–10 | 8–14% <br> 14–20 | 4–6% <br> 5–9 | 3–5% <br> 4–6 | 0–6% <br> 0–9 | 2–3% <br> 3–4 | 0–2% <br> 0–3 | 6–9% <br> 9–13 | N/A <br> N/A | N/A <br> N/A |
-| [10 May 2020](2020-05-10-Peilnl.html) | Peil.nl | 20–23% <br> 32–35 | 11–13% <br> 18–20 | 10–13% <br> 16–18 | 6–8% <br> 9–11 | 8–10% <br> 13–15 | 6–8% <br> 9–10 | 12–14% <br> 17–20 | 5–6% <br> 7–10 | 3–4% <br> 4–6 | 0–1% <br> 0–1 | 2–3% <br> 3–4 | 0–1% <br> 0–1 | 6–8% <br> 11–13 | N/A <br> N/A | N/A <br> N/A |
-| [24–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> EenVandaag | 22–27% <br> 36–42 | 7–11% <br> 11–17 | 8–11% <br> 12–15 | 6–10% <br> 10–12 | 7–11% <br> 12–14 | 4–7% <br> 6–9 | 8–12% <br> 13–18 | 4–7% <br> 5–9 | 3–5% <br> 4–7 | 4–7% <br> 6–10 | 1–3% <br> 1–4 | 1–3% <br> 1–3 | 5–9% <br> 8–12 | N/A <br> N/A | N/A <br> N/A |
-| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 22–26% <br> 35–39 | 9–11% <br> 14–17 | 8–11% <br> 13–15 | 5–7% <br> 8–10 | 9–12% <br> 15–17 | 5–7% <br> 8–10 | 8–11% <br> 13–16 | 4–6% <br> 6–8 | 3–5% <br> 5–6 | 4–6% <br> 6–8 | 2–3% <br> 3–4 | 0–1% <br> 0–1 | 7–9% <br> 11–13 | N/A <br> N/A | N/A <br> N/A |
-| 15 March 2017 | General Election | 21.3% <br> 33 | 13.1% <br> 20 | 12.4% <br> 19 | 12.2% <br> 19 | 9.1% <br> 14 | 9.1% <br> 14 | 5.7% <br> 9 | 3.4% <br> 5 | 3.2% <br> 5 | 3.1% <br> 4 | 2.1% <br> 3 | 2.1% <br> 3 | 1.8% <br> 2 | 0.3% <br> 0 | 0.3% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | VVD | PVV | CDA | D66 | GL | SP | PvdA | CU | PvdD | 50+ | SGP | DENK | FvD | PP | B1 | PvdT |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 15 March 2017 | General Election | 21.3% <br> 33 | 13.1% <br> 20 | 12.4% <br> 19 | 12.2% <br> 19 | 9.1% <br> 14 | 9.1% <br> 14 | 5.7% <br> 9 | 3.4% <br> 5 | 3.2% <br> 5 | 3.1% <br> 4 | 2.1% <br> 3 | 2.1% <br> 3 | 1.8% <br> 2 | 0.3% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 20–27% <br> 32–42 | 8–13% <br> 12–20 | 8–12% <br> 12–17 | 6–9% <br> 9–12 | 7–10% <br> 12–15 | 4–8% <br> 8–11 | 8–14% <br> 14–19 | 4–6% <br> 5–9 | 3–5% <br> 4–6 | 0–6% <br> 0–9 | 1–3% <br> 2–5 | 0–2% <br> 0–3 | 6–8% <br> 8–13 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0–1 |
+| [15 May 2020](2020-05-15-IOResearch.html) | I&O Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10 May 2020](2020-05-10-Peilnl.html) | Peil.nl | 20–23% <br> 32–35 | 11–13% <br> 17–20 | 10–12% <br> 16–17 | 6–8% <br> 9–11 | 8–10% <br> 12–15 | 6–8% <br> 9–11 | 11–14% <br> 17–19 | 5–6% <br> 6–8 | 3–4% <br> 4–6 | 0–1% <br> 0–1 | 2–3% <br> 2–5 | 0–1% <br> 0–1 | 6–8% <br> 10–13 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0–1 |
+| [24–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> EenVandaag | 22–27% <br> 36–42 | 7–11% <br> 11–17 | 8–11% <br> 12–15 | 6–10% <br> 10–12 | 7–11% <br> 12–14 | 4–7% <br> 6–9 | 8–12% <br> 13–18 | 4–7% <br> 5–9 | 3–5% <br> 4–7 | 4–7% <br> 6–10 | 1–3% <br> 1–4 | 1–3% <br> 1–3 | 5–9% <br> 8–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 15 March 2017 | General Election | 21.3% <br> 33 | 13.1% <br> 20 | 12.4% <br> 19 | 12.2% <br> 19 | 9.1% <br> 14 | 9.1% <br> 14 | 5.7% <br> 9 | 3.4% <br> 5 | 3.2% <br> 5 | 3.1% <br> 4 | 2.1% <br> 3 | 2.1% <br> 3 | 1.8% <br> 2 | 0.3% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -31,6 +31,7 @@ Only polls for which at least the sample size has been published are included in
 + **FvD:** Forum voor Democratie
 + **PP:** Piratenpartij
 + **B1:** Bij1
++ **PvdT:** Partij voor de Toekomst
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
