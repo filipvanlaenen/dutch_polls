@@ -10,13 +10,14 @@ Last result: **2.1%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–2.0% | 0.5–2.2% | 0.4–2.4% | 0.4–2.8% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.6–2.1% | 0.5–2.3% | 0.5–2.5% | 0.4–2.9% |
+| [15 May 2020](2020-05-15-IOResearch.html) | I&O Research | 0.7% | N/A | N/A | N/A | N/A |
 | [10 May 2020](2020-05-10-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
-| [3 May 2020](2020-05-03-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
+| [3 May 2020](2020-05-03-Peilnl.html) | Peil.nl | 1.3% | N/A | N/A | N/A | N/A |
 | [26 April 2020](2020-04-26-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [24–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> EenVandaag | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.9–3.0% |
 | [27–30 March 2020](2020-03-30-Ipsos.html) | Ipsos <br> EenVandaag | 1.9% | 1.4–2.6% | 1.3–2.7% | 1.2–2.9% | 1.0–3.3% |
-| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 0.7% | 0.5–1.0% | 0.5–1.0% | 0.4–1.1% | 0.4–1.3% |
+| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 0.7% | N/A | N/A | N/A | N/A |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.6–1.4% | 0.5–1.6% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
@@ -238,10 +239,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 10% | 100% |  |
-| 0.5–1.5% | 67% | 90% | Median |
-| 1.5–2.5% | 21% | 23% | Last Result |
-| 2.5–3.5% | 1.3% | 1.4% |  |
+| 0.0–0.5% | 8% | 100% |  |
+| 0.5–1.5% | 58% | 92% | Median |
+| 1.5–2.5% | 32% | 34% | Last Result |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -253,13 +254,14 @@ Last result: **3** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
+| [15 May 2020](2020-05-15-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [10 May 2020](2020-05-10-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3 May 2020](2020-05-03-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3 May 2020](2020-05-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [26 April 2020](2020-04-26-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [24–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [27–30 March 2020](2020-03-30-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 1–4 | 1–4 | 1–5 |
-| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -483,11 +485,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 52% | 84% | Median |
-| 2 | 19% | 32% |  |
-| 3 | 13% | 14% | Last Result |
-| 4 | 0.4% | 0.5% |  |
+| 0 | 6% | 100% |  |
+| 1 | 45% | 94% | Median |
+| 2 | 28% | 48% |  |
+| 3 | 20% | 20% | Last Result |
+| 4 | 0.6% | 0.7% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
