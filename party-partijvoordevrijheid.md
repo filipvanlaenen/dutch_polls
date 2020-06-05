@@ -15,11 +15,11 @@ Last result: **13.1%** (General Election of 15 March 2017)
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 12.0% | 11.2–12.8% | 11.0–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 8.4% | 7.6–9.2% | 7.4–9.4% | 7.3–9.7% | 6.9–10.1% |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 12.0% | 11.2–12.8% | 11.0–13.0% | 10.9–13.2% | 10.5–13.6% |
-| [1–2 May 2020](2020-05-02-Peilnl.html) | Peil.nl | 12.0% | N/A | N/A | N/A | N/A |
+| [1–2 May 2020](2020-05-02-Peilnl.html) | Peil.nl | 12.0% | 11.2–12.8% | 11.0–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [26 April 2020](2020-04-26-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [24–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> EenVandaag | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 7.0–11.6% |
 | [27–30 March 2020](2020-03-30-Ipsos.html) | Ipsos <br> EenVandaag | 10.0% | 8.9–11.3% | 8.5–11.6% | 8.3–12.0% | 7.8–12.6% |
-| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 9.9% | N/A | N/A | N/A | N/A |
+| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 9.9% | 9.1–10.7% | 8.9–11.0% | 8.7–11.2% | 8.4–11.6% |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 11.0% | 10.2–11.9% | 10.0–12.2% | 9.8–12.4% | 9.4–12.8% |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 12.6% | 11.9–13.4% | 11.7–13.7% | 11.5–13.9% | 11.1–14.3% |
@@ -29,7 +29,7 @@ Last result: **13.1%** (General Election of 15 March 2017)
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
-| [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 10.3% | N/A | N/A | N/A | N/A |
+| [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 10.3% | 9.1–11.6% | 8.8–11.9% | 8.6–12.3% | 8.1–12.9% |
 | [21–26 January 2020](2020-01-26-Peilnl.html) | Peil.nl | 12.7% | N/A | N/A | N/A | N/A |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 10.7% | 9.9–11.6% | 9.7–11.9% | 9.5–12.1% | 9.1–12.5% |
@@ -266,11 +266,11 @@ Last result: **20** seats (General Election of 15 March 2017)
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 19 | 16–20 | 16–20 | 16–21 | 16–21 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 14 | 14 | 14 | 14 | 12–14 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 19 | 16–20 | 16–20 | 16–21 | 16–21 |
-| [1–2 May 2020](2020-05-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [1–2 May 2020](2020-05-02-Peilnl.html) | Peil.nl | 21 | 19–21 | 19–21 | 18–21 | 17–21 |
 | [26 April 2020](2020-04-26-Peilnl.html) | Peil.nl | 17 | 16–18 | 16–18 | 16–19 | 16–19 |
 | [24–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> EenVandaag | 14 | 12–17 | 12–17 | 11–17 | 11–17 |
 | [27–30 March 2020](2020-03-30-Ipsos.html) | Ipsos <br> EenVandaag | 16 | 14–16 | 13–18 | 13–19 | 12–19 |
-| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 15 | 14–16 | 14–16 | 14–16 | 13–19 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 15 | 15–17 | 15–17 | 15–18 | 15–19 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 20 | 18–20 | 17–20 | 17–20 | 17–20 |
 | [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 19 | 17–20 | 17–21 | 17–21 | 16–21 |
@@ -280,7 +280,7 @@ Last result: **20** seats (General Election of 15 March 2017)
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 19 | 17–20 | 17–20 | 17–20 | 17–21 |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 20 | 20 | 20 | 20 | 20 |
 | [27 January–1 February 2020](2020-02-01-Peilnl.html) | Peil.nl | 19 | 18–19 | 18–19 | 18–21 | 17–21 |
-| [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [24–27 January 2020](2020-01-27-Ipsos.html) | Ipsos | 13 | 13–19 | 13–19 | 13–19 | 12–20 |
 | [21–26 January 2020](2020-01-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [10–18 January 2020](2020-01-18-Peilnl.html) | Peil.nl | 20 | 20 | 20 | 20 | 20 |
 | [10–14 January 2020](2020-01-14-IOResearch.html) | I&O Research | 17 | 17 | 17 | 17 | 15–19 |
