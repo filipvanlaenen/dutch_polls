@@ -261,12 +261,12 @@ Last result: **5** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–9 | 4–9 | 4–9 |
-| [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–8 | 5–9 | 4–9 |
+| [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 6 | 6 | 6–7 | 6–8 | 6–8 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 4–9 | 4–9 | 4–9 | 4–9 |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–8 | 5–9 | 4–9 | 4–9 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 7 | 7–10 | 6–10 | 6–10 | 6–10 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 6 | 6 | 6 | 6 | 6–8 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 7 | 7–10 | 6–10 | 6–10 | 6–10 |
@@ -498,12 +498,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 4% | 100% |  |
-| 5 | 7% | 96% | Last Result |
-| 6 | 33% | 88% |  |
-| 7 | 29% | 55% | Median |
-| 8 | 4% | 27% |  |
-| 9 | 23% | 23% |  |
+| 4 | 1.2% | 100% |  |
+| 5 | 8% | 98.8% | Last Result |
+| 6 | 57% | 91% | Median |
+| 7 | 25% | 34% |  |
+| 8 | 7% | 9% |  |
+| 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
 
 

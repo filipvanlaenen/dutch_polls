@@ -266,12 +266,12 @@ Last result: **2** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–13 | 10–13 | 9–15 |
-| [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 10 | 10–11 | 10–11 | 10–12 | 10–13 |
+| N/A | [Poll Average](average.html) | 11 | 10–15 | 10–15 | 10–15 | 9–15 |
+| [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–13 | 9–14 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 12 | 11–12 | 11–12 | 10–12 | 9–13 |
+| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 10 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 13 | 12–13 | 9–13 | 9–14 | 9–15 |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 15 | 11–15 | 9–15 | 9–15 | 9–18 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 13 | 13 | 13 | 12–13 | 12–13 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
@@ -511,12 +511,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 2% | 100% |  |
-| 10 | 20% | 98% |  |
-| 11 | 18% | 77% |  |
-| 12 | 34% | 59% | Median |
-| 13 | 24% | 25% |  |
-| 14 | 0.3% | 1.0% |  |
-| 15 | 0.7% | 0.7% |  |
-| 16 | 0% | 0% |  |
+| 10 | 42% | 98% |  |
+| 11 | 16% | 56% | Median |
+| 12 | 15% | 40% |  |
+| 13 | 4% | 25% |  |
+| 14 | 0.7% | 22% |  |
+| 15 | 21% | 21% |  |
+| 16 | 0% | 0.3% |  |
+| 17 | 0% | 0.3% |  |
+| 18 | 0.3% | 0.3% |  |
+| 19 | 0% | 0% |  |
 
 
