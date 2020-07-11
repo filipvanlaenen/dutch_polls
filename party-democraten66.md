@@ -10,10 +10,10 @@ Last result: **12.2%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 6.1–8.5% | 5.8–8.7% | 5.5–8.9% | 5.1–9.3% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.3–8.3% | 6.0–8.6% | 5.7–8.8% | 5.2–9.2% |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 6.7% | N/A | N/A | N/A | N/A |
-| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 7.3% | N/A | N/A | N/A | N/A |
+| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 7.3% | 6.8–7.9% | 6.6–8.1% | 6.5–8.2% | 6.2–8.6% |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 6.7% | N/A | N/A | N/A | N/A |
 | [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
@@ -246,11 +246,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 18% | 97% |  |
-| 6.5–7.5% | 30% | 79% |  |
-| 7.5–8.5% | 41% | 49% | Median |
-| 8.5–9.5% | 8% | 8% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 13% | 98% |  |
+| 6.5–7.5% | 42% | 85% | Median |
+| 7.5–8.5% | 38% | 44% |  |
+| 8.5–9.5% | 5% | 6% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% | Last Result |
@@ -264,12 +264,12 @@ Last result: **19** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 9–13 | 9–13 | 8–14 |
-| [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
+| N/A | [Poll Average](average.html) | 12 | 10–13 | 9–13 | 9–14 | 8–14 |
+| [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 13 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 10 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 13 | 9–13 | 9–13 | 8–13 | 7–13 |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 13 | 9–13 | 9–13 | 8–13 | 7–14 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 7 | 7 | 7 | 7 | 7–9 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
@@ -501,14 +501,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.4% | 100% |  |
-| 8 | 1.0% | 99.6% |  |
-| 9 | 6% | 98.6% |  |
-| 10 | 0.3% | 93% |  |
-| 11 | 12% | 92% |  |
-| 12 | 31% | 80% | Median |
-| 13 | 48% | 49% |  |
-| 14 | 0.6% | 0.6% |  |
+| 7 | 0.3% | 100% |  |
+| 8 | 0.8% | 99.7% |  |
+| 9 | 4% | 98.9% |  |
+| 10 | 28% | 95% |  |
+| 11 | 10% | 67% |  |
+| 12 | 10% | 57% | Median |
+| 13 | 44% | 47% |  |
+| 14 | 4% | 4% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
