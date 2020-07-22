@@ -11,6 +11,7 @@ Last result: **21.3%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.5% | 21.8–28.2% | 21.3–28.9% | 21.0–29.4% | 20.4–30.4% |
+| [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 22.0% | 21.0–23.0% | 20.7–23.2% | 20.5–23.5% | 20.1–24.0% |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 24.9% | 23.7–26.2% | 23.4–26.5% | 23.1–26.8% | 22.5–27.4% |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 22.0% | 21.0–23.0% | 20.7–23.2% | 20.5–23.5% | 20.1–24.0% |
 | [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 27.3% | 25.6–29.1% | 25.1–29.6% | 24.7–30.1% | 23.9–31.0% |
@@ -53,9 +54,9 @@ Last result: **21.3%** (General Election of 15 March 2017)
 | [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 20.0% | 18.4–21.8% | 18.0–22.3% | 17.6–22.7% | 16.9–23.6% |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 17.0% | 15.8–18.4% | 15.4–18.8% | 15.1–19.1% | 14.5–19.8% |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 17.3% | 16.5–18.3% | 16.2–18.5% | 16.0–18.7% | 15.6–19.2% |
-| [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 18.0% | N/A | N/A | N/A | N/A |
-| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 21.6% | N/A | N/A | N/A | N/A |
-| [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 18.2% | N/A | N/A | N/A | N/A |
+| [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 18.0% | 17.1–18.9% | 16.9–19.2% | 16.7–19.4% | 16.2–19.9% |
+| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 21.6% | 20.0–23.3% | 19.6–23.8% | 19.2–24.2% | 18.4–25.1% |
+| [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 18.2% | 17.3–19.1% | 17.0–19.4% | 16.8–19.6% | 16.4–20.0% |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 18.0% | N/A | N/A | N/A | N/A |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 20.7% | N/A | N/A | N/A | N/A |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 19.3% | N/A | N/A | N/A | N/A |
@@ -274,9 +275,10 @@ Last result: **33** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 31–41 | 31–43 | 31–44 | 30–46 |
-| [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 37 | 37–39 | 37–39 | 37–39 | 35–41 |
-| [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 31 | 31 | 30–31 | 30–31 | 30–36 |
+| N/A | [Poll Average](average.html) | 40 | 34–41 | 34–43 | 34–44 | 34–46 |
+| [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 34 | 34 | 34 | 34–35 | 32–35 |
+| [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 41 | 38–41 | 37–41 | 37–41 | 36–43 |
+| [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 33 | 33–34 | 32–35 | 31–35 | 31–36 |
 | [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 40 | 40 | 40 | 40 | 40 |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 33 | 31–35 | 31–35 | 31–36 | 31–36 |
 | [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 40 | 40–44 | 40–44 | 40–46 | 36–47 |
@@ -317,9 +319,9 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 33 | 23–33 | 23–33 | 23–33 | 23–33 |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 27 | 27 | 26–27 | 26–27 | 26–28 |
-| [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
-| [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 31 | 31 | 31 | 31 | 26–31 |
+| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 28 | 28 | 28–30 | 28–38 | 28–38 |
+| [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 31 | 27–31 | 26–31 | 25–31 | 24–33 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research |  |  |  |  |  |
@@ -515,20 +517,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 2% | 100% |  |
-| 31 | 23% | 98% |  |
-| 32 | 0% | 75% |  |
-| 33 | 0% | 75% | Last Result |
-| 34 | 0.2% | 75% |  |
-| 35 | 0.1% | 75% |  |
-| 36 | 0.7% | 75% |  |
-| 37 | 21% | 74% |  |
-| 38 | 0.4% | 54% |  |
-| 39 | 3% | 53% |  |
-| 40 | 40% | 50% | Median |
-| 41 | 1.0% | 11% |  |
+| 32 | 0.2% | 100% |  |
+| 33 | 0.2% | 99.8% | Last Result |
+| 34 | 24% | 99.6% |  |
+| 35 | 0.8% | 76% |  |
+| 36 | 0.2% | 75% |  |
+| 37 | 2% | 75% |  |
+| 38 | 0.7% | 73% |  |
+| 39 | 6% | 72% |  |
+| 40 | 40% | 66% | Median |
+| 41 | 16% | 26% |  |
 | 42 | 4% | 10% |  |
-| 43 | 0.4% | 5% |  |
+| 43 | 0.5% | 5% |  |
 | 44 | 4% | 5% |  |
 | 45 | 0% | 0.7% |  |
 | 46 | 0.5% | 0.7% |  |
