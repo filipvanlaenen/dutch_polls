@@ -65,8 +65,8 @@ Last result: **13.1%** (General Election of 15 March 2017)
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
-| [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 10.9% | N/A | N/A | N/A | N/A |
-| [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 10.0% | N/A | N/A | N/A | N/A |
+| [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
+| [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 10.0% | 9.3–10.7% | 9.1–10.9% | 9.0–11.1% | 8.7–11.5% |
 | [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 10.0% | N/A | N/A | N/A | N/A |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 9.3% | N/A | N/A | N/A | N/A |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
@@ -327,8 +327,8 @@ Last result: **20** seats (General Election of 15 March 2017)
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 15 | 15 | 14–15 | 13–16 | 13–16 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 15 | 15 | 14–15 | 13–16 | 13–16 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 15 | 15–17 | 15–17 | 14–17 | 13–17 |
-| [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
-| [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 17 | 14–19 | 14–20 | 13–20 | 13–22 |
+| [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 15 | 15–17 | 15–17 | 14–17 | 13–17 |
 | [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 14 | 13–15 | 13–16 | 13–16 | 12–16 |

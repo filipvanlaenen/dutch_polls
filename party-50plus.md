@@ -65,8 +65,8 @@ Last result: **3.1%** (General Election of 15 March 2017)
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
-| [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 3.7% | N/A | N/A | N/A | N/A |
-| [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 4.0% | N/A | N/A | N/A | N/A |
+| [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
+| [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 6.0% | N/A | N/A | N/A | N/A |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 4.0% | N/A | N/A | N/A | N/A |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
@@ -322,8 +322,8 @@ Last result: **4** seats (General Election of 15 March 2017)
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
-| [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 4–7 | 4–7 | 4–7 | 3–7 |
+| [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
