@@ -11,7 +11,7 @@ Last result: **9.1%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.3% | 7.7–10.9% | 7.5–11.3% | 7.3–11.6% | 6.9–12.3% |
-| [16 August 2020](2020-08-16-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
+| [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
@@ -274,7 +274,7 @@ Last result: **14** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–17 | 12–20 | 11–20 | 10–20 |
-| [16 August 2020](2020-08-16-Peilnl.html) | Peil.nl | 13 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 13 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 11 | 11–12 | 11–13 | 11–13 | 10–14 |
 | [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 13 | 12–14 | 12–14 | 11–15 | 10–15 |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 11 | 11–12 | 11–13 | 11–13 | 10–14 |
