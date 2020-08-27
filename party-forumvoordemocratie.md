@@ -11,6 +11,7 @@ Last result: **1.8%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.6% | 6.4–9.0% | 6.1–9.5% | 5.8–10.0% | 5.2–10.8% |
+| [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 6.6% | 5.7–7.7% | 5.5–8.0% | 5.3–8.3% | 4.9–8.9% |
@@ -276,6 +277,7 @@ Last result: **2** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–14 | 9–17 | 8–17 | 8–17 |
+| [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 11 | 10–11 | 10–11 | 10–12 | 10–13 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 12 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 9 | 8–11 | 8–13 | 8–13 | 8–14 |
@@ -528,9 +530,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 4% | 99.9% |  |
 | 9 | 14% | 96% |  |
-| 10 | 13% | 82% |  |
-| 11 | 37% | 68% | Median |
-| 12 | 5% | 31% |  |
+| 10 | 9% | 82% |  |
+| 11 | 39% | 73% | Median |
+| 12 | 7% | 34% |  |
 | 13 | 14% | 27% |  |
 | 14 | 7% | 13% |  |
 | 15 | 0.7% | 6% |  |
