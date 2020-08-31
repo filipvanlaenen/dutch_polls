@@ -69,8 +69,8 @@ Last result: **3.4%** (General Election of 15 March 2017)
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 5.4% | N/A | N/A | N/A | N/A |
-| [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 4.0% | N/A | N/A | N/A | N/A |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 5.4% | 4.5–6.4% | 4.3–6.7% | 4.1–7.0% | 3.7–7.5% |
+| [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.7% | 3.3–4.8% | 3.2–5.1% |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 5.5% | 4.8–6.3% | 4.7–6.5% | 4.5–6.7% | 4.2–7.1% |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.3% |
@@ -330,7 +330,7 @@ Last result: **5** seats (General Election of 15 March 2017)
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 6–8 | 6–8 | 6–9 | 5–10 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 9 | 7–10 | 7–10 | 6–10 | 6–11 |

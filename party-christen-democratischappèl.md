@@ -69,8 +69,8 @@ Last result: **12.4%** (General Election of 15 March 2017)
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 9.3% | N/A | N/A | N/A | N/A |
-| [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 10.7% | N/A | N/A | N/A | N/A |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 9.3% | 8.2–10.7% | 7.9–11.0% | 7.7–11.4% | 7.1–12.0% |
+| [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 10.7% | 9.9–11.5% | 9.7–11.7% | 9.6–11.9% | 9.2–12.2% |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 10.7% | 10.0–11.4% | 9.8–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 9.9% | 9.0–10.9% | 8.8–11.2% | 8.6–11.5% | 8.2–12.0% |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.8% | 8.4–13.4% |
@@ -333,7 +333,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 15 | 15–17 | 15–18 | 15–18 | 13–19 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 16 | 13–17 | 12–17 | 12–17 | 11–19 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 15 | 15–17 | 15–18 | 15–18 | 13–19 |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 16 | 11–16 | 11–16 | 11–16 | 11–16 |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 14 | 14–17 | 13–17 | 13–17 | 12–18 |
