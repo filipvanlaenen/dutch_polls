@@ -70,7 +70,7 @@ Last result: **2.1%** (General Election of 15 March 2017)
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.9% | 1.5–4.3% |
-| [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.8% | 1.0–1.9% | 0.8–2.1% |
+| [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
@@ -330,7 +330,7 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 2–5 | 2–5 | 2–5 | 1–5 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
-| [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | [30 August–2 September 2019](2019-09-02-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
