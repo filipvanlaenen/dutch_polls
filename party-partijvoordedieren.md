@@ -10,21 +10,23 @@ Last result: **3.2%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.5–4.4% | 2.3–4.7% | 2.1–4.9% | 1.8–5.4% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.5–4.4% | 2.3–4.6% | 2.1–4.8% | 1.8–5.2% |
+| [30 August 2020](2020-08-30-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
+| [21–27 August 2020](2020-08-27-Ipsos.html) | Ipsos <br> EenVandaag | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.8–5.1% | 2.5–5.6% |
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
+| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 3.8% | N/A | N/A | N/A | N/A |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 3.1% | 2.6–3.6% | 2.5–3.8% | 2.4–3.9% | 2.2–4.2% |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 3.7% | N/A | N/A | N/A | N/A |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 2.7% | 2.1–3.5% | 1.9–3.7% | 1.8–3.9% | 1.6–4.4% |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 3.1% | 2.7–3.5% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 3.7% | N/A | N/A | N/A | N/A |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.4% | 2.6–4.7% |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
@@ -256,10 +258,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 10% | 99.9% |  |
-| 2.5–3.5% | 41% | 90% | Last Result |
-| 3.5–4.5% | 41% | 48% | Median |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 44% | 89% | Last Result, Median |
+| 3.5–4.5% | 40% | 45% |  |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -272,20 +274,22 @@ Last result: **5** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–7 | 2–8 |
+| [30 August 2020](2020-08-30-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
+| [21–27 August 2020](2020-08-27-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4–7 | 4–7 | 3–7 | 3–7 |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–5 | 3–6 | 3–6 | 3–7 |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 5 | 5 | 5 | 5 | 4–5 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
@@ -519,12 +523,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.8% | 100% |  |
 | 3 | 8% | 99.2% |  |
-| 4 | 27% | 92% |  |
-| 5 | 23% | 65% | Last Result, Median |
-| 6 | 38% | 41% |  |
-| 7 | 2% | 3% |  |
-| 8 | 0.8% | 0.8% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 4 | 32% | 91% |  |
+| 5 | 33% | 59% | Last Result, Median |
+| 6 | 22% | 26% |  |
+| 7 | 3% | 3% |  |
+| 8 | 0.5% | 0.5% |  |
+| 9 | 0% | 0% |  |
 
 
