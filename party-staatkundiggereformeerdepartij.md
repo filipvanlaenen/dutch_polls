@@ -273,8 +273,8 @@ Last result: **3** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–5 | 2–5 | 2–5 | 1–5 |
-| [30 August 2020](2020-08-30-Peilnl.html) | Peil.nl | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
-| [21–27 August 2020](2020-08-27-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–4 | 2–4 | 1–4 | 1–5 |
+| [30 August 2020](2020-08-30-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [21–27 August 2020](2020-08-27-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -520,11 +520,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.2% | 100% |  |
-| 2 | 12% | 98.8% |  |
-| 3 | 28% | 87% | Last Result |
-| 4 | 34% | 59% | Median |
-| 5 | 25% | 25% |  |
+| 1 | 0.7% | 100% |  |
+| 2 | 13% | 99.3% |  |
+| 3 | 30% | 87% | Last Result |
+| 4 | 34% | 56% | Median |
+| 5 | 22% | 22% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
