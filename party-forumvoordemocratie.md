@@ -16,17 +16,17 @@ Last result: **1.8%** (General Election of 15 March 2017)
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
-| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 6.5% | N/A | N/A | N/A | N/A |
+| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 6.5% | 5.6–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.7% |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 7.9% | 7.2–8.7% | 7.0–8.9% | 6.8–9.1% | 6.5–9.5% |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
-| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 5.9% | N/A | N/A | N/A | N/A |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 8.7% | 7.6–10.0% | 7.3–10.3% | 7.0–10.7% | 6.5–11.3% |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 7.4% | 6.8–8.0% | 6.7–8.2% | 6.6–8.4% | 6.3–8.6% |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 7.7% | N/A | N/A | N/A | N/A |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 7.7% | 6.8–8.9% | 6.5–9.2% | 6.3–9.5% | 5.8–10.1% |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 8.2% | 7.5–9.0% | 7.3–9.3% | 7.1–9.4% | 6.8–9.9% |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
@@ -284,17 +284,17 @@ Last result: **2** seats (General Election of 15 March 2017)
 | [23 August 2020](2020-08-23-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [14–15 August 2020](2020-08-15-Peilnl.html) | Peil.nl | 11 | 10–11 | 10–11 | 10–12 | 10–13 |
 | [26 July 2020](2020-07-26-Peilnl.html) | Peil.nl | 12 | 12–13 | 12–14 | 12–14 | 11–14 |
-| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [24–26 July 2020](2020-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 8–10 | 8–11 | 8–11 | 7–13 |
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 12 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 11 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 10 | 10–11 | 10–12 | 10–12 | 9–14 |
-| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 7–11 | 7–12 | 6–12 | 6–12 |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–13 | 9–14 |
 | [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 14 | 11–17 | 10–17 | 10–17 | 10–19 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 11 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 11 | 11 | 11 | 11 | 9–11 |
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 14 | 14 | 14 | 9–14 | 8–14 |
-| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 10 | 10–14 | 10–14 | 9–14 | 9–16 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 13 | 13 | 13 | 12–13 | 12–13 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
