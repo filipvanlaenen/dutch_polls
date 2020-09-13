@@ -6,28 +6,20 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Tue, 21 Jul 2020 20:32:40 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Peil.nl, 30 August 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 30 August 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl-seating-plan.png" length="665308" type="image/png"/>
-      <pubDate>Sun, 6 Sep 2020 17:50:27 +0200</pubDate>
-      <dc:date>2020-09-06T17:50:27.644364+02:00</dc:date>
+      <title>Opinion Poll by Peil.nl, 4–5 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-09-05-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 4–5 September 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-09-05-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-09-05-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-09-05-Peilnl.png" length="365626" type="image/png"/>
+      <pubDate>Sun, 13 Sep 2020 10:10:01 +0200</pubDate>
+      <dc:date>2020-09-13T10:10:01.526813+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Peil.nl, 30 August 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 30 August 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl-seats.png" length="304036" type="image/png"/>
-      <pubDate>Sun, 6 Sep 2020 17:50:27 +0200</pubDate>
-      <dc:date>2020-09-06T17:50:27.644364+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 30 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 30 August 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-08-30-Peilnl.png" length="362888" type="image/png"/>
-      <pubDate>Sun, 6 Sep 2020 17:50:27 +0200</pubDate>
-      <dc:date>2020-09-06T17:50:27.644364+02:00</dc:date>
+      <title>Opinion Poll by Peil.nl, 28–29 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-08-29-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 28–29 August 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-08-29-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-08-29-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-08-29-Peilnl.png" length="364009" type="image/png"/>
+      <pubDate>Sun, 13 Sep 2020 08:59:13 +0200</pubDate>
+      <dc:date>2020-09-13T08:59:13.497278+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 21–27 August 2020 – Seating Plan Projection</title>
@@ -188,14 +180,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-07-05-Peilnl.png" length="359448" type="image/png"/>
       <pubDate>Sun, 26 Jul 2020 14:13:00 +0200</pubDate>
       <dc:date>2020-07-26T14:13:00.232621+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 27–30 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2020-06-30-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Ipsos for EenVandaag, 27–30 June 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-06-30-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-06-30-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-06-30-Ipsos.png" length="367085" type="image/png"/>
-      <pubDate>Tue, 8 Sep 2020 07:34:17 +0200</pubDate>
-      <dc:date>2020-09-08T07:34:17.97313+02:00</dc:date>
     </item>
   </channel>
 </rss>
