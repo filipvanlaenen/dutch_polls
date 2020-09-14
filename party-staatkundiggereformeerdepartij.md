@@ -284,12 +284,12 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [19 July 2020](2020-07-19-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [3–6 July 2020](2020-07-06-IOResearch.html) | I&O Research | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [5 July 2020](2020-07-05-Peilnl.html) | Peil.nl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–4 | 2–4 | 2–4 | 1–5 |
+| [27–30 June 2020](2020-06-30-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 2–5 | 2–6 | 2–6 | 2–6 |
 | [28 June 2020](2020-06-28-Peilnl.html) | Peil.nl | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [23–26 June 2020](2020-06-26-KantarPublic.html) | Kantar Public | 4 | 2–4 | 2–4 | 2–4 | 1–5 |
 | [21 June 2020](2020-06-21-Peilnl.html) | Peil.nl | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [5–9 June 2020](2020-06-09-IOResearch.html) | I&O Research | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 5 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 4 | 4 | 4 | 4 | 4 |
