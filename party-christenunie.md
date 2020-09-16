@@ -83,15 +83,15 @@ Last result: **3.4%** (General Election of 15 March 2017)
 | [29 July 2019](2019-07-29-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.4–5.9% | 3.0–6.4% |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 4.0% | 3.5–4.6% | 3.4–4.7% | 3.3–4.9% | 3.0–5.2% |
-| [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 4.0% | N/A | N/A | N/A | N/A |
-| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [20–26 May 2019](2019-05-26-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [21 May 2019](2019-05-21-Ipsos.html) | Ipsos | 4.0% | N/A | N/A | N/A | N/A |
+| [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
+| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [20–26 May 2019](2019-05-26-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.4% | 4.0–5.5% | 3.8–5.8% |
+| [21 May 2019](2019-05-21-Ipsos.html) | Ipsos | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
 | [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research | 4.6% | N/A | N/A | N/A | N/A |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
@@ -348,15 +348,15 @@ Last result: **5** seats (General Election of 15 March 2017)
 | [29 July 2019](2019-07-29-Peilnl.html) | Peil.nl | 7 | 7 | 6–7 | 5–7 | 4–7 |
 | [26–29 July 2019](2019-07-29-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [5–9 July 2019](2019-07-09-IOResearch.html) | I&O Research | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
-| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [20–26 May 2019](2019-05-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [21 May 2019](2019-05-21-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–7 July 2019](2019-07-07-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 6–7 | 5–8 |
+| [24–30 June 2019](2019-06-30-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 6–7 | 6–7 |
+| [21–24 June 2019](2019-06-24-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
+| [17–23 June 2019](2019-06-23-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [10–16 June 2019](2019-06-16-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [3–9 June 2019](2019-06-09-Peilnl.html) | Peil.nl | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [27 May–2 June 2019](2019-06-02-Peilnl.html) | Peil.nl | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [20–26 May 2019](2019-05-26-Peilnl.html) | Peil.nl | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [21 May 2019](2019-05-21-Ipsos.html) | Ipsos | 5 | 5 | 5 | 5 | 5 |
 | [13–19 May 2019](2019-05-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [9–14 May 2019](2019-05-14-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [6–12 May 2019](2019-05-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
