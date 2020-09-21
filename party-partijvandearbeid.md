@@ -143,16 +143,16 @@ Last result: **5.7%** (General Election of 15 March 2017)
 | [8–14 October 2018](2018-10-14-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [1–7 October 2018](2018-10-07-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [24–30 September 2018](2018-09-30-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
-| [17–23 September 2018](2018-09-23-Peilnl.html) | Peil.nl | 8.7% | N/A | N/A | N/A | N/A |
-| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 5.4% | N/A | N/A | N/A | N/A |
-| [10–16 September 2018](2018-09-16-Peilnl.html) | Peil.nl | 8.0% | N/A | N/A | N/A | N/A |
-| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 6.6% | N/A | N/A | N/A | N/A |
-| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 7.4% | N/A | N/A | N/A | N/A |
-| [3–9 September 2018](2018-09-09-Peilnl.html) | Peil.nl | 8.0% | N/A | N/A | N/A | N/A |
-| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 5.4% | N/A | N/A | N/A | N/A |
-| [27 August–2 September 2018](2018-09-02-Peilnl.html) | Peil.nl | 7.3% | N/A | N/A | N/A | N/A |
-| [20–26 August 2018](2018-08-26-Peilnl.html) | Peil.nl | 7.3% | N/A | N/A | N/A | N/A |
-| [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl | 7.3% | N/A | N/A | N/A | N/A |
+| [17–23 September 2018](2018-09-23-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
+| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.9–7.5% |
+| [10–16 September 2018](2018-09-16-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 6.6% | 5.7–7.7% | 5.5–8.0% | 5.3–8.3% | 4.9–8.9% |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 7.4% | 6.7–8.2% | 6.5–8.4% | 6.3–8.6% | 6.0–9.0% |
+| [3–9 September 2018](2018-09-09-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 5.4% | 4.6–6.4% | 4.3–6.6% | 4.1–6.9% | 3.8–7.4% |
+| [27 August–2 September 2018](2018-09-02-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
+| [20–26 August 2018](2018-08-26-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
+| [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 4.9% | N/A | N/A | N/A | N/A |
 | [2–8 July 2018](2018-07-08-Peilnl.html) | Peil.nl | 6.7% | N/A | N/A | N/A | N/A |
 | [25 June–1 July 2018](2018-07-01-Peilnl.html) | Peil.nl | 7.3% | N/A | N/A | N/A | N/A |
@@ -411,16 +411,16 @@ Last result: **9** seats (General Election of 15 March 2017)
 | [8–14 October 2018](2018-10-14-Peilnl.html) | Peil.nl | 14 | 14 | 14 | 14 | 14 |
 | [1–7 October 2018](2018-10-07-Peilnl.html) | Peil.nl | 14 | 14 | 14 | 14 | 14 |
 | [24–30 September 2018](2018-09-30-Peilnl.html) | Peil.nl | 13 | 13 | 12–13 | 12–14 | 11–15 |
-| [17–23 September 2018](2018-09-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
-| [10–16 September 2018](2018-09-16-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research |  |  |  |  |  |
-| [3–9 September 2018](2018-09-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
-| [27 August–2 September 2018](2018-09-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [20–26 August 2018](2018-08-26-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [17–23 September 2018](2018-09-23-Peilnl.html) | Peil.nl | 13 | 13–14 | 13–14 | 11–14 | 11–14 |
+| [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 7–11 | 7–11 | 7–11 | 7–12 |
+| [10–16 September 2018](2018-09-16-Peilnl.html) | Peil.nl | 11 | 11 | 11 | 11 | 11–13 |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 11 | 11 | 11 | 11 | 8–11 |
+| [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 11 | 10–11 | 10–11 | 10–13 | 9–14 |
+| [3–9 September 2018](2018-09-09-Peilnl.html) | Peil.nl | 12 | 11–12 | 11–13 | 11–14 | 10–14 |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 8 | 8 | 7–9 | 6–10 |
+| [27 August–2 September 2018](2018-09-02-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [20–26 August 2018](2018-08-26-Peilnl.html) | Peil.nl | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl | 10 |  |  |  |  |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [2–8 July 2018](2018-07-08-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [25 June–1 July 2018](2018-07-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
