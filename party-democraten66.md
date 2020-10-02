@@ -153,7 +153,7 @@ Last result: **12.2%** (General Election of 15 March 2017)
 | [27 August–2 September 2018](2018-09-02-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [20–26 August 2018](2018-08-26-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
-| [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 8.9% | N/A | N/A | N/A | N/A |
+| [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 8.9% | 8.0–9.9% | 7.7–10.2% | 7.5–10.5% | 7.1–11.0% |
 | [2–8 July 2018](2018-07-08-Peilnl.html) | Peil.nl | 8.7% | N/A | N/A | N/A | N/A |
 | [25 June–1 July 2018](2018-07-01-Peilnl.html) | Peil.nl | 8.7% | N/A | N/A | N/A | N/A |
 | [13–29 June 2018](2018-06-29-IOResearch.html) | I&O Research | 9.1% | N/A | N/A | N/A | N/A |
@@ -421,7 +421,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [27 August–2 September 2018](2018-09-02-Peilnl.html) | Peil.nl | 10 | 10–14 | 10–14 | 10–14 | 10–14 |
 | [20–26 August 2018](2018-08-26-Peilnl.html) | Peil.nl | 10 | 10–14 | 10–14 | 10–14 | 10–14 |
 | [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl | 14 |  |  |  |  |
-| [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 15 | 14–16 | 13–16 | 13–16 | 11–16 |
 | [2–8 July 2018](2018-07-08-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [25 June–1 July 2018](2018-07-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [13–29 June 2018](2018-06-29-IOResearch.html) | I&O Research |  |  |  |  |  |
