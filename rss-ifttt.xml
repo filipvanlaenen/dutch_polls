@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Tue, 21 Jul 2020 20:32:40 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 18–19 September 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 18–19 September 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl-seating-plan.png" length="664607" type="image/png"/>
+      <pubDate>Sun, 4 Oct 2020 23:08:27 +0200</pubDate>
+      <dc:date>2020-10-04T23:08:27.964541+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 18–19 September 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl.html#seats</link>
+      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 18–19 September 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl-seats.png" length="304854" type="image/png"/>
+      <pubDate>Sun, 4 Oct 2020 23:08:27 +0200</pubDate>
+      <dc:date>2020-10-04T23:08:27.964541+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 18–19 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 18–19 September 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-09-19-Peilnl.png" length="364902" type="image/png"/>
+      <pubDate>Sun, 4 Oct 2020 23:08:27 +0200</pubDate>
+      <dc:date>2020-10-04T23:08:27.964541+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by I&amp;O Research, 3–7 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2020-09-07-IOResearch.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by I&O Research, 3–7 September 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-09-07-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-09-07-IOResearch-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-07-26-Ipsos.png" length="372830" type="image/png"/>
       <pubDate>Sat, 19 Sep 2020 14:56:29 +0200</pubDate>
       <dc:date>2020-09-19T14:56:29.590569+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 19 July 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 19 July 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl-seating-plan.png" length="647279" type="image/png"/>
-      <pubDate>Mon, 27 Jul 2020 22:45:42 +0200</pubDate>
-      <dc:date>2020-07-27T22:45:42.977186+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 19 July 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 19 July 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl-seats.png" length="287491" type="image/png"/>
-      <pubDate>Mon, 27 Jul 2020 22:45:42 +0200</pubDate>
-      <dc:date>2020-07-27T22:45:42.977186+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 19 July 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 19 July 2020<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-07-19-Peilnl.png" length="360476" type="image/png"/>
-      <pubDate>Mon, 27 Jul 2020 22:45:42 +0200</pubDate>
-      <dc:date>2020-07-27T22:45:42.977186+02:00</dc:date>
     </item>
   </channel>
 </rss>
