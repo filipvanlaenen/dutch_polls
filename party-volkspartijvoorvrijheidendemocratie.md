@@ -11,6 +11,8 @@ Last result: **21.3%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.1% | 21.5–27.1% | 21.2–27.5% | 20.9–27.9% | 20.3–28.8% |
+| [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 21.9% | 21.0–22.9% | 20.7–23.2% | 20.5–23.5% | 20.0–23.9% |
+| [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 21.9% | 21.0–22.9% | 20.7–23.2% | 20.5–23.5% | 20.0–23.9% |
 | [27 September 2020](2020-09-27-Peilnl.html) | Peil.nl | 21.9% | 21.0–22.9% | 20.7–23.2% | 20.5–23.5% | 20.0–23.9% |
 | [25–27 September 2020](2020-09-27-Ipsos.html) | Ipsos <br> EenVandaag | 25.6% | 24.0–27.4% | 23.5–27.9% | 23.1–28.4% | 22.3–29.2% |
 | [18–19 September 2020](2020-09-19-Peilnl.html) | Peil.nl | 21.9% | 21.0–22.9% | 20.7–23.2% | 20.5–23.5% | 20.0–23.9% |
@@ -286,6 +288,8 @@ Last result: **33** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38 | 32–41 | 32–41 | 32–42 | 32–43 |
+| [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 32 | 32–36 | 32–36 | 32–36 | 32–36 |
+| [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 32 | 32–36 | 32–36 | 32–36 | 32–36 |
 | [27 September 2020](2020-09-27-Peilnl.html) | Peil.nl | 32 | 32–36 | 32–36 | 32–36 | 32–36 |
 | [25–27 September 2020](2020-09-27-Ipsos.html) | Ipsos <br> EenVandaag | 38 | 36–41 | 36–42 | 34–43 | 33–44 |
 | [18–19 September 2020](2020-09-19-Peilnl.html) | Peil.nl | 32 | 32–36 | 32–36 | 32–36 | 32–36 |

@@ -11,6 +11,8 @@ Last result: **13.1%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.3% | 11.8–15.6% | 11.5–16.0% | 11.2–16.3% | 10.7–16.7% |
+| [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 15.3% | 14.4–16.1% | 14.2–16.4% | 14.0–16.6% | 13.6–17.0% |
+| [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 15.3% | 14.4–16.1% | 14.2–16.4% | 14.0–16.6% | 13.6–17.0% |
 | [27 September 2020](2020-09-27-Peilnl.html) | Peil.nl | 15.3% | 14.4–16.1% | 14.2–16.4% | 14.0–16.6% | 13.6–17.0% |
 | [25–27 September 2020](2020-09-27-Ipsos.html) | Ipsos <br> EenVandaag | 12.9% | 11.6–14.3% | 11.3–14.7% | 11.0–15.0% | 10.4–15.7% |
 | [18–19 September 2020](2020-09-19-Peilnl.html) | Peil.nl | 15.3% | 14.4–16.1% | 14.2–16.4% | 14.0–16.6% | 13.6–17.0% |
@@ -283,6 +285,8 @@ Last result: **20** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 18–23 | 18–24 | 17–24 | 16–25 |
+| [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 23 | 23–24 | 22–24 | 22–25 | 21–27 |
+| [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 23 | 23–24 | 22–24 | 22–25 | 21–27 |
 | [27 September 2020](2020-09-27-Peilnl.html) | Peil.nl | 23 | 23–24 | 22–24 | 22–25 | 21–27 |
 | [25–27 September 2020](2020-09-27-Ipsos.html) | Ipsos <br> EenVandaag | 22 | 19–23 | 18–23 | 18–23 | 17–24 |
 | [18–19 September 2020](2020-09-19-Peilnl.html) | Peil.nl | 23 | 23–24 | 22–24 | 22–25 | 21–27 |
