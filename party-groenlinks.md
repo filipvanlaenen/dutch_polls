@@ -172,8 +172,8 @@ Last result: **9.1%** (General Election of 15 March 2017)
 | [21–27 May 2018](2018-05-27-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [14–20 May 2018](2018-05-20-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [7–13 May 2018](2018-05-13-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
-| [30 April–6 May 2018](2018-05-06-Peilnl.html) | Peil.nl | 11.3% | N/A | N/A | N/A | N/A |
-| [23–29 April 2018](2018-04-29-Peilnl.html) | Peil.nl | 11.3% | N/A | N/A | N/A | N/A |
+| [30 April–6 May 2018](2018-05-06-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
+| [23–29 April 2018](2018-04-29-Peilnl.html) | Peil.nl | 11.3% | 10.3–12.3% | 10.3–12.3% | 9.9–12.8% | 9.9–13.2% |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 11.6% | N/A | N/A | N/A | N/A |
 | [16–22 April 2018](2018-04-22-Peilnl.html) | Peil.nl | 10.7% | N/A | N/A | N/A | N/A |
 | [9–15 April 2018](2018-04-15-Peilnl.html) | Peil.nl | 10.7% | N/A | N/A | N/A | N/A |
@@ -444,8 +444,8 @@ Last result: **14** seats (General Election of 15 March 2017)
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 20 | 18–20 | 16–20 | 15–20 | 14–20 |
 | [21–27 May 2018](2018-05-27-Peilnl.html) | Peil.nl | 18 | 17–18 | 17–18 | 17–18 | 17–19 |
 | [14–20 May 2018](2018-05-20-Peilnl.html) | Peil.nl | 18 | 18 | 18 | 18 | 15–19 |
-| [7–13 May 2018](2018-05-13-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [30 April–6 May 2018](2018-05-06-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [7–13 May 2018](2018-05-13-Peilnl.html) | Peil.nl | 18 | 18 | 18 | 18 | 15–19 |
+| [30 April–6 May 2018](2018-05-06-Peilnl.html) | Peil.nl | 17 | 17 | 17 | 17 | 15–17 |
 | [23–29 April 2018](2018-04-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [16–22 April 2018](2018-04-22-Peilnl.html) | Peil.nl |  |  |  |  |  |

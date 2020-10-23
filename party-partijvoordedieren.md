@@ -171,9 +171,9 @@ Last result: **3.2%** (General Election of 15 March 2017)
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 4.5% | 3.8–5.4% | 3.6–5.7% | 3.4–5.9% | 3.1–6.4% |
 | [21–27 May 2018](2018-05-27-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
 | [14–20 May 2018](2018-05-20-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
-| [7–13 May 2018](2018-05-13-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.3–6.5% |
-| [30 April–6 May 2018](2018-05-06-Peilnl.html) | Peil.nl | 5.3% | N/A | N/A | N/A | N/A |
-| [23–29 April 2018](2018-04-29-Peilnl.html) | Peil.nl | 5.3% | N/A | N/A | N/A | N/A |
+| [7–13 May 2018](2018-05-13-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
+| [30 April–6 May 2018](2018-05-06-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
+| [23–29 April 2018](2018-04-29-Peilnl.html) | Peil.nl | 5.3% | 4.5–6.2% | 4.5–6.2% | 4.5–6.2% | 4.1–6.6% |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag | 4.5% | N/A | N/A | N/A | N/A |
 | [16–22 April 2018](2018-04-22-Peilnl.html) | Peil.nl | 5.3% | N/A | N/A | N/A | N/A |
 | [9–15 April 2018](2018-04-15-Peilnl.html) | Peil.nl | 5.3% | N/A | N/A | N/A | N/A |
@@ -443,8 +443,8 @@ Last result: **5** seats (General Election of 15 March 2017)
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–7 | 5–7 | 5–8 | 5–9 |
 | [21–27 May 2018](2018-05-27-Peilnl.html) | Peil.nl | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [14–20 May 2018](2018-05-20-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7–8 | 7–10 |
-| [7–13 May 2018](2018-05-13-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [30 April–6 May 2018](2018-05-06-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [7–13 May 2018](2018-05-13-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7–8 | 7–10 |
+| [30 April–6 May 2018](2018-05-06-Peilnl.html) | Peil.nl | 9 | 9 | 7–9 | 6–9 | 6–9 |
 | [23–29 April 2018](2018-04-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [20–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [16–22 April 2018](2018-04-22-Peilnl.html) | Peil.nl |  |  |  |  |  |
