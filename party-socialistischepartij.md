@@ -10,9 +10,12 @@ Last result: **9.1%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.0–8.3% | 5.7–8.5% | 5.5–8.8% | 5.1–9.1% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.8–7.8% | 5.5–8.0% | 5.3–8.2% | 5.0–8.7% |
+| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 7.3% | 6.8–8.0% | 6.6–8.2% | 6.4–8.3% | 6.2–8.6% |
+| [9–12 October 2020](2020-10-12-IOResearch.html) | I&O Research | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.2–7.4% | 4.9–7.8% |
 | [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.6% | 7.2–8.8% | 7.0–9.0% | 6.8–9.3% |
 | [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.6% | 7.2–8.8% | 7.0–9.0% | 6.8–9.3% |
+| [25–29 September 2020](2020-09-29-KantarPublic.html) | Kantar Public | 6.6% | 5.8–7.7% | 5.5–8.0% | 5.3–8.2% | 5.0–8.7% |
 | [27 September 2020](2020-09-27-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.6% | 7.2–8.8% | 7.0–9.0% | 6.8–9.3% |
 | [25–27 September 2020](2020-09-27-Ipsos.html) | Ipsos <br> EenVandaag | 6.7% | 5.8–7.8% | 5.6–8.1% | 5.3–8.4% | 5.0–8.9% |
 | [18–19 September 2020](2020-09-19-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.6% | 7.2–8.8% | 7.0–9.0% | 6.8–9.3% |
@@ -265,13 +268,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 28% | 97% |  |
-| 6.5–7.5% | 35% | 69% | Median |
-| 7.5–8.5% | 29% | 34% |  |
-| 8.5–9.5% | 5% | 5% | Last Result |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 4.5–5.5% | 5% | 100% |  |
+| 5.5–6.5% | 34% | 95% |  |
+| 6.5–7.5% | 44% | 60% | Median |
+| 7.5–8.5% | 15% | 16% |  |
+| 8.5–9.5% | 0.8% | 0.8% | Last Result |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -282,9 +284,12 @@ Last result: **14** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–13 | 8–13 | 8–13 |
+| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 10 | 9–12 | 9–13 | 9–13 | 9–13 |
+| [9–12 October 2020](2020-10-12-IOResearch.html) | I&O Research | 10 | 10 | 8–10 | 8–10 | 8–11 |
 | [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 12 | 12 | 12 | 11–13 | 10–13 |
 | [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 12 | 12 | 12 | 11–13 | 10–13 |
+| [25–29 September 2020](2020-09-29-KantarPublic.html) | Kantar Public | 11 | 9–13 | 8–13 | 8–13 | 8–13 |
 | [27 September 2020](2020-09-27-Peilnl.html) | Peil.nl | 12 | 12 | 12 | 11–13 | 10–13 |
 | [25–27 September 2020](2020-09-27-Ipsos.html) | Ipsos <br> EenVandaag | 10 | 9–12 | 9–12 | 8–12 | 7–14 |
 | [18–19 September 2020](2020-09-19-Peilnl.html) | Peil.nl | 12 | 12 | 12 | 11–13 | 10–13 |
@@ -539,13 +544,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.2% | 100% |  |
-| 8 | 2% | 99.8% |  |
-| 9 | 27% | 98% |  |
-| 10 | 20% | 71% |  |
-| 11 | 15% | 50% | Median |
-| 12 | 34% | 36% |  |
-| 13 | 1.1% | 1.5% |  |
-| 14 | 0.4% | 0.4% | Last Result |
+| 8 | 4% | 99.8% |  |
+| 9 | 16% | 96% |  |
+| 10 | 40% | 80% | Median |
+| 11 | 28% | 39% |  |
+| 12 | 5% | 11% |  |
+| 13 | 5% | 6% |  |
+| 14 | 0.3% | 0.3% | Last Result |
 | 15 | 0% | 0% |  |
 
 
