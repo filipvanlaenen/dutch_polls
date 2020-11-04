@@ -223,15 +223,15 @@ Last result: **1.8%** (General Election of 15 March 2017)
 | [1 October 2017](2017-10-01-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [22–25 September 2017](2017-09-25-GfK.html) | GfK <br> EenVandaag | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
 | [24 September 2017](2017-09-24-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
-| [17 September 2017](2017-09-17-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.3–6.5% |
+| [17 September 2017](2017-09-17-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
 | [14 September 2017](2017-09-14-Ipsos.html) | Ipsos | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [11 September 2017](2017-09-11-IOResearch.html) | I&O Research | 5.9% | 5.2–6.8% | 4.9–7.1% | 4.8–7.3% | 4.4–7.8% |
-| [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl | 5.3% | 4.5–6.2% | 4.5–6.2% | 4.5–6.2% | 4.1–6.6% |
-| [1–4 September 2017](2017-09-04-GfK.html) | GfK <br> EenVandaag | 3.3% | N/A | N/A | N/A | N/A |
-| [3 September 2017](2017-09-03-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [31 August 2017](2017-08-31-KantarPublic.html) | Kantar Public | 5.3% | N/A | N/A | N/A | N/A |
-| [27 August 2017](2017-08-27-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [20 August 2017](2017-08-20-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
+| [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
+| [1–4 September 2017](2017-09-04-GfK.html) | GfK <br> EenVandaag | 3.3% | 2.8–3.9% | 2.7–4.1% | 2.6–4.2% | 2.4–4.5% |
+| [3 September 2017](2017-09-03-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [31 August 2017](2017-08-31-KantarPublic.html) | Kantar Public | 5.3% | 4.5–6.4% | 4.3–6.7% | 4.1–7.0% | 3.7–7.5% |
+| [27 August 2017](2017-08-27-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [20 August 2017](2017-08-20-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [10 August 2017](2017-08-10-Ipsos.html) | Ipsos | 4.8% | N/A | N/A | N/A | N/A |
 | [30 July 2017](2017-07-30-Peilnl.html) | Peil.nl | 4.0% | N/A | N/A | N/A | N/A |
 | [21–24 July 2017](2017-07-24-GfK.html) | GfK <br> EenVandaag | 3.3% | N/A | N/A | N/A | N/A |
@@ -498,15 +498,15 @@ Last result: **2** seats (General Election of 15 March 2017)
 | [1 October 2017](2017-10-01-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8–9 | 8–10 |
 | [22–25 September 2017](2017-09-25-GfK.html) | GfK <br> EenVandaag | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [24 September 2017](2017-09-24-Peilnl.html) | Peil.nl | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [17 September 2017](2017-09-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [17 September 2017](2017-09-17-Peilnl.html) | Peil.nl | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [14 September 2017](2017-09-14-Ipsos.html) | Ipsos | 7 | 6–10 | 6–10 | 6–11 | 6–12 |
 | [11 September 2017](2017-09-11-IOResearch.html) | I&O Research | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
-| [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [1–4 September 2017](2017-09-04-GfK.html) | GfK <br> EenVandaag |  |  |  |  |  |
-| [3 September 2017](2017-09-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [1–4 September 2017](2017-09-04-GfK.html) | GfK <br> EenVandaag | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [3 September 2017](2017-09-03-Peilnl.html) | Peil.nl | 8 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [31 August 2017](2017-08-31-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [27 August 2017](2017-08-27-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [20 August 2017](2017-08-20-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [27 August 2017](2017-08-27-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 6–8 | 6–8 |
+| [20 August 2017](2017-08-20-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 6–8 | 6–8 |
 | [10 August 2017](2017-08-10-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [30 July 2017](2017-07-30-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [21–24 July 2017](2017-07-24-GfK.html) | GfK <br> EenVandaag |  |  |  |  |  |
