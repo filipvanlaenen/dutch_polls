@@ -218,15 +218,15 @@ Last result: **12.2%** (General Election of 15 March 2017)
 | [29 October 2017](2017-10-29-Peilnl.html) | Peil.nl | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [15 October 2017](2017-10-15-Peilnl.html) | Peil.nl | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [11–15 October 2017](2017-10-15-KantarPublic.html) | Kantar Public | 11.4% | 10.2–12.8% | 9.8–13.2% | 9.5–13.5% | 9.0–14.2% |
-| [11 October 2017](2017-10-11-IOResearch.html) | I&O Research | 12.0% | N/A | N/A | N/A | N/A |
-| [5 October 2017](2017-10-05-Ipsos.html) | Ipsos | 12.9% | N/A | N/A | N/A | N/A |
-| [1 October 2017](2017-10-01-Peilnl.html) | Peil.nl | 12.7% | N/A | N/A | N/A | N/A |
-| [22–25 September 2017](2017-09-25-GfK.html) | GfK <br> EenVandaag | 11.3% | N/A | N/A | N/A | N/A |
-| [24 September 2017](2017-09-24-Peilnl.html) | Peil.nl | 12.7% | N/A | N/A | N/A | N/A |
-| [17 September 2017](2017-09-17-Peilnl.html) | Peil.nl | 12.7% | N/A | N/A | N/A | N/A |
-| [14 September 2017](2017-09-14-Ipsos.html) | Ipsos | 12.4% | N/A | N/A | N/A | N/A |
-| [11 September 2017](2017-09-11-IOResearch.html) | I&O Research | 12.0% | N/A | N/A | N/A | N/A |
-| [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl | 12.7% | N/A | N/A | N/A | N/A |
+| [11 October 2017](2017-10-11-IOResearch.html) | I&O Research | 12.0% | 10.9–13.2% | 10.6–13.6% | 10.4–13.9% | 9.9–14.5% |
+| [5 October 2017](2017-10-05-Ipsos.html) | Ipsos | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
+| [1 October 2017](2017-10-01-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
+| [22–25 September 2017](2017-09-25-GfK.html) | GfK <br> EenVandaag | 11.3% | 10.4–12.3% | 10.2–12.6% | 10.0–12.9% | 9.5–13.4% |
+| [24 September 2017](2017-09-24-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
+| [17 September 2017](2017-09-17-Peilnl.html) | Peil.nl | 12.7% | 11.9–13.5% | 11.7–13.7% | 11.5–13.9% | 11.2–14.3% |
+| [14 September 2017](2017-09-14-Ipsos.html) | Ipsos | 12.4% | 11.1–13.8% | 10.8–14.2% | 10.5–14.6% | 9.9–15.3% |
+| [11 September 2017](2017-09-11-IOResearch.html) | I&O Research | 12.0% | 10.9–13.2% | 10.6–13.6% | 10.4–13.9% | 9.9–14.5% |
+| [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl | 12.7% | 11.5–13.6% | 11.5–14.0% | 11.5–14.0% | 11.1–14.4% |
 | [1–4 September 2017](2017-09-04-GfK.html) | GfK <br> EenVandaag | 12.7% | N/A | N/A | N/A | N/A |
 | [3 September 2017](2017-09-03-Peilnl.html) | Peil.nl | 12.0% | N/A | N/A | N/A | N/A |
 | [31 August 2017](2017-08-31-KantarPublic.html) | Kantar Public | 11.9% | N/A | N/A | N/A | N/A |
@@ -494,14 +494,14 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [29 October 2017](2017-10-29-Peilnl.html) | Peil.nl | 19 | 19 | 19 | 18–19 | 18–19 |
 | [15 October 2017](2017-10-15-Peilnl.html) | Peil.nl | 18 | 17–19 | 17–19 | 16–19 | 16–21 |
 | [11–15 October 2017](2017-10-15-KantarPublic.html) | Kantar Public | 17 | 15–18 | 14–18 | 13–18 | 13–20 |
-| [11 October 2017](2017-10-11-IOResearch.html) | I&O Research |  |  |  |  |  |
-| [5 October 2017](2017-10-05-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [1 October 2017](2017-10-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [22–25 September 2017](2017-09-25-GfK.html) | GfK <br> EenVandaag |  |  |  |  |  |
-| [24 September 2017](2017-09-24-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [11 October 2017](2017-10-11-IOResearch.html) | I&O Research | 19 | 17–20 | 17–20 | 17–22 | 15–22 |
+| [5 October 2017](2017-10-05-Ipsos.html) | Ipsos | 19 | 18–20 | 18–20 | 18–20 | 17–23 |
+| [1 October 2017](2017-10-01-Peilnl.html) | Peil.nl | 18 | 18 | 18 | 18–19 | 17–21 |
+| [22–25 September 2017](2017-09-25-GfK.html) | GfK <br> EenVandaag | 18 | 17–18 | 17–18 | 17–18 | 17–19 |
+| [24 September 2017](2017-09-24-Peilnl.html) | Peil.nl | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [17 September 2017](2017-09-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [14 September 2017](2017-09-14-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [11 September 2017](2017-09-11-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [14 September 2017](2017-09-14-Ipsos.html) | Ipsos | 19 | 17–20 | 17–21 | 16–22 | 14–23 |
+| [11 September 2017](2017-09-11-IOResearch.html) | I&O Research | 17 | 17–19 | 17–21 | 17–22 | 15–23 |
 | [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [1–4 September 2017](2017-09-04-GfK.html) | GfK <br> EenVandaag |  |  |  |  |  |
 | [3 September 2017](2017-09-03-Peilnl.html) | Peil.nl |  |  |  |  |  |
