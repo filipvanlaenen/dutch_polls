@@ -232,27 +232,27 @@ Last result: **2.1%** (General Election of 15 March 2017)
 | [31 August 2017](2017-08-31-KantarPublic.html) | Kantar Public | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.6–2.7% |
 | [27 August 2017](2017-08-27-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [20 August 2017](2017-08-20-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
-| [10 August 2017](2017-08-10-Ipsos.html) | Ipsos | 3.1% | N/A | N/A | N/A | N/A |
-| [30 July 2017](2017-07-30-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [21–24 July 2017](2017-07-24-GfK.html) | GfK <br> EenVandaag | 1.3% | N/A | N/A | N/A | N/A |
-| [16 July 2017](2017-07-16-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [13 July 2017](2017-07-13-Ipsos.html) | Ipsos | 3.1% | N/A | N/A | N/A | N/A |
-| [12 July 2017](2017-07-12-KantarPublic.html) | Kantar Public | 1.4% | N/A | N/A | N/A | N/A |
-| [2 July 2017](2017-07-02-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [29 June 2017](2017-06-29-Ipsos.html) | Ipsos | 2.8% | N/A | N/A | N/A | N/A |
-| [23–26 June 2017](2017-06-26-GfK.html) | GfK <br> EenVandaag | 1.3% | N/A | N/A | N/A | N/A |
-| [18 June 2017](2017-06-18-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [18 June 2017](2017-06-18-IOResearch.html) | I&O Research | 1.7% | N/A | N/A | N/A | N/A |
-| [15 June 2017](2017-06-15-Ipsos.html) | Ipsos | 2.2% | N/A | N/A | N/A | N/A |
-| [4 June 2017](2017-06-04-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [1 June 2017](2017-06-01-Ipsos.html) | Ipsos | 2.5% | N/A | N/A | N/A | N/A |
-| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 1.3% | N/A | N/A | N/A | N/A |
-| [21 May 2017](2017-05-21-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [19 May 2017](2017-05-19-Ipsos.html) | Ipsos | 3.0% | N/A | N/A | N/A | N/A |
-| [14 May 2017](2017-05-14-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [7 May 2017](2017-05-07-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [4 May 2017](2017-05-04-Ipsos.html) | Ipsos | 1.9% | N/A | N/A | N/A | N/A |
-| [24 April 2017](2017-04-24-GfK.html) | GfK <br> EenVandaag | 1.3% | N/A | N/A | N/A | N/A |
+| [10 August 2017](2017-08-10-Ipsos.html) | Ipsos | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
+| [30 July 2017](2017-07-30-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [21–24 July 2017](2017-07-24-GfK.html) | GfK <br> EenVandaag | 1.3% | 1.0–1.7% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% |
+| [16 July 2017](2017-07-16-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [13 July 2017](2017-07-13-Ipsos.html) | Ipsos | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
+| [12 July 2017](2017-07-12-KantarPublic.html) | Kantar Public | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.6–2.7% |
+| [2 July 2017](2017-07-02-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [29 June 2017](2017-06-29-Ipsos.html) | Ipsos | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [23–26 June 2017](2017-06-26-GfK.html) | GfK <br> EenVandaag | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–2.0% | 0.8–2.2% |
+| [18 June 2017](2017-06-18-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [18 June 2017](2017-06-18-IOResearch.html) | I&O Research | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 1.0–2.9% |
+| [15 June 2017](2017-06-15-Ipsos.html) | Ipsos | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [4 June 2017](2017-06-04-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [1 June 2017](2017-06-01-Ipsos.html) | Ipsos | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 1.3% | 1.0–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
+| [21 May 2017](2017-05-21-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [19 May 2017](2017-05-19-Ipsos.html) | Ipsos | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [14 May 2017](2017-05-14-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [7 May 2017](2017-05-07-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [4 May 2017](2017-05-04-Ipsos.html) | Ipsos | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [24 April 2017](2017-04-24-GfK.html) | GfK <br> EenVandaag | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–2.0% | 0.8–2.2% |
 | [23 April 2017](2017-04-23-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
 | [20 April 2017](2017-04-20-Ipsos.html) | Ipsos | 2.2% | N/A | N/A | N/A | N/A |
 | [16 April 2017](2017-04-16-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
@@ -501,30 +501,30 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [1–4 September 2017](2017-09-04-GfK.html) | GfK <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [3 September 2017](2017-09-03-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 1–4 |
-| [31 August 2017](2017-08-31-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [31 August 2017](2017-08-31-KantarPublic.html) | Kantar Public | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [27 August 2017](2017-08-27-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
 | [20 August 2017](2017-08-20-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
-| [10 August 2017](2017-08-10-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [30 July 2017](2017-07-30-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [21–24 July 2017](2017-07-24-GfK.html) | GfK <br> EenVandaag |  |  |  |  |  |
-| [16 July 2017](2017-07-16-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [13 July 2017](2017-07-13-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [12 July 2017](2017-07-12-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [2 July 2017](2017-07-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [29 June 2017](2017-06-29-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [23–26 June 2017](2017-06-26-GfK.html) | GfK <br> EenVandaag |  |  |  |  |  |
-| [18 June 2017](2017-06-18-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [18 June 2017](2017-06-18-IOResearch.html) | I&O Research |  |  |  |  |  |
-| [15 June 2017](2017-06-15-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [4 June 2017](2017-06-04-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [1 June 2017](2017-06-01-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag |  |  |  |  |  |
-| [21 May 2017](2017-05-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [19 May 2017](2017-05-19-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [14 May 2017](2017-05-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [7 May 2017](2017-05-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [4 May 2017](2017-05-04-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [24 April 2017](2017-04-24-GfK.html) | GfK <br> EenVandaag |  |  |  |  |  |
+| [10 August 2017](2017-08-10-Ipsos.html) | Ipsos | 5 | 4–6 | 3–6 | 3–7 | 3–8 |
+| [30 July 2017](2017-07-30-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
+| [21–24 July 2017](2017-07-24-GfK.html) | GfK <br> EenVandaag | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [16 July 2017](2017-07-16-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
+| [13 July 2017](2017-07-13-Ipsos.html) | Ipsos | 4 | 3–5 | 3–5 | 2–7 | 2–7 |
+| [12 July 2017](2017-07-12-KantarPublic.html) | Kantar Public | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [2 July 2017](2017-07-02-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
+| [29 June 2017](2017-06-29-Ipsos.html) | Ipsos | 4 | 3–4 | 3–4 | 3–5 | 2–7 |
+| [23–26 June 2017](2017-06-26-GfK.html) | GfK <br> EenVandaag | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [18 June 2017](2017-06-18-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
+| [18 June 2017](2017-06-18-IOResearch.html) | I&O Research | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [15 June 2017](2017-06-15-Ipsos.html) | Ipsos | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [4 June 2017](2017-06-04-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1 June 2017](2017-06-01-Ipsos.html) | Ipsos | 4 | 4–5 | 2–5 | 2–5 | 2–5 |
+| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21 May 2017](2017-05-21-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19 May 2017](2017-05-19-Ipsos.html) | Ipsos | 5 | 3–6 | 3–6 | 2–6 | 2–6 |
+| [14 May 2017](2017-05-14-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7 May 2017](2017-05-07-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [4 May 2017](2017-05-04-Ipsos.html) | Ipsos | 3 | 1–4 | 0–4 | 0–4 | 0–5 |
+| [24 April 2017](2017-04-24-GfK.html) | GfK <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 April 2017](2017-04-23-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [20 April 2017](2017-04-20-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [16 April 2017](2017-04-16-Peilnl.html) | Peil.nl |  |  |  |  |  |
