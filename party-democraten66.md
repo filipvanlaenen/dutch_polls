@@ -347,7 +347,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [22–25 November 2019](2019-11-25-Ipsos.html) | Ipsos <br> EenVandaag | 12 | 11–12 | 10–13 | 9–14 | 8–15 |
 | [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 12 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 12 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 10 | 10 | 8–10 | 8–13 | 6–13 |
+| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 12 | 10–12 | 10–12 | 8–12 | 7–13 |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 11 | 9–12 | 9–12 | 9–13 | 9–13 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 13 | 13 | 13 | 12–13 | 12–14 |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 13 | 13 | 13 | 12–13 | 12–15 |
@@ -361,7 +361,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 12 | 10–13 | 10–13 | 9–13 | 9–13 |
 | [20–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 15 | 13–17 | 12–18 | 12–18 | 12–18 |
 | [16–21 September 2019](2019-09-21-Peilnl.html) | Peil.nl | 12 | 10–13 | 10–13 | 9–13 | 9–13 |
-| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 11 | 9–11 | 9–13 | 9–13 | 9–15 |
+| [15 September 2019](2019-09-15-KantarPublic.html) | Kantar Public | 11 | 9–13 | 9–14 | 9–15 | 9–16 |
 | [9–14 September 2019](2019-09-14-Peilnl.html) | Peil.nl | 12 | 11–12 | 11–12 | 10–13 | 9–13 |
 | [2–7 September 2019](2019-09-07-Peilnl.html) | Peil.nl | 10 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [29 August–3 September 2019](2019-09-03-IOResearch.html) | I&O Research | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
@@ -481,7 +481,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 14 | 14–16 | 14–16 | 14–17 | 14–17 |
 | [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 14 | 14–16 | 14–16 | 14–17 | 14–17 |
 | [18 December 2017](2017-12-18-Ipsos.html) | Ipsos | 17 | 15–18 | 15–18 | 15–18 | 14–20 |
-| [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 15 | 13–15 | 12–16 | 12–18 | 12–18 |
+| [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 16 | 16–18 | 16–18 | 15–18 | 13–19 |
 | [17 December 2017](2017-12-17-Peilnl.html) | Peil.nl | 20 | 17–20 | 15–20 | 15–20 | 15–20 |
 | [10 December 2017](2017-12-10-Peilnl.html) | Peil.nl | 17 | 16–17 | 13–17 | 13–17 | 13–18 |
 | [3 December 2017](2017-12-03-Peilnl.html) | Peil.nl | 17 | 16–17 | 13–17 | 13–17 | 13–18 |
