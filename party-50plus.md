@@ -352,7 +352,7 @@ Last result: **4** seats (General Election of 15 March 2017)
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7 | 5–7 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 9 | 7–10 | 7–12 | 7–12 | 6–12 |
-| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [10–15 October 2019](2019-10-15-IOResearch.html) | I&O Research | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | [7–12 October 2019](2019-10-12-Peilnl.html) | Peil.nl | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [30 September–5 October 2019](2019-10-05-Peilnl.html) | Peil.nl | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [23–28 September 2019](2019-09-28-Peilnl.html) | Peil.nl | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -404,7 +404,7 @@ Last result: **4** seats (General Election of 15 March 2017)
 | [12 February 2019](2019-02-12-KantarPublic.html) | Kantar Public | 7 | 4–7 | 4–7 | 4–7 | 4–9 |
 | [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
-| [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 4–5 | 4–6 | 4–6 | 3–8 |
+| [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–7 | 5–7 | 4–7 | 3–8 |
 | [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
 | [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 4 | 4 | 4 | 4–5 | 4–5 |
 | [14–20 January 2019](2019-01-20-Peilnl.html) | Peil.nl | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
@@ -479,7 +479,7 @@ Last result: **4** seats (General Election of 15 March 2017)
 | [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [18 December 2017](2017-12-18-Ipsos.html) | Ipsos | 6 | 5–6 | 3–6 | 3–7 | 3–7 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [17 December 2017](2017-12-17-Peilnl.html) | Peil.nl | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [17 December 2017](2017-12-17-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 4–5 | 3–6 |
 | [10 December 2017](2017-12-10-Peilnl.html) | Peil.nl | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [3 December 2017](2017-12-03-Peilnl.html) | Peil.nl | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [30 November 2017](2017-11-30-Ipsos.html) | Ipsos | 6 | 4–6 | 4–6 | 4–6 | 3–8 |
@@ -522,18 +522,18 @@ Last result: **4** seats (General Election of 15 March 2017)
 | [15 June 2017](2017-06-15-Ipsos.html) | Ipsos | 3 | 3–4 | 3–4 | 3–4 | 1–4 |
 | [4 June 2017](2017-06-04-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1 June 2017](2017-06-01-Ipsos.html) | Ipsos | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
-| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
+| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [21 May 2017](2017-05-21-Peilnl.html) | Peil.nl | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [19 May 2017](2017-05-19-Ipsos.html) | Ipsos | 3 | 2–3 | 1–4 | 1–4 | 1–4 |
 | [14 May 2017](2017-05-14-Peilnl.html) | Peil.nl | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [7 May 2017](2017-05-07-Peilnl.html) | Peil.nl | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| [4 May 2017](2017-05-04-Ipsos.html) | Ipsos | 3 | 2–4 | 2–4 | 2–4 | 2–6 |
+| [4 May 2017](2017-05-04-Ipsos.html) | Ipsos | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [24 April 2017](2017-04-24-GfK.html) | GfK <br> EenVandaag | 4 | 4 | 4 | 4 | 3–5 |
 | [23 April 2017](2017-04-23-Peilnl.html) | Peil.nl | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [20 April 2017](2017-04-20-Ipsos.html) | Ipsos | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
 | [16 April 2017](2017-04-16-Peilnl.html) | Peil.nl | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [9 April 2017](2017-04-09-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
-| [6 April 2017](2017-04-06-Ipsos.html) | Ipsos | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
+| [6 April 2017](2017-04-06-Ipsos.html) | Ipsos | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
 | [2 April 2017](2017-04-02-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
 | [26 March 2017](2017-03-26-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–4 |
 
