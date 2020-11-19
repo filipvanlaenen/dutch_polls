@@ -10,7 +10,9 @@ Last result: **21.3%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.1% | 23.1–28.1% | 22.7–28.7% | 22.3–29.1% | 21.7–30.1% |
+| N/A | [Poll Average](average.html) | 26.7% | 25.0–28.4% | 24.5–28.9% | 24.0–29.3% | 23.2–30.2% |
+| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 23.3% | N/A | N/A | N/A | N/A |
+| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 23.3% | N/A | N/A | N/A | N/A |
 | [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 23.3% | 22.3–24.3% | 22.1–24.6% | 21.8–24.9% | 21.4–25.3% |
 | [23–26 October 2020](2020-10-26-Ipsos.html) | Ipsos <br> EenVandaag | 27.1% | 25.4–28.9% | 24.9–29.4% | 24.5–29.9% | 23.7–30.7% |
 | [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 22.0% | 21.0–23.0% | 20.7–23.2% | 20.5–23.5% | 20.1–24.0% |
@@ -269,18 +271,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.3% | 100% | Last Result |
-| 21.5–22.5% | 4% | 99.7% |  |
-| 22.5–23.5% | 12% | 96% |  |
-| 23.5–24.5% | 12% | 84% |  |
-| 24.5–25.5% | 12% | 72% |  |
-| 25.5–26.5% | 20% | 61% | Median |
-| 26.5–27.5% | 22% | 41% |  |
-| 27.5–28.5% | 13% | 19% |  |
-| 28.5–29.5% | 5% | 6% |  |
-| 29.5–30.5% | 1.1% | 1.3% |  |
-| 30.5–31.5% | 0.2% | 0.2% |  |
+| 20.5–21.5% | 0% | 100% | Last Result |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.9% | 99.9% |  |
+| 23.5–24.5% | 5% | 99.0% |  |
+| 24.5–25.5% | 14% | 94% |  |
+| 25.5–26.5% | 26% | 81% |  |
+| 26.5–27.5% | 29% | 54% | Median |
+| 27.5–28.5% | 17% | 25% |  |
+| 28.5–29.5% | 6% | 8% |  |
+| 29.5–30.5% | 1.4% | 2% |  |
+| 30.5–31.5% | 0.2% | 0.3% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -292,7 +293,9 @@ Last result: **33** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 35–42 | 35–44 | 35–44 | 34–46 |
+| N/A | [Poll Average](average.html) | 41 | 39–43 | 38–44 | 36–45 | 36–46 |
+| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 36 | 35–38 | 34–38 | 34–39 | 32–39 |
 | [23–26 October 2020](2020-10-26-Ipsos.html) | Ipsos <br> EenVandaag | 41 | 39–44 | 39–45 | 38–45 | 37–46 |
 | [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 33 | 33–35 | 32–36 | 32–37 | 31–38 |
@@ -356,7 +359,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 27 | 27 | 26–27 | 26–27 | 26–28 |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 29 | 29 | 28–29 | 27–29 | 26–29 |
-| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 31 | 31–35 | 31–35 | 31–35 | 29–35 |
+| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 32 | 31–35 | 31–36 | 31–38 | 29–39 |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 28 | 27–29 | 27–30 | 26–31 | 26–31 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 29 | 29 | 28–29 | 27–29 | 26–29 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 31 | 27–32 | 27–34 | 27–35 | 26–37 |
@@ -438,7 +441,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [17–23 September 2018](2018-09-23-Peilnl.html) | Peil.nl | 26 | 25–26 | 25–26 | 25–26 | 25–27 |
 | [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 30 | 29–34 | 28–34 | 28–35 | 27–36 |
 | [10–16 September 2018](2018-09-16-Peilnl.html) | Peil.nl | 26 | 25–26 | 25–26 | 25–26 | 25–27 |
-| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 28 | 28 | 28 | 28 | 28–29 |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 28 | 28 | 28–29 | 25–29 | 23–30 |
 | [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 26 | 25–26 | 24–26 | 24–27 | 24–31 |
 | [3–9 September 2018](2018-09-09-Peilnl.html) | Peil.nl | 30 | 27–30 | 25–30 | 25–30 | 25–30 |
 | [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 34 | 32–34 | 30–34 | 30–34 | 28–34 |
@@ -553,23 +556,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0.1% | 100% |  |
-| 33 | 0.1% | 99.9% | Last Result |
-| 34 | 2% | 99.7% |  |
-| 35 | 10% | 98% |  |
-| 36 | 5% | 88% |  |
-| 37 | 4% | 82% |  |
-| 38 | 9% | 78% |  |
-| 39 | 4% | 69% |  |
-| 40 | 3% | 65% |  |
-| 41 | 29% | 62% | Median |
-| 42 | 25% | 33% |  |
-| 43 | 2% | 8% |  |
-| 44 | 4% | 7% |  |
-| 45 | 2% | 2% |  |
-| 46 | 0.5% | 0.6% |  |
+| 33 | 0% | 100% | Last Result |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.1% | 99.9% |  |
+| 36 | 2% | 99.8% |  |
+| 37 | 0.9% | 97% |  |
+| 38 | 6% | 97% |  |
+| 39 | 4% | 91% |  |
+| 40 | 3% | 87% |  |
+| 41 | 39% | 83% | Median |
+| 42 | 33% | 44% |  |
+| 43 | 2% | 11% |  |
+| 44 | 6% | 9% |  |
+| 45 | 2% | 3% |  |
+| 46 | 0.6% | 0.7% |  |
 | 47 | 0% | 0.1% |  |
-| 48 | 0% | 0.1% |  |
+| 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 
 

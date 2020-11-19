@@ -10,7 +10,9 @@ Last result: **13.1%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.7% | 11.9–17.6% | 11.5–18.2% | 11.2–18.7% | 10.6–19.6% |
+| N/A | [Poll Average](average.html) | 13.2% | 11.7–17.9% | 11.4–18.5% | 11.1–18.9% | 10.5–19.8% |
+| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 16.0% | N/A | N/A | N/A | N/A |
+| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 16.0% | N/A | N/A | N/A | N/A |
 | [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 16.0% | 15.1–16.9% | 14.9–17.1% | 14.7–17.3% | 14.3–17.8% |
 | [23–26 October 2020](2020-10-26-Ipsos.html) | Ipsos <br> EenVandaag | 12.6% | 11.4–14.1% | 11.1–14.4% | 10.8–14.8% | 10.2–15.5% |
 | [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 16.0% | 15.1–16.9% | 14.9–17.1% | 14.7–17.3% | 14.3–17.8% |
@@ -270,17 +272,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.4% | 100% |  |
-| 10.5–11.5% | 5% | 99.6% |  |
-| 11.5–12.5% | 18% | 94% |  |
-| 12.5–13.5% | 19% | 76% | Last Result |
-| 13.5–14.5% | 7% | 58% |  |
-| 14.5–15.5% | 8% | 51% | Median |
-| 15.5–16.5% | 19% | 42% |  |
-| 16.5–17.5% | 13% | 24% |  |
-| 17.5–18.5% | 7% | 11% |  |
-| 18.5–19.5% | 3% | 3% |  |
-| 19.5–20.5% | 0.5% | 0.6% |  |
+| 9.5–10.5% | 0.6% | 100% |  |
+| 10.5–11.5% | 7% | 99.4% |  |
+| 11.5–12.5% | 24% | 93% |  |
+| 12.5–13.5% | 25% | 69% | Last Result, Median |
+| 13.5–14.5% | 9% | 44% |  |
+| 14.5–15.5% | 3% | 35% |  |
+| 15.5–16.5% | 7% | 32% |  |
+| 16.5–17.5% | 11% | 25% |  |
+| 17.5–18.5% | 9% | 14% |  |
+| 18.5–19.5% | 4% | 4% |  |
+| 19.5–20.5% | 0.7% | 0.8% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -293,7 +295,9 @@ Last result: **20** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 18–29 | 18–29 | 18–29 | 17–31 |
+| N/A | [Poll Average](average.html) | 19 | 18–29 | 18–29 | 18–29 | 16–31 |
+| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 24 | 22–27 | 22–27 | 22–27 | 22–27 |
 | [23–26 October 2020](2020-10-26-Ipsos.html) | Ipsos <br> EenVandaag | 18 | 18–20 | 18–22 | 17–22 | 15–23 |
 | [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 26 | 24–28 | 23–28 | 23–28 | 22–28 |
@@ -357,7 +361,7 @@ Last result: **20** seats (General Election of 15 March 2017)
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 19 | 17–20 | 16–20 | 15–21 | 15–22 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 18 | 18 | 18–19 | 18–19 | 17–20 |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 17 | 17 | 16–18 | 16–18 | 16–20 |
-| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 16 | 16 | 15–17 | 15–18 | 13–18 |
+| [25–28 October 2019](2019-10-28-Ipsos.html) | Ipsos <br> EenVandaag | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
 | [21–26 October 2019](2019-10-26-Peilnl.html) | Peil.nl | 16 | 16–17 | 16–18 | 15–18 | 15–19 |
 | [14–19 October 2019](2019-10-19-Peilnl.html) | Peil.nl | 17 | 17 | 16–18 | 16–18 | 16–20 |
 | [15 October 2019](2019-10-15-KantarPublic.html) | Kantar Public | 15 | 14–17 | 13–17 | 13–19 | 12–19 |
@@ -439,7 +443,7 @@ Last result: **20** seats (General Election of 15 March 2017)
 | [17–23 September 2018](2018-09-23-Peilnl.html) | Peil.nl | 19 | 17–19 | 17–19 | 17–19 | 17–19 |
 | [21–23 September 2018](2018-09-23-Ipsos.html) | Ipsos <br> EenVandaag | 20 | 19–23 | 18–24 | 17–24 | 16–24 |
 | [10–16 September 2018](2018-09-16-Peilnl.html) | Peil.nl | 17 | 15–17 | 15–17 | 15–17 | 15–17 |
-| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 22 | 22 | 22 | 22 | 21–22 |
+| [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 22 | 21–22 | 21–22 | 21–22 | 19–23 |
 | [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [3–9 September 2018](2018-09-09-Peilnl.html) | Peil.nl | 15 | 15–16 | 15–16 | 15–17 | 14–18 |
 | [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 19 | 19–20 | 17–20 | 16–20 | 15–23 |
@@ -554,23 +558,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.3% | 100% |  |
-| 16 | 0.1% | 99.7% |  |
-| 17 | 0.8% | 99.5% |  |
-| 18 | 15% | 98.7% |  |
-| 19 | 29% | 84% |  |
-| 20 | 3% | 55% | Last Result |
-| 21 | 0.4% | 52% |  |
-| 22 | 5% | 52% | Median |
-| 23 | 5% | 47% |  |
-| 24 | 8% | 42% |  |
-| 25 | 8% | 34% |  |
-| 26 | 4% | 26% |  |
-| 27 | 4% | 22% |  |
-| 28 | 4% | 17% |  |
-| 29 | 12% | 13% |  |
-| 30 | 0.4% | 1.1% |  |
-| 31 | 0.6% | 0.6% |  |
-| 32 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.4% | 99.9% |  |
+| 16 | 0.2% | 99.6% |  |
+| 17 | 1.1% | 99.4% |  |
+| 18 | 20% | 98% |  |
+| 19 | 39% | 79% | Median |
+| 20 | 3% | 40% | Last Result |
+| 21 | 0.4% | 37% |  |
+| 22 | 2% | 36% |  |
+| 23 | 0.8% | 34% |  |
+| 24 | 0.4% | 33% |  |
+| 25 | 5% | 33% |  |
+| 26 | 3% | 27% |  |
+| 27 | 1.3% | 24% |  |
+| 28 | 6% | 23% |  |
+| 29 | 16% | 17% |  |
+| 30 | 0.5% | 1.4% |  |
+| 31 | 0.8% | 0.9% |  |
+| 32 | 0% | 0.1% |  |
+| 33 | 0% | 0% |  |
 
 
