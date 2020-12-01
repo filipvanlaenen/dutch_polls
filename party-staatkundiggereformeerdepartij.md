@@ -429,7 +429,7 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [19–25 November 2018](2018-11-25-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | [12–18 November 2018](2018-11-18-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [5–11 November 2018](2018-11-11-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [29 October–4 November 2018](2018-11-04-Peilnl.html) | Peil.nl | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [29 October–4 November 2018](2018-11-04-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26–29 October 2018](2018-10-29-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | [22–28 October 2018](2018-10-28-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–21 October 2018](2018-10-21-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -507,11 +507,11 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [5 October 2017](2017-10-05-Ipsos.html) | Ipsos | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | [1 October 2017](2017-10-01-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–25 September 2017](2017-09-25-GfK.html) | GfK <br> EenVandaag | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [24 September 2017](2017-09-24-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [17 September 2017](2017-09-17-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [24 September 2017](2017-09-24-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [17 September 2017](2017-09-17-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [14 September 2017](2017-09-14-Ipsos.html) | Ipsos | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | [11 September 2017](2017-09-11-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [10 September 2017](2017-09-10-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–4 September 2017](2017-09-04-GfK.html) | GfK <br> EenVandaag | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [3 September 2017](2017-09-03-Peilnl.html) | Peil.nl | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | [31 August 2017](2017-08-31-KantarPublic.html) | Kantar Public | 2 | 1–4 | 1–4 | 1–4 | 1–5 |
