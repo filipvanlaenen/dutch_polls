@@ -331,7 +331,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [31 May 2020](2020-05-31-Peilnl.html) | Peil.nl | 35 | 35–38 | 34–38 | 34–38 | 34–38 |
 | [22–24 May 2020](2020-05-24-Ipsos.html) | Ipsos <br> EenVandaag | 44 | 40–47 | 40–48 | 40–49 | 39–50 |
 | [15–16 May 2020](2020-05-16-Peilnl.html) | Peil.nl | 34 | 33–35 | 32–35 | 32–35 | 31–35 |
-| [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 45 | 45 | 45 | 45 | 41–47 |
+| [7–12 May 2020](2020-05-12-IOResearch.html) | I&O Research | 44 | 44–45 | 44–45 | 44–45 | 42–47 |
 | [8–9 May 2020](2020-05-09-Peilnl.html) | Peil.nl | 34 | 33–35 | 32–35 | 32–35 | 31–35 |
 | [1–2 May 2020](2020-05-02-Peilnl.html) | Peil.nl | 32 | 31–32 | 31–32 | 31–32 | 30–35 |
 | [26 April 2020](2020-04-26-Peilnl.html) | Peil.nl | 30 | 30–31 | 29–31 | 29–32 | 27–33 |
@@ -358,8 +358,8 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [2–7 December 2019](2019-12-07-Peilnl.html) | Peil.nl | 19 | 18–21 | 17–21 | 17–21 | 17–22 |
 | [25–30 November 2019](2019-11-30-Peilnl.html) | Peil.nl | 22 | 22–23 | 21–23 | 21–25 | 21–25 |
 | [22–25 November 2019](2019-11-25-Ipsos.html) | Ipsos <br> EenVandaag | 25 | 24–29 | 24–29 | 23–30 | 22–30 |
-| [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 24 | 23–26 | 23–26 | 23–26 | 23–27 |
-| [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 24 | 23–26 | 23–26 | 23–26 | 23–27 |
+| [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 23 | 22–26 | 22–27 | 21–27 | 21–27 |
+| [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 23 | 22–26 | 22–27 | 21–27 | 21–27 |
 | [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 32 | 32 | 32 | 32–34 | 29–36 |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 27 | 27 | 26–27 | 26–27 | 26–28 |
@@ -405,7 +405,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [15–21 April 2019](2019-04-21-Peilnl.html) | Peil.nl | 22 | 21–23 | 21–23 | 21–24 | 20–25 |
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 22 | 21–23 | 21–23 | 21–24 | 20–25 |
 | [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 22 | 21–23 | 21–23 | 21–24 | 20–25 |
-| [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 23 | 23–25 | 23–25 | 22–25 | 21–26 |
+| [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 22 | 22–26 | 22–26 | 22–26 | 22–26 |
 | [21 March 2019](2019-03-21-Ipsos.html) | Ipsos | 27 | 24–29 | 22–29 | 21–30 | 21–31 |
 | [18 March 2019](2019-03-18-IOResearch.html) | I&O Research | 21 | 21–23 | 20–26 | 20–27 | 20–27 |
@@ -419,11 +419,11 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl | 23 | 21–25 | 21–25 | 21–25 | 21–25 |
 | [12 February 2019](2019-02-12-KantarPublic.html) | Kantar Public | 27 | 25–28 | 25–29 | 25–31 | 24–33 |
 | [4–10 February 2019](2019-02-10-Peilnl.html) | Peil.nl | 23 | 21–25 | 21–25 | 21–25 | 21–25 |
-| [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl | 23 | 23 | 23–24 | 22–24 | 21–25 |
+| [28 January–3 February 2019](2019-02-03-Peilnl.html) | Peil.nl | 23 | 21–24 | 20–25 | 20–25 | 19–25 |
 | [25–28 January 2019](2019-01-28-Ipsos.html) | Ipsos <br> EenVandaag | 26 | 25–28 | 25–28 | 24–30 | 23–31 |
-| [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 23 | 23 | 23–24 | 22–24 | 21–25 |
+| [21–27 January 2019](2019-01-27-Peilnl.html) | Peil.nl | 23 | 21–24 | 20–25 | 20–25 | 19–25 |
 | [18–22 January 2019](2019-01-22-IOResearch.html) | I&O Research | 27 | 26–27 | 25–27 | 24–27 | 23–27 |
-| [14–20 January 2019](2019-01-20-Peilnl.html) | Peil.nl | 23 | 23 | 23–24 | 22–24 | 21–25 |
+| [14–20 January 2019](2019-01-20-Peilnl.html) | Peil.nl | 23 | 21–24 | 20–25 | 20–25 | 19–25 |
 | [7–13 January 2019](2019-01-13-Peilnl.html) | Peil.nl | 22 | 21–23 | 21–23 | 21–24 | 20–24 |
 | [12 January 2019](2019-01-12-KantarPublic.html) | Kantar Public | 26 | 26–29 | 26–29 | 26–29 | 25–32 |
 | [14–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> EenVandaag | 29 | 26–29 | 24–31 | 24–31 | 23–33 |
@@ -454,13 +454,13 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [20–26 August 2018](2018-08-26-Peilnl.html) | Peil.nl | 30 | 30 | 30 | 30 | 29–31 |
 | [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl | 30 | 29–33 | 29–33 | 27–33 | 27–34 |
 | [27–30 July 2018](2018-07-30-Ipsos.html) | Ipsos <br> EenVandaag | 29 | 29–32 | 29–35 | 29–35 | 29–37 |
-| [2–8 July 2018](2018-07-08-Peilnl.html) | Peil.nl | 29 | 29–32 | 29–32 | 29–32 | 28–33 |
+| [2–8 July 2018](2018-07-08-Peilnl.html) | Peil.nl | 31 | 30–31 | 30–34 | 29–34 | 29–34 |
 | [25 June–1 July 2018](2018-07-01-Peilnl.html) | Peil.nl | 29 | 29–30 | 29–30 | 29–30 | 28–30 |
 | [13–29 June 2018](2018-06-29-IOResearch.html) | I&O Research | 26 | 25–28 | 25–28 | 24–28 | 24–29 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 32 | 30–33 | 29–34 | 28–34 | 28–35 |
 | [18–24 June 2018](2018-06-24-Peilnl.html) | Peil.nl | 27 | 27 | 27 | 27 | 27–28 |
-| [11–17 June 2018](2018-06-17-Peilnl.html) | Peil.nl | 29 | 26–29 | 26–29 | 26–29 | 25–30 |
-| [13 June 2018](2018-06-13-KantarPublic.html) | Kantar Public | 36 | 32–36 | 29–37 | 29–37 | 28–37 |
+| [11–17 June 2018](2018-06-17-Peilnl.html) | Peil.nl | 28 | 28 | 26–29 | 26–29 | 26–31 |
+| [13 June 2018](2018-06-13-KantarPublic.html) | Kantar Public | 34 | 29–36 | 29–36 | 29–36 | 29–38 |
 | [4–10 June 2018](2018-06-10-Peilnl.html) | Peil.nl | 29 | 26–29 | 26–29 | 26–29 | 25–30 |
 | [28 May–3 June 2018](2018-06-03-Peilnl.html) | Peil.nl | 25 | 25–26 | 24–26 | 24–28 | 24–28 |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 31 | 29–33 | 29–34 | 28–34 | 27–37 |
@@ -478,7 +478,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 33 | 32–35 | 30–35 | 30–36 | 28–36 |
 | [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 27 | 25–28 | 24–28 | 24–30 | 23–31 |
 | [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 27 | 25–28 | 25–28 | 24–28 | 24–29 |
-| [5–11 March 2018](2018-03-11-Peilnl.html) | Peil.nl | 26 | 26–27 | 25–27 | 25–27 | 23–28 |
+| [5–11 March 2018](2018-03-11-Peilnl.html) | Peil.nl | 25 | 24–26 | 24–27 | 24–27 | 24–28 |
 | [26 February–4 March 2018](2018-03-04-Peilnl.html) | Peil.nl | 26 | 26–28 | 25–28 | 25–28 | 25–28 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 32 | 30–32 | 28–32 | 27–33 | 27–35 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 29 | 28–33 | 27–33 | 27–35 | 26–38 |
@@ -496,8 +496,8 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [18 December 2017](2017-12-18-Ipsos.html) | Ipsos | 31 | 28–33 | 27–35 | 26–35 | 26–37 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 30 | 30–31 | 30–31 | 30–31 | 27–32 |
 | [17 December 2017](2017-12-17-Peilnl.html) | Peil.nl | 25 | 25–26 | 25–26 | 25–26 | 23–28 |
-| [10 December 2017](2017-12-10-Peilnl.html) | Peil.nl | 24 | 24–26 | 24–27 | 24–28 | 24–28 |
-| [3 December 2017](2017-12-03-Peilnl.html) | Peil.nl | 24 | 24–26 | 24–27 | 24–28 | 24–28 |
+| [10 December 2017](2017-12-10-Peilnl.html) | Peil.nl | 28 | 28 | 25–28 | 24–28 | 24–28 |
+| [3 December 2017](2017-12-03-Peilnl.html) | Peil.nl | 27 | 24–28 | 24–28 | 24–28 | 24–29 |
 | [30 November 2017](2017-11-30-Ipsos.html) | Ipsos | 31 | 29–35 | 27–37 | 27–37 | 26–40 |
 | [27 November 2017](2017-11-27-GfK.html) | GfK <br> EenVandaag | 28 | 25–29 | 25–29 | 25–29 | 25–32 |
 | [26 November 2017](2017-11-26-Peilnl.html) | Peil.nl | 27 | 27–29 | 27–32 | 27–32 | 27–32 |
@@ -505,7 +505,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [12 November 2017](2017-11-12-Peilnl.html) | Peil.nl | 28 | 28–29 | 28–29 | 28–30 | 28–30 |
 | [5 November 2017](2017-11-05-Peilnl.html) | Peil.nl | 30 | 29–31 | 29–31 | 29–31 | 27–31 |
 | [2 November 2017](2017-11-02-Ipsos.html) | Ipsos | 30 | 30–31 | 29–33 | 27–34 | 26–36 |
-| [30 October 2017](2017-10-30-IOResearch.html) | I&O Research | 30 | 29–30 | 29–30 | 29–31 | 26–32 |
+| [30 October 2017](2017-10-30-IOResearch.html) | I&O Research | 30 | 27–32 | 27–32 | 26–32 | 26–34 |
 | [27–30 October 2017](2017-10-30-GfK.html) | GfK <br> EenVandaag | 30 | 30–31 | 30–31 | 29–31 | 27–37 |
 | [29 October 2017](2017-10-29-Peilnl.html) | Peil.nl | 29 | 29 | 29–30 | 29–31 | 29–31 |
 | [15 October 2017](2017-10-15-Peilnl.html) | Peil.nl | 29 | 28–31 | 28–31 | 28–31 | 28–33 |
