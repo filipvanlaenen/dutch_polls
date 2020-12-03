@@ -408,7 +408,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 22 | 22–26 | 22–26 | 22–26 | 22–26 |
 | [21 March 2019](2019-03-21-Ipsos.html) | Ipsos | 27 | 24–29 | 22–29 | 21–30 | 21–31 |
-| [18 March 2019](2019-03-18-IOResearch.html) | I&O Research | 21 | 21–23 | 20–26 | 20–27 | 20–27 |
+| [18 March 2019](2019-03-18-IOResearch.html) | I&O Research | 24 | 21–24 | 21–24 | 21–25 | 20–26 |
 | [11–16 March 2019](2019-03-16-Peilnl.html) | Peil.nl | 21 | 21–24 | 21–25 | 21–25 | 21–25 |
 | [8–12 March 2019](2019-03-12-IOResearch.html) | I&O Research | 25 | 23–26 | 23–27 | 22–28 | 21–28 |
 | [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 25 | 23–25 | 22–25 | 22–25 | 22–27 |
@@ -459,9 +459,9 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [13–29 June 2018](2018-06-29-IOResearch.html) | I&O Research | 26 | 25–28 | 25–28 | 24–28 | 24–29 |
 | [22–25 June 2018](2018-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 32 | 30–33 | 29–34 | 28–34 | 28–35 |
 | [18–24 June 2018](2018-06-24-Peilnl.html) | Peil.nl | 27 | 27 | 27 | 27 | 27–28 |
-| [11–17 June 2018](2018-06-17-Peilnl.html) | Peil.nl | 28 | 28 | 26–29 | 26–29 | 26–31 |
+| [11–17 June 2018](2018-06-17-Peilnl.html) | Peil.nl | 28 | 27–28 | 26–29 | 26–29 | 25–31 |
 | [13 June 2018](2018-06-13-KantarPublic.html) | Kantar Public | 34 | 29–36 | 29–36 | 29–36 | 29–38 |
-| [4–10 June 2018](2018-06-10-Peilnl.html) | Peil.nl | 29 | 26–29 | 26–29 | 26–29 | 25–30 |
+| [4–10 June 2018](2018-06-10-Peilnl.html) | Peil.nl | 28 | 27–28 | 26–29 | 26–29 | 25–31 |
 | [28 May–3 June 2018](2018-06-03-Peilnl.html) | Peil.nl | 25 | 25–26 | 24–26 | 24–28 | 24–28 |
 | [25–28 May 2018](2018-05-28-Ipsos.html) | Ipsos <br> EenVandaag | 31 | 29–33 | 29–34 | 28–34 | 27–37 |
 | [21–27 May 2018](2018-05-27-Peilnl.html) | Peil.nl | 24 | 24–26 | 24–26 | 24–26 | 24–28 |
@@ -546,7 +546,7 @@ Last result: **33** seats (General Election of 15 March 2017)
 | [4 May 2017](2017-05-04-Ipsos.html) | Ipsos | 36 | 35–42 | 34–42 | 32–42 | 32–42 |
 | [24 April 2017](2017-04-24-GfK.html) | GfK <br> EenVandaag | 32 | 32–34 | 32–34 | 32–34 | 31–34 |
 | [23 April 2017](2017-04-23-Peilnl.html) | Peil.nl | 32 | 32–34 | 32–34 | 32–35 | 30–35 |
-| [20 April 2017](2017-04-20-Ipsos.html) | Ipsos | 36 | 34–39 | 33–40 | 33–42 | 33–45 |
+| [20 April 2017](2017-04-20-Ipsos.html) | Ipsos | 36 | 33–39 | 33–40 | 33–43 | 33–44 |
 | [16 April 2017](2017-04-16-Peilnl.html) | Peil.nl | 32 | 32–34 | 32–34 | 32–35 | 30–35 |
 | [9 April 2017](2017-04-09-Peilnl.html) | Peil.nl | 33 | 33 | 33 | 33 | 32–34 |
 | [6 April 2017](2017-04-06-Ipsos.html) | Ipsos | 33 | 31–38 | 31–40 | 30–40 | 29–40 |
