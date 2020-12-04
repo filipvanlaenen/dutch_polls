@@ -399,7 +399,7 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [8–14 April 2019](2019-04-14-Peilnl.html) | Peil.nl | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [1–7 April 2019](2019-04-07-Peilnl.html) | Peil.nl | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [25–31 March 2019](2019-03-31-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [18–24 March 2019](2019-03-24-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21 March 2019](2019-03-21-Ipsos.html) | Ipsos | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | [18 March 2019](2019-03-18-IOResearch.html) | I&O Research | 2 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [11–16 March 2019](2019-03-16-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -407,7 +407,7 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [4–10 March 2019](2019-03-10-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [25 February–3 March 2019](2019-03-03-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [22–26 February 2019](2019-02-26-IOResearch.html) | I&O Research | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [18–24 February 2019](2019-02-24-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [22–24 February 2019](2019-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
 | [11–17 February 2019](2019-02-17-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [12 February 2019](2019-02-12-KantarPublic.html) | Kantar Public | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -425,8 +425,8 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [3–9 December 2018](2018-12-09-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [26 November–2 December 2018](2018-12-02-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [22–27 November 2018](2018-11-27-IOResearch.html) | I&O Research | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
-| [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
-| [19–25 November 2018](2018-11-25-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
+| [23–26 November 2018](2018-11-26-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
+| [19–25 November 2018](2018-11-25-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–18 November 2018](2018-11-18-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [5–11 November 2018](2018-11-11-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [29 October–4 November 2018](2018-11-04-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -442,7 +442,7 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [13–16 September 2018](2018-09-16-KantarPublic.html) | Kantar Public | 2 | 2 | 2–4 | 2–4 | 2–4 |
 | [7–11 September 2018](2018-09-11-IOResearch.html) | I&O Research | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [3–9 September 2018](2018-09-09-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
+| [31 August–3 September 2018](2018-09-03-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | [27 August–2 September 2018](2018-09-02-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
 | [20–26 August 2018](2018-08-26-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
 | [13–19 August 2018](2018-08-19-Peilnl.html) | Peil.nl | 3 | 3 | 3–4 | 2–4 | 2–4 |
@@ -484,19 +484,19 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [22–28 January 2018](2018-01-28-Peilnl.html) | Peil.nl | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [25–28 January 2018](2018-01-28-KantarPublic.html) | Kantar Public | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
 | [15–21 January 2018](2018-01-21-Peilnl.html) | Peil.nl | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [8–14 January 2018](2018-01-14-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–24 December 2017](2017-12-24-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18 December 2017](2017-12-18-Ipsos.html) | Ipsos | 4 | 2–4 | 2–5 | 2–5 | 2–6 |
 | [15–18 December 2017](2017-12-18-GfK.html) | GfK <br> EenVandaag | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [17 December 2017](2017-12-17-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [10 December 2017](2017-12-10-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3 December 2017](2017-12-03-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [30 November 2017](2017-11-30-Ipsos.html) | Ipsos | 2 | 2–4 | 2–4 | 2–4 | 1–7 |
+| [30 November 2017](2017-11-30-Ipsos.html) | Ipsos | 2 | 2–4 | 2–4 | 2–5 | 1–5 |
 | [27 November 2017](2017-11-27-GfK.html) | GfK <br> EenVandaag | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [26 November 2017](2017-11-26-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [19 November 2017](2017-11-19-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [12 November 2017](2017-11-12-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [5 November 2017](2017-11-05-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2–3 |
+| [5 November 2017](2017-11-05-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [2 November 2017](2017-11-02-Ipsos.html) | Ipsos | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [30 October 2017](2017-10-30-IOResearch.html) | I&O Research | 3 | 2–5 | 2–5 | 2–5 | 2–6 |
 | [27–30 October 2017](2017-10-30-GfK.html) | GfK <br> EenVandaag | 3 | 3 | 3 | 3 | 2–3 |
@@ -518,7 +518,7 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [27 August 2017](2017-08-27-Peilnl.html) | Peil.nl | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [20 August 2017](2017-08-20-Peilnl.html) | Peil.nl | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [10 August 2017](2017-08-10-Ipsos.html) | Ipsos | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
-| [30 July 2017](2017-07-30-Peilnl.html) | Peil.nl | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| [30 July 2017](2017-07-30-Peilnl.html) | Peil.nl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [21–24 July 2017](2017-07-24-GfK.html) | GfK <br> EenVandaag | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [16 July 2017](2017-07-16-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13 July 2017](2017-07-13-Ipsos.html) | Ipsos | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
