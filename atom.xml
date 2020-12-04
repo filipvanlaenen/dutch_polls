@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/dutch_polls</id>
   <title>All Registered Polls for the Tweede Kamer</title>
-  <updated>2020-12-02T21:37:48.592364+01:00</updated>
+  <updated>2020-12-04T18:37:46.433324+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 22.5–25.5%, 35–39 seats</li><li>Partij voor de Vrijheid: 14.7–17.3%, 22–27 seats</li><li>Christen-Democratisch Appèl: 7.1–9.0%, 11–13 seats</li><li>Democraten 66: 7.7–9.7%, 11–14 seats</li><li>GroenLinks: 7.1–9.0%, 11–13 seats</li><li>Socialistische Partij: 5.8–7.6%, 9–11 seats</li><li>Partij van de Arbeid: 7.7–9.7%, 13–15 seats</li><li>ChristenUnie: 4.0–5.5%, 6–8 seats</li><li>Partij voor de Dieren: 3.4–4.8%, 5–7 seats</li><li>50Plus: 0.4–1.0%, 0–1 seats</li><li>Staatkundig Gereformeerde Partij: 2.1–3.3%, 3–4 seats</li><li>DENK: 1.6–2.6%, 2–3 seats</li><li>Forum voor Democratie: 4.6–6.2%, 7–9 seats</li><li>Partij voor de Toekomst: 0.1–0.4%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/dutch_polls/2020-11-21-Peilnl.html</id>
@@ -488,6 +488,14 @@
     <dc:date>2020-12-01T19:58:08.373018+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 14.1–16.7%, 21–25 seats</li><li>Partij voor de Vrijheid: 5.8–7.6%, 8–11 seats</li><li>Christen-Democratisch Appèl: 8.3–10.4%, 13–15 seats</li><li>Democraten 66: 7.1–9.0%, 10–14 seats</li><li>GroenLinks: 10.9–13.2%, 17–21 seats</li><li>Socialistische Partij: 5.2–6.9%, 7–10 seats</li><li>Partij van de Arbeid: 7.7–9.7%, 12–15 seats</li><li>ChristenUnie: 4.0–5.5%, 6–8 seats</li><li>Partij voor de Dieren: 4.0–5.5%, 6–8 seats</li><li>50Plus: 2.1–3.3%, 3–4 seats</li><li>Staatkundig Gereformeerde Partij: 1.0–1.8%, 1–2 seats</li><li>DENK: 2.1–3.3%, 3–5 seats</li><li>Forum voor Democratie: 16.0–18.7%, 24–29 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2019-03-24-Peilnl.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2019-03-24-Peilnl.html"/>
+    <title>Opinion Poll by Peil.nl, 18–24 March 2019</title>
+    <updated>2020-12-04T07:26:14.433254+01:00</updated>
+    <dc:date>2020-12-04T07:26:14.433254+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 14.9–19.6%, 21–30 seats</li><li>Partij voor de Vrijheid: 10.8–14.9%, 16–22 seats</li><li>Christen-Democratisch Appèl: 7.6–11.2%, 12–17 seats</li><li>Democraten 66: 6.7–10.2%, 10–16 seats</li><li>GroenLinks: 8.0–11.7%, 12–17 seats</li><li>Socialistische Partij: 5.6–8.8%, 8–14 seats</li><li>Partij van de Arbeid: 4.7–7.7%, 7–12 seats</li><li>ChristenUnie: 3.4–6.0%, 5–9 seats</li><li>Partij voor de Dieren: 3.5–6.1%, 5–9 seats</li><li>50Plus: 3.4–6.0%, 5–8 seats</li><li>Staatkundig Gereformeerde Partij: 1.4–3.3%, 2–5 seats</li><li>DENK: 1.4–3.3%, 2–5 seats</li><li>Forum voor Democratie: 9.6–13.5%, 14–20 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/dutch_polls/2019-03-21-Ipsos.html</id>
     <link href="https://filipvanlaenen.github.io/dutch_polls/2019-03-21-Ipsos.html"/>
@@ -510,6 +518,14 @@
     <title>Opinion Poll by I&amp;O Research, 8–12 March 2019</title>
     <updated>2020-11-15T21:28:17.377226+01:00</updated>
     <dc:date>2020-11-15T21:28:17.377226+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 13.4–16.0%, 21–25 seats</li><li>Partij voor de Vrijheid: 10.9–13.2%, 17–19 seats</li><li>Christen-Democratisch Appèl: 5.2–6.9%, 7–10 seats</li><li>Democraten 66: 5.2–6.9%, 8–10 seats</li><li>GroenLinks: 10.9–13.2%, 17–19 seats</li><li>Socialistische Partij: 7.1–9.0%, 11–14 seats</li><li>Partij van de Arbeid: 8.3–10.4%, 12–15 seats</li><li>ChristenUnie: 4.0–5.5%, 6–8 seats</li><li>Partij voor de Dieren: 4.6–6.2%, 7–9 seats</li><li>50Plus: 2.7–4.0%, 4–5 seats</li><li>Staatkundig Gereformeerde Partij: 1.6–2.6%, 2–3 seats</li><li>DENK: 4.0–5.5%, 6–8 seats</li><li>Forum voor Democratie: 10.9–13.2%, 17–20 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2019-02-24-Peilnl.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2019-02-24-Peilnl.html"/>
+    <title>Opinion Poll by Peil.nl, 18–24 February 2019</title>
+    <updated>2020-12-03T21:14:18.524817+01:00</updated>
+    <dc:date>2020-12-03T21:14:18.524817+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 16.2–20.9%, 24–32 seats</li><li>Partij voor de Vrijheid: 10.5–14.5%, 15–21 seats</li><li>Christen-Democratisch Appèl: 7.0–10.5%, 10–15 seats</li><li>Democraten 66: 7.5–11.1%, 11–17 seats</li><li>GroenLinks: 8.9–12.7%, 14–19 seats</li><li>Socialistische Partij: 6.0–9.2%, 9–13 seats</li><li>Partij van de Arbeid: 4.8–7.8%, 7–12 seats</li><li>ChristenUnie: 3.1–5.6%, 4–8 seats</li><li>Partij voor de Dieren: 3.0–5.5%, 4–7 seats</li><li>50Plus: 3.0–5.5%, 4–8 seats</li><li>Staatkundig Gereformeerde Partij: 1.7–3.7%, 2–5 seats</li><li>DENK: 1.4–3.2%, 2–4 seats</li><li>Forum voor Democratie: 8.2–11.9%, 13–17 seats</li></ul></div></content>
@@ -592,6 +608,22 @@
     <dc:date>2020-11-18T15:33:31.055296+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 16.4–21.2%, 24–33 seats</li><li>Partij voor de Vrijheid: 11.6–15.8%, 17–23 seats</li><li>Christen-Democratisch Appèl: 8.0–11.6%, 12–17 seats</li><li>Democraten 66: 6.6–10.0%, 9–16 seats</li><li>GroenLinks: 9.0–12.8%, 14–19 seats</li><li>Socialistische Partij: 6.6–10.0%, 10–15 seats</li><li>Partij van de Arbeid: 5.1–8.1%, 8–12 seats</li><li>ChristenUnie: 3.2–5.7%, 5–9 seats</li><li>Partij voor de Dieren: 3.5–6.1%, 5–9 seats</li><li>50Plus: 2.6–4.9%, 3–7 seats</li><li>Staatkundig Gereformeerde Partij: 1.7–3.7%, 2–6 seats</li><li>DENK: 1.4–3.2%, 2–4 seats</li><li>Forum voor Democratie: 5.2–8.3%, 8–12 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2018-11-26-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2018-11-26-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for EenVandaag, 23–26 November 2018</title>
+    <updated>2020-12-04T08:06:58.207657+01:00</updated>
+    <dc:date>2020-12-04T08:06:58.207657+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 14.1–16.7%, 21–26 seats</li><li>Partij voor de Vrijheid: 12.2–14.6%, 19–21 seats</li><li>Christen-Democratisch Appèl: 6.4–8.3%, 10–13 seats</li><li>Democraten 66: 5.8–7.6%, 9–11 seats</li><li>GroenLinks: 10.2–12.5%, 16–20 seats</li><li>Socialistische Partij: 7.7–9.7%, 12–16 seats</li><li>Partij van de Arbeid: 9.0–11.1%, 14–18 seats</li><li>ChristenUnie: 3.4–4.8%, 5–6 seats</li><li>Partij voor de Dieren: 4.6–6.2%, 6–9 seats</li><li>50Plus: 2.7–4.0%, 4–6 seats</li><li>Staatkundig Gereformeerde Partij: 1.6–2.6%, 2–3 seats</li><li>DENK: 4.0–5.5%, 5–8 seats</li><li>Forum voor Democratie: 7.1–9.0%, 10–14 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2018-11-25-Peilnl.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2018-11-25-Peilnl.html"/>
+    <title>Opinion Poll by Peil.nl, 19–25 November 2018</title>
+    <updated>2020-12-03T20:28:36.007492+01:00</updated>
+    <dc:date>2020-12-03T20:28:36.007492+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 14.7–17.4%, 23–26 seats</li><li>Partij voor de Vrijheid: 11.5–13.9%, 17–21 seats</li><li>Christen-Democratisch Appèl: 6.4–8.3%, 10–13 seats</li><li>Democraten 66: 5.8–7.6%, 9–11 seats</li><li>GroenLinks: 9.6–11.8%, 15–17 seats</li><li>Socialistische Partij: 8.3–10.4%, 13–15 seats</li><li>Partij van de Arbeid: 9.0–11.1%, 14–17 seats</li><li>ChristenUnie: 2.7–4.0%, 4–5 seats</li><li>Partij voor de Dieren: 4.6–6.2%, 7–9 seats</li><li>50Plus: 2.7–4.0%, 4–5 seats</li><li>Staatkundig Gereformeerde Partij: 1.6–2.6%, 2–3 seats</li><li>DENK: 4.0–5.5%, 6–8 seats</li><li>Forum voor Democratie: 7.7–9.7%, 11–14 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/dutch_polls/2018-11-18-Peilnl.html</id>
     <link href="https://filipvanlaenen.github.io/dutch_polls/2018-11-18-Peilnl.html"/>
@@ -662,6 +694,14 @@
     <title>Opinion Poll by Kantar Public, 13–16 September 2018</title>
     <updated>2020-11-18T21:08:48.011763+01:00</updated>
     <dc:date>2020-11-18T21:08:48.011763+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 18.0–22.8%, 28–34 seats</li><li>Partij voor de Vrijheid: 10.0–14.0%, 15–20 seats</li><li>Christen-Democratisch Appèl: 9.4–13.3%, 14–19 seats</li><li>Democraten 66: 7.1–10.6%, 11–16 seats</li><li>GroenLinks: 8.5–12.2%, 13–19 seats</li><li>Socialistische Partij: 7.7–11.2%, 12–15 seats</li><li>Partij van de Arbeid: 4.1–6.9%, 6–10 seats</li><li>ChristenUnie: 3.2–5.7%, 5–8 seats</li><li>Partij voor de Dieren: 3.6–6.2%, 5–10 seats</li><li>50Plus: 2.7–5.1%, 4–8 seats</li><li>Staatkundig Gereformeerde Partij: 1.4–3.2%, 2–5 seats</li><li>DENK: 1.2–2.8%, 1–4 seats</li><li>Forum voor Democratie: 4.5–7.3%, 7–10 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2018-09-03-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2018-09-03-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for EenVandaag, 31 August–3 September 2018</title>
+    <updated>2020-12-04T17:46:18.430087+01:00</updated>
+    <dc:date>2020-12-04T17:46:18.430087+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 18.0–20.8%, 30 seats</li><li>Partij voor de Vrijheid: 9.6–11.8%, 16–17 seats</li><li>Christen-Democratisch Appèl: 6.4–8.3%, 11 seats</li><li>Democraten 66: 7.1–9.0%, 12 seats</li><li>GroenLinks: 9.6–11.8%, 16 seats</li><li>Socialistische Partij: 7.1–9.0%, 11–13 seats</li><li>Partij van de Arbeid: 6.4–8.3%, 11 seats</li><li>ChristenUnie: 3.4–4.8%, 6 seats</li><li>Partij voor de Dieren: 4.0–5.5%, 7 seats</li><li>50Plus: 2.7–4.0%, 4–5 seats</li><li>Staatkundig Gereformeerde Partij: 1.6–2.6%, 2–3 seats</li><li>DENK: 3.4–4.8%, 6 seats</li><li>Forum voor Democratie: 9.6–11.8%, 15–16 seats</li></ul></div></content>
@@ -768,6 +808,14 @@
     <dc:date>2020-11-06T18:35:02.57304+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 16.7–19.4%, 26–30 seats</li><li>Partij voor de Vrijheid: 8.3–10.4%, 13–15 seats</li><li>Christen-Democratisch Appèl: 8.3–10.4%, 13–15 seats</li><li>Democraten 66: 9.0–11.1%, 14–17 seats</li><li>GroenLinks: 8.3–10.4%, 13–15 seats</li><li>Socialistische Partij: 8.3–10.4%, 13–15 seats</li><li>Partij van de Arbeid: 8.3–10.4%, 12–16 seats</li><li>ChristenUnie: 2.7–4.0%, 4–6 seats</li><li>Partij voor de Dieren: 4.0–5.5%, 6–8 seats</li><li>50Plus: 2.7–4.0%, 4–6 seats</li><li>Staatkundig Gereformeerde Partij: 1.6–2.6%, 2–3 seats</li><li>DENK: 1.6–2.6%, 2–3 seats</li><li>Forum voor Democratie: 9.0–11.1%, 14–17 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2018-01-14-Peilnl.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2018-01-14-Peilnl.html"/>
+    <title>Opinion Poll by Peil.nl, 8–14 January 2018</title>
+    <updated>2020-12-04T08:50:00.314138+01:00</updated>
+    <dc:date>2020-12-04T08:50:00.314138+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 17.4–22.4%, 26–35 seats</li><li>Partij voor de Vrijheid: 9.9–14.0%, 15–21 seats</li><li>Christen-Democratisch Appèl: 7.7–11.4%, 11–17 seats</li><li>Democraten 66: 8.9–12.8%, 14–19 seats</li><li>GroenLinks: 7.1–10.6%, 11–15 seats</li><li>Socialistische Partij: 6.5–9.9%, 10–15 seats</li><li>Partij van de Arbeid: 5.2–8.3%, 7–14 seats</li><li>ChristenUnie: 2.9–5.3%, 4–8 seats</li><li>Partij voor de Dieren: 3.3–5.9%, 5–9 seats</li><li>50Plus: 2.3–4.5%, 3–7 seats</li><li>Staatkundig Gereformeerde Partij: 1.7–3.7%, 2–5 seats</li><li>DENK: 1.8–3.8%, 2–5 seats</li><li>Forum voor Democratie: 6.3–9.6%, 9–14 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/dutch_polls/2017-12-18-Ipsos.html</id>
     <link href="https://filipvanlaenen.github.io/dutch_polls/2017-12-18-Ipsos.html"/>
@@ -822,6 +870,14 @@
     <title>Opinion Poll by Peil.nl, 12 November 2017</title>
     <updated>2020-11-27T08:26:20.096146+01:00</updated>
     <dc:date>2020-11-27T08:26:20.096146+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 18.0–20.8%, 29–31 seats</li><li>Partij voor de Vrijheid: 9.6–11.8%, 14–17 seats</li><li>Christen-Democratisch Appèl: 9.6–11.8%, 15–19 seats</li><li>Democraten 66: 10.9–13.2%, 17–20 seats</li><li>GroenLinks: 7.7–9.7%, 12–15 seats</li><li>Socialistische Partij: 7.1–9.0%, 10–13 seats</li><li>Partij van de Arbeid: 7.7–9.7%, 11–14 seats</li><li>ChristenUnie: 2.7–4.0%, 4–6 seats</li><li>Partij voor de Dieren: 3.4–4.8%, 5–7 seats</li><li>50Plus: 2.7–4.0%, 4–6 seats</li><li>Staatkundig Gereformeerde Partij: 1.6–2.6%, 2–4 seats</li><li>DENK: 1.6–2.6%, 2–4 seats</li><li>Forum voor Democratie: 6.4–8.3%, 10–13 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2017-11-05-Peilnl.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2017-11-05-Peilnl.html"/>
+    <title>Opinion Poll by Peil.nl, 5 November 2017</title>
+    <updated>2020-12-04T18:37:46.433324+01:00</updated>
+    <dc:date>2020-12-04T18:37:46.433324+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 17.9–22.9%, 27–34 seats</li><li>Partij voor de Vrijheid: 10.3–14.4%, 17–21 seats</li><li>Christen-Democratisch Appèl: 8.1–11.8%, 14–16 seats</li><li>Democraten 66: 9.8–13.9%, 16–19 seats</li><li>GroenLinks: 8.3–12.0%, 13–18 seats</li><li>Socialistische Partij: 4.9–7.9%, 8–11 seats</li><li>Partij van de Arbeid: 4.3–7.2%, 6–10 seats</li><li>ChristenUnie: 3.0–5.5%, 4–7 seats</li><li>Partij voor de Dieren: 2.8–5.2%, 4–7 seats</li><li>50Plus: 2.9–5.4%, 4–8 seats</li><li>Staatkundig Gereformeerde Partij: 1.2–3.0%, 2–3 seats</li><li>DENK: 2.2–4.4%, 3–6 seats</li><li>Forum voor Democratie: 5.0–8.0%, 8–11 seats</li></ul></div></content>
@@ -910,6 +966,14 @@
     <title>Opinion Poll by Ipsos, 10 August 2017</title>
     <updated>2020-11-30T17:44:59.266296+01:00</updated>
     <dc:date>2020-11-30T17:44:59.266296+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 19.9–22.8%, 30–37 seats</li><li>Partij voor de Vrijheid: 12.8–15.3%, 19–23 seats</li><li>Christen-Democratisch Appèl: 9.6–11.8%, 14–19 seats</li><li>Democraten 66: 12.2–14.6%, 19–22 seats</li><li>GroenLinks: 7.7–9.7%, 12–14 seats</li><li>Socialistische Partij: 6.4–8.3%, 9–13 seats</li><li>Partij van de Arbeid: 6.4–8.3%, 9–13 seats</li><li>ChristenUnie: 2.7–4.0%, 4–6 seats</li><li>Partij voor de Dieren: 2.7–4.0%, 4–6 seats</li><li>50Plus: 2.1–3.3%, 2–5 seats</li><li>Staatkundig Gereformeerde Partij: 1.6–2.6%, 2–4 seats</li><li>DENK: 1.6–2.6%, 2–3 seats</li><li>Forum voor Democratie: 3.4–4.8%, 5–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2017-07-30-Peilnl.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2017-07-30-Peilnl.html"/>
+    <title>Opinion Poll by Peil.nl, 30 July 2017</title>
+    <updated>2020-12-04T17:04:02.305061+01:00</updated>
+    <dc:date>2020-12-04T17:04:02.305061+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 18.2–21.9%, 27–33 seats</li><li>Partij voor de Vrijheid: 15.7–19.1%, 25–28 seats</li><li>Christen-Democratisch Appèl: 10.0–12.9%, 15–18 seats</li><li>Democraten 66: 10.6–13.5%, 17–20 seats</li><li>GroenLinks: 6.9–9.3%, 11–15 seats</li><li>Socialistische Partij: 7.5–10.0%, 12–15 seats</li><li>Partij van de Arbeid: 5.6–7.9%, 8–12 seats</li><li>ChristenUnie: 2.6–4.3%, 4–6 seats</li><li>Partij voor de Dieren: 2.6–4.3%, 4–6 seats</li><li>50Plus: 2.0–3.5%, 3–4 seats</li><li>Staatkundig Gereformeerde Partij: 1.5–2.8%, 2–3 seats</li><li>DENK: 0.9–2.0%, 1–2 seats</li><li>Forum voor Democratie: 2.6–4.3%, 4–7 seats</li></ul></div></content>
@@ -1007,5 +1071,5 @@
     <updated>2020-11-16T21:22:17.506944+01:00</updated>
     <dc:date>2020-11-16T21:22:17.506944+01:00</dc:date>
   </entry>
-  <dc:date>2020-12-02T21:37:48.592364+01:00</dc:date>
+  <dc:date>2020-12-04T18:37:46.433324+01:00</dc:date>
 </feed>
