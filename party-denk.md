@@ -10,8 +10,8 @@ Last result: **2.1%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.2% | 0.9–2.5% | 0.8–2.7% | 0.6–3.0% |
-| [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl | 2.0% | 1.6–2.5% | 1.5–2.5% | 1.5–2.6% | 1.4–2.9% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.0–2.3% | 0.9–2.5% | 0.8–2.6% | 0.6–3.0% |
+| [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 1.1% | 0.8–1.7% | 0.7–1.9% | 0.7–2.0% | 0.5–2.3% |
@@ -278,8 +278,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% |  |
-| 0.5–1.5% | 58% | 99.8% | Median |
-| 1.5–2.5% | 38% | 42% | Last Result |
+| 0.5–1.5% | 44% | 99.8% |  |
+| 1.5–2.5% | 52% | 56% | Last Result, Median |
 | 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -292,8 +292,8 @@ Last result: **3** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–4 | 1–4 | 1–5 |
-| [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
@@ -482,7 +482,7 @@ Last result: **3** seats (General Election of 15 March 2017)
 | [26 February–4 March 2018](2018-03-04-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [27 February–4 March 2018](2018-03-04-KantarPublic.html) | Kantar Public | 2 | 2–3 | 2–3 | 2–4 | 2–5 |
 | [23–26 February 2018](2018-02-26-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
-| [19–25 February 2018](2018-02-25-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19–25 February 2018](2018-02-25-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [12–18 February 2018](2018-02-18-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2–3 | 2–3 |
 | [5–11 February 2018](2018-02-11-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [2–6 February 2018](2018-02-06-IOResearch.html) | I&O Research | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -562,11 +562,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% |  |
-| 1 | 22% | 99.8% |  |
-| 2 | 69% | 78% | Median |
-| 3 | 3% | 9% | Last Result |
-| 4 | 6% | 6% |  |
-| 5 | 0.5% | 0.5% |  |
+| 1 | 16% | 99.8% |  |
+| 2 | 66% | 83% | Median |
+| 3 | 13% | 18% | Last Result |
+| 4 | 5% | 5% |  |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 
