@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–1.0% | 0.1–1.2% | 0.1–1.3% | 0.0–1.6% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.1–1.1% | 0.1–1.2% | 0.1–1.4% | 0.0–1.7% |
+| [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 0.0% | N/A | N/A | N/A | N/A |
 | [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
@@ -277,9 +278,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 69% | 100% | Last Result, Median |
-| 0.5–1.5% | 30% | 31% |  |
-| 1.5–2.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 54% | 100% | Last Result, Median |
+| 0.5–1.5% | 45% | 46% |  |
+| 1.5–2.5% | 0.9% | 0.9% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -291,7 +292,8 @@ Last result: **0** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -560,9 +562,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 34% | 34% |  |
-| 2 | 0.5% | 0.6% |  |
+| 0 | 48% | 100% | Last Result |
+| 1 | 51% | 52% | Median |
+| 2 | 0.8% | 0.8% |  |
 | 3 | 0% | 0% |  |
 
 
