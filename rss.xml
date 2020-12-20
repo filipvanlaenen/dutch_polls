@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sat, 19 Dec 2020 18:47:15 +0100</pubDate>
+    <pubDate>Sun, 20 Dec 2020 18:02:48 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 20 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-12-20-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 33–38 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 25–29 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 18–21 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 11–13 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 9–11 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 8–11 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 12–15 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 6–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 5–7 seats&lt;/li&gt;&lt;li&gt;50Plus: 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 3–5 seats&lt;/li&gt;&lt;li&gt;DENK: 2–3 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-12-20-Peilnl-seats.png"
+        length="277340"
+        type="image/png"/>
+      <pubDate>Sun, 20 Dec 2020 18:02:48 +0100</pubDate>
+      <dc:date>2020-12-20T18:02:48.449782+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 20 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-12-20-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-12-20-Peilnl-coalitions-seats.png"
+        length="535660"
+        type="image/png"/>
+      <pubDate>Sun, 20 Dec 2020 18:02:48 +0100</pubDate>
+      <dc:date>2020-12-20T18:02:48.449782+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 20 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2020-12-20-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 21.2–24.2%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 16.0–18.7%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 11.5–13.9%&lt;/li&gt;&lt;li&gt;Democraten 66: 7.1–9.0%&lt;/li&gt;&lt;li&gt;GroenLinks: 5.8–7.6%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 7.7–9.7%&lt;/li&gt;&lt;li&gt;ChristenUnie: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.4–4.8%&lt;/li&gt;&lt;li&gt;50Plus: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2.1–3.3%&lt;/li&gt;&lt;li&gt;DENK: 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.1–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2020-12-20-Peilnl.png"
+        length="339865"
+        type="image/png"/>
+      <pubDate>Sun, 20 Dec 2020 18:02:48 +0100</pubDate>
+      <dc:date>2020-12-20T18:02:48.449782+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 11–14 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2020-12-14-IOResearch.html#seats</link>
@@ -2430,14 +2460,54 @@
       <dc:date>2020-11-27T10:02:37.783139+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Peil.nl, 17–23 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-06-23-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 26–30 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 8–10 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 14–17 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 8–11 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 13–16 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5–8 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 18–21 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 6–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 7–9 seats&lt;/li&gt;&lt;li&gt;50Plus: 4–6 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1–2 seats&lt;/li&gt;&lt;li&gt;DENK: 3–5 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 20–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-06-23-Peilnl-seats.png"
+        length="288775"
+        type="image/png"/>
+      <pubDate>Sun, 20 Dec 2020 15:35:11 +0100</pubDate>
+      <dc:date>2020-12-20T15:35:11.424178+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 17–23 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-06-23-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-06-23-Peilnl-coalitions-seats.png"
+        length="531117"
+        type="image/png"/>
+      <pubDate>Sun, 20 Dec 2020 15:35:11 +0100</pubDate>
+      <dc:date>2020-12-20T15:35:11.424178+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 17–23 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-06-23-Peilnl.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 16.7–19.4%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 9.0–11.1%&lt;/li&gt;&lt;li&gt;Democraten 66: 5.8–7.6%&lt;/li&gt;&lt;li&gt;GroenLinks: 8.3–10.4%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 11.5–13.9%&lt;/li&gt;&lt;li&gt;ChristenUnie: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.6–6.2%&lt;/li&gt;&lt;li&gt;50Plus: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.0–1.8%&lt;/li&gt;&lt;li&gt;DENK: 2.1–3.3%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 12.8–15.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-06-23-Peilnl.png"
         length="352253"
         type="image/png"/>
-      <pubDate>Wed, 16 Sep 2020 18:31:08 +0200</pubDate>
-      <dc:date>2020-09-16T18:31:08.542386+02:00</dc:date>
+      <pubDate>Sun, 20 Dec 2020 15:35:11 +0100</pubDate>
+      <dc:date>2020-12-20T15:35:11.424178+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 10–16 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-06-16-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 26–30 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 8–10 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 14–17 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 8–11 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 13–16 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5–8 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 18–21 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 6–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 7–9 seats&lt;/li&gt;&lt;li&gt;50Plus: 4–6 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1–2 seats&lt;/li&gt;&lt;li&gt;DENK: 3–5 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 20–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-06-16-Peilnl-seats.png"
+        length="288706"
+        type="image/png"/>
+      <pubDate>Sun, 20 Dec 2020 16:42:27 +0100</pubDate>
+      <dc:date>2020-12-20T16:42:27.790732+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 10–16 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-06-16-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-06-16-Peilnl-coalitions-seats.png"
+        length="531071"
+        type="image/png"/>
+      <pubDate>Sun, 20 Dec 2020 16:42:27 +0100</pubDate>
+      <dc:date>2020-12-20T16:42:27.790732+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 10–16 June 2019 – Voting Intentions</title>
@@ -2446,8 +2516,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-06-16-Peilnl.png"
         length="352228"
         type="image/png"/>
-      <pubDate>Wed, 16 Sep 2020 18:53:44 +0200</pubDate>
-      <dc:date>2020-09-16T18:53:44.455486+02:00</dc:date>
+      <pubDate>Sun, 20 Dec 2020 16:42:27 +0100</pubDate>
+      <dc:date>2020-12-20T16:42:27.790732+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 3–9 June 2019 – Voting Intentions</title>
@@ -3010,14 +3080,34 @@
       <dc:date>2020-12-18T08:15:07.352998+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Peil.nl, 25 February–3 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-03-03-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 21–26 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 16–20 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 8–11 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 7–10 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 16–21 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 10–14 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 12–16 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 6–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 6–10 seats&lt;/li&gt;&lt;li&gt;50Plus: 3–6 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–4 seats&lt;/li&gt;&lt;li&gt;DENK: 6–9 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 16–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-03-03-Peilnl-seats.png"
+        length="320689"
+        type="image/png"/>
+      <pubDate>Sun, 20 Dec 2020 14:48:24 +0100</pubDate>
+      <dc:date>2020-12-20T14:48:24.793378+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 25 February–3 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2019-03-03-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-03-03-Peilnl-coalitions-seats.png"
+        length="580331"
+        type="image/png"/>
+      <pubDate>Sun, 20 Dec 2020 14:48:24 +0100</pubDate>
+      <dc:date>2020-12-20T14:48:24.793378+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 25 February–3 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2019-03-03-Peilnl.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 14.1–16.7%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 10.2–12.5%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 5.8–7.6%&lt;/li&gt;&lt;li&gt;Democraten 66: 5.2–6.9%&lt;/li&gt;&lt;li&gt;GroenLinks: 10.9–13.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 7.1–9.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 8.3–10.4%&lt;/li&gt;&lt;li&gt;ChristenUnie: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.6–6.2%&lt;/li&gt;&lt;li&gt;50Plus: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 10.2–12.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-03-03-Peilnl.png"
         length="357122"
         type="image/png"/>
-      <pubDate>Thu, 17 Sep 2020 19:02:52 +0200</pubDate>
-      <dc:date>2020-09-17T19:02:52.14154+02:00</dc:date>
+      <pubDate>Sun, 20 Dec 2020 14:48:24 +0100</pubDate>
+      <dc:date>2020-12-20T14:48:24.793378+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 22–26 February 2019 – Voting Intentions</title>
@@ -6389,6 +6479,6 @@
       <pubDate>Thu, 05 Nov 2020 22:50:27 +0100</pubDate>
       <dc:date>2020-11-05T22:50:27.570666+01:00</dc:date>
     </item>
-    <dc:date>2020-12-19T18:47:15.139822+01:00</dc:date>
+    <dc:date>2020-12-20T18:02:48.449782+01:00</dc:date>
   </channel>
 </rss>
