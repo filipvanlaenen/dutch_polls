@@ -353,9 +353,9 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [26–30 March 2020](2020-03-30-IOResearch.html) | I&O Research | 13 | 12–15 | 12–15 | 12–15 | 12–16 |
 | [5–10 March 2020](2020-03-10-IOResearch.html) | I&O Research | 14 | 14–15 | 14–16 | 13–16 | 12–17 |
 | [1–6 March 2020](2020-03-06-Peilnl.html) | Peil.nl | 13 | 13–15 | 12–15 | 12–15 | 11–16 |
-| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 13 | 12–14 | 11–14 | 11–16 | 10–16 |
+| [23 February–1 March 2020](2020-03-01-Peilnl.html) | Peil.nl | 12 | 12–15 | 12–15 | 12–15 | 12–15 |
 | [21–24 February 2020](2020-02-24-Ipsos.html) | Ipsos <br> EenVandaag | 15 | 12–17 | 12–17 | 12–17 | 11–19 |
-| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 13 | 12–14 | 11–14 | 11–16 | 10–16 |
+| [18–23 February 2020](2020-02-23-Peilnl.html) | Peil.nl | 12 | 12–15 | 12–15 | 12–15 | 12–15 |
 | [17–22 February 2020](2020-02-22-Peilnl.html) | Peil.nl | 12 | 11–13 | 11–14 | 11–15 | 10–16 |
 | [9–14 February 2020](2020-02-14-Peilnl.html) | Peil.nl | 15 | 13–15 | 12–15 | 12–15 | 12–17 |
 | [2–9 February 2020](2020-02-09-Peilnl.html) | Peil.nl | 14 | 13–15 | 12–15 | 12–15 | 12–17 |
@@ -486,8 +486,8 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [16–22 April 2018](2018-04-22-Peilnl.html) | Peil.nl | 15 | 15–16 | 14–16 | 14–16 | 14–17 |
 | [9–15 April 2018](2018-04-15-Peilnl.html) | Peil.nl | 15 | 15–16 | 14–16 | 14–16 | 14–17 |
 | [2–8 April 2018](2018-04-08-Peilnl.html) | Peil.nl | 15 | 15–16 | 14–16 | 14–16 | 14–17 |
-| [26 March–1 April 2018](2018-04-01-Peilnl.html) | Peil.nl | 16 | 16 | 15–16 | 15–16 | 14–16 |
-| [19–25 March 2018](2018-03-25-Peilnl.html) | Peil.nl | 16 | 16 | 15–16 | 15–16 | 14–16 |
+| [26 March–1 April 2018](2018-04-01-Peilnl.html) | Peil.nl | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
+| [19–25 March 2018](2018-03-25-Peilnl.html) | Peil.nl | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> EenVandaag | 15 | 14–17 | 13–17 | 13–17 | 12–20 |
 | [12–18 March 2018](2018-03-18-Peilnl.html) | Peil.nl | 14 | 13–15 | 13–16 | 12–18 | 12–18 |
 | [8–12 March 2018](2018-03-12-IOResearch.html) | I&O Research | 16 | 16 | 15–16 | 14–17 | 14–17 |
@@ -543,7 +543,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [16 July 2017](2017-07-16-Peilnl.html) | Peil.nl | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [13 July 2017](2017-07-13-Ipsos.html) | Ipsos | 16 | 15–19 | 14–19 | 13–19 | 13–20 |
 | [12 July 2017](2017-07-12-KantarPublic.html) | Kantar Public | 16 | 13–18 | 13–18 | 13–19 | 12–19 |
-| [2 July 2017](2017-07-02-Peilnl.html) | Peil.nl | 17 | 17 | 17 | 17 | 17 |
+| [2 July 2017](2017-07-02-Peilnl.html) | Peil.nl | 17 | 17 | 17–18 | 17–18 | 16–18 |
 | [29 June 2017](2017-06-29-Ipsos.html) | Ipsos | 16 | 15–18 | 15–20 | 15–20 | 14–22 |
 | [23–26 June 2017](2017-06-26-GfK.html) | GfK <br> EenVandaag | 18 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [18 June 2017](2017-06-18-Peilnl.html) | Peil.nl | 18 | 18 | 18 | 17–18 | 16–18 |
