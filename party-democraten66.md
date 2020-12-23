@@ -367,7 +367,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [22–25 November 2019](2019-11-25-Ipsos.html) | Ipsos <br> EenVandaag | 12 | 11–12 | 10–13 | 9–14 | 8–15 |
 | [18–23 November 2019](2019-11-23-Peilnl.html) | Peil.nl | 14 | 13–15 | 12–15 | 12–15 | 11–15 |
 | [11–16 November 2019](2019-11-16-Peilnl.html) | Peil.nl | 14 | 13–15 | 12–15 | 12–15 | 11–15 |
-| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 12 | 10–12 | 10–12 | 8–12 | 7–13 |
+| [15 November 2019](2019-11-15-KantarPublic.html) | Kantar Public | 10 | 10–12 | 10–12 | 10–12 | 8–12 |
 | [7–13 November 2019](2019-11-13-IOResearch.html) | I&O Research | 11 | 9–12 | 9–12 | 9–13 | 9–13 |
 | [4–9 November 2019](2019-11-09-Peilnl.html) | Peil.nl | 13 | 13–14 | 12–14 | 12–15 | 11–15 |
 | [28 October–2 November 2019](2019-11-02-Peilnl.html) | Peil.nl | 13 | 12–14 | 12–14 | 12–14 | 12–15 |
