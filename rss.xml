@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Wed, 23 Dec 2020 19:09:52 +0100</pubDate>
+    <pubDate>Wed, 23 Dec 2020 19:41:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 20 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2020-12-20-Peilnl.html#seats</link>
@@ -7010,14 +7010,34 @@
       <dc:date>2020-11-16T07:34:54.400282+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos, 4 May 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2017-05-04-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 32–42 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 18–24 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 13–19 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 18–24 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 13–17 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 6–10 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 5–9 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 4–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4–7 seats&lt;/li&gt;&lt;li&gt;50Plus: 2–4 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–5 seats&lt;/li&gt;&lt;li&gt;DENK: 1–4 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2017-05-04-Ipsos-seats.png"
+        length="312334"
+        type="image/png"/>
+      <pubDate>Wed, 23 Dec 2020 19:41:56 +0100</pubDate>
+      <dc:date>2020-12-23T19:41:56.257905+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 4 May 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2017-05-04-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2017-05-04-Ipsos-coalitions-seats.png"
+        length="626766"
+        type="image/png"/>
+      <pubDate>Wed, 23 Dec 2020 19:41:56 +0100</pubDate>
+      <dc:date>2020-12-23T19:41:56.257905+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos, 4 May 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2017-05-04-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 21.4–26.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 11.5–15.8%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 9.1–13.0%&lt;/li&gt;&lt;li&gt;Democraten 66: 11.3–15.6%&lt;/li&gt;&lt;li&gt;GroenLinks: 8.1–11.8%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 3.6–6.2%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 2.6–5.0%&lt;/li&gt;&lt;li&gt;50Plus: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.5–3.4%&lt;/li&gt;&lt;li&gt;DENK: 1.2–3.0%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2017-05-04-Ipsos.png"
         length="369152"
         type="image/png"/>
-      <pubDate>Mon, 16 Nov 2020 21:39:49 +0100</pubDate>
-      <dc:date>2020-11-16T21:39:49.012842+01:00</dc:date>
+      <pubDate>Wed, 23 Dec 2020 19:41:56 +0100</pubDate>
+      <dc:date>2020-12-23T19:41:56.257905+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GfK for EenVandaag, 24 April 2017 – Seat Projections for the Parties</title>
@@ -7239,6 +7259,6 @@
       <pubDate>Tue, 22 Dec 2020 20:58:58 +0100</pubDate>
       <dc:date>2020-12-22T20:58:58.689516+01:00</dc:date>
     </item>
-    <dc:date>2020-12-23T19:09:52.708171+01:00</dc:date>
+    <dc:date>2020-12-23T19:41:56.257905+01:00</dc:date>
   </channel>
 </rss>
