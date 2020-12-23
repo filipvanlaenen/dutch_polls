@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Wed, 23 Dec 2020 19:41:56 +0100</pubDate>
+    <pubDate>Wed, 23 Dec 2020 19:59:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 20 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2020-12-20-Peilnl.html#seats</link>
@@ -1966,8 +1966,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2019-11-15-KantarPublic.png"
         length="394679"
         type="image/png"/>
-      <pubDate>Tue, 10 Nov 2020 22:39:16 +0100</pubDate>
-      <dc:date>2020-11-10T22:39:16.94257+01:00</dc:date>
+      <pubDate>Wed, 23 Dec 2020 19:59:52 +0100</pubDate>
+      <dc:date>2020-12-23T19:59:52.979981+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 7–13 November 2019 – Seat Projections for the Parties</title>
@@ -7259,6 +7259,6 @@
       <pubDate>Tue, 22 Dec 2020 20:58:58 +0100</pubDate>
       <dc:date>2020-12-22T20:58:58.689516+01:00</dc:date>
     </item>
-    <dc:date>2020-12-23T19:41:56.257905+01:00</dc:date>
+    <dc:date>2020-12-23T19:59:52.979981+01:00</dc:date>
   </channel>
 </rss>
