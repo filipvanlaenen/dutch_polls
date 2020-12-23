@@ -551,7 +551,7 @@ Last result: **9** seats (General Election of 15 March 2017)
 | [19 May 2017](2017-05-19-Ipsos.html) | Ipsos | 7 | 6–9 | 5–9 | 5–10 | 5–10 |
 | [14 May 2017](2017-05-14-Peilnl.html) | Peil.nl | 9 | 8–11 | 7–11 | 7–11 | 7–11 |
 | [7 May 2017](2017-05-07-Peilnl.html) | Peil.nl | 9 | 9–10 | 8–10 | 8–11 | 7–11 |
-| [4 May 2017](2017-05-04-Ipsos.html) | Ipsos | 6 | 6–8 | 5–9 | 5–9 | 5–9 |
+| [4 May 2017](2017-05-04-Ipsos.html) | Ipsos | 6 | 5–8 | 5–9 | 5–9 | 5–10 |
 | [24 April 2017](2017-04-24-GfK.html) | GfK <br> EenVandaag | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [23 April 2017](2017-04-23-Peilnl.html) | Peil.nl | 9 | 9–10 | 8–10 | 8–11 | 7–11 |
 | [20 April 2017](2017-04-20-Ipsos.html) | Ipsos | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
