@@ -13,11 +13,11 @@ Last result: **5.7%** (General Election of 15 March 2017)
 | N/A | [Poll Average](average.html) | 8.8% | 7.7–9.9% | 7.4–10.3% | 7.1–10.6% | 6.6–11.3% |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 9.4% | 8.4–10.5% | 8.1–10.8% | 7.9–11.1% | 7.4–11.7% |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 8.2% | 7.2–9.4% | 6.9–9.7% | 6.7–10.0% | 6.2–10.6% |
-| [20 December 2020](2020-12-20-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
+| [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 8.7% | 7.7–9.8% | 7.5–10.1% | 7.2–10.4% | 6.8–10.9% |
-| [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
-| [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
-| [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.8–10.1% | 6.3–10.7% |
 | [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 8.6% | 7.9–9.4% | 7.7–9.7% | 7.6–9.9% | 7.2–10.3% |
@@ -304,11 +304,11 @@ Last result: **9** seats (General Election of 15 March 2017)
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 13 | 12–16 | 12–16 | 12–16 | 11–18 |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 11 | 11–15 | 11–15 | 10–15 | 9–16 |
-| [20 December 2020](2020-12-20-Peilnl.html) | Peil.nl | 13 | 12–13 | 12–14 | 12–15 | 11–15 |
+| [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 13 | 12–13 | 12–14 | 12–15 | 11–15 |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [13 December 2020](2020-12-13-Peilnl.html) | Peil.nl | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 12 | 11–15 | 11–15 | 11–15 | 11–16 |
-| [27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 12 | 11–15 | 11–15 | 11–15 | 11–16 |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 15 | 11–15 | 10–15 | 10–15 | 9–16 |
 | [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 14 | 13–14 | 13–14 | 13–15 | 11–15 |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 13 | 13–14 | 11–14 | 11–15 | 11–16 |
