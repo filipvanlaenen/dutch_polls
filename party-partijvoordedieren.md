@@ -11,6 +11,7 @@ Last result: **3.2%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.8% | 2.6–4.5% | 2.3–4.8% | 2.1–5.0% | 1.9–5.5% |
+| [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 3.8% | 3.2–4.6% | 3.0–4.8% | 2.9–5.0% | 2.6–5.4% |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
@@ -300,6 +301,7 @@ Last result: **5** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 3–7 | 3–8 | 3–8 | 3–8 |
+| [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–8 | 5–8 | 4–8 | 3–8 |
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -575,10 +577,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.4% | 100% |  |
 | 3 | 13% | 99.6% |  |
-| 4 | 10% | 87% |  |
-| 5 | 19% | 76% | Last Result |
-| 6 | 37% | 58% | Median |
-| 7 | 16% | 21% |  |
+| 4 | 11% | 87% |  |
+| 5 | 21% | 76% | Last Result |
+| 6 | 41% | 55% | Median |
+| 7 | 8% | 14% |  |
 | 8 | 5% | 5% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
