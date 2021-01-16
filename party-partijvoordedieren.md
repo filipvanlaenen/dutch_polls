@@ -24,12 +24,12 @@ Last result: **3.2%** (General Election of 15 March 2017)
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
 | [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 2.7% | 2.3–3.2% | 2.2–3.3% | 2.1–3.4% | 1.9–3.7% |
-| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [7–15 November 2020](2020-11-15-KantarPublic.html) | Kantar Public | 3.0% | 2.7–3.4% | 2.6–3.4% | 2.5–3.5% | 2.4–3.7% |
-| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
-| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
+| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [23–26 October 2020](2020-10-26-Ipsos.html) | Ipsos <br> EenVandaag | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.1% |
-| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 3.3% | N/A | N/A | N/A | N/A |
+| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [9–12 October 2020](2020-10-12-IOResearch.html) | I&O Research | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.4% |
 | [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
@@ -264,7 +264,7 @@ Last result: **3.2%** (General Election of 15 March 2017)
 | [15 June 2017](2017-06-15-Ipsos.html) | Ipsos | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [4 June 2017](2017-06-04-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [1 June 2017](2017-06-01-Ipsos.html) | Ipsos | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
-| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 3.3% | N/A | N/A | N/A | N/A |
+| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 3.3% | 2.9–3.9% | 2.7–4.1% | 2.6–4.2% | 2.4–4.5% |
 | [21 May 2017](2017-05-21-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [19 May 2017](2017-05-19-Ipsos.html) | Ipsos | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [14 May 2017](2017-05-14-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
@@ -303,7 +303,7 @@ Last result: **5** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 4–9 | 3–9 |
-| [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 5 | 4–5 | 3–5 | 3–5 | 2–5 |
+| [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 8 | 6–9 | 5–9 | 5–9 | 5–9 |
 | [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
@@ -314,14 +314,14 @@ Last result: **5** seats (General Election of 15 March 2017)
 | [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 5–6 | 4–6 | 4–6 | 3–7 |
-| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 5–6 | 4–7 |
+| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
-| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [7–15 November 2020](2020-11-15-KantarPublic.html) | Kantar Public | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [23–26 October 2020](2020-10-26-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 4–6 | 4–6 | 4–6 | 3–8 |
-| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [9–12 October 2020](2020-10-12-IOResearch.html) | I&O Research | 5 | 5 | 5 | 5 | 4–6 |
 | [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -556,7 +556,7 @@ Last result: **5** seats (General Election of 15 March 2017)
 | [15 June 2017](2017-06-15-Ipsos.html) | Ipsos | 5 | 4–5 | 4–6 | 4–7 | 3–7 |
 | [4 June 2017](2017-06-04-Peilnl.html) | Peil.nl | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [1 June 2017](2017-06-01-Ipsos.html) | Ipsos | 6 | 4–6 | 4–6 | 4–7 | 3–8 |
-| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag |  |  |  |  |  |
+| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [21 May 2017](2017-05-21-Peilnl.html) | Peil.nl | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [19 May 2017](2017-05-19-Ipsos.html) | Ipsos | 5 | 5–6 | 4–6 | 4–6 | 3–6 |
 | [14 May 2017](2017-05-14-Peilnl.html) | Peil.nl | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -579,10 +579,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.3% | 100% |  |
-| 3 | 2% | 99.7% |  |
-| 4 | 10% | 98% |  |
-| 5 | 30% | 88% | Last Result |
+| 3 | 2% | 100% |  |
+| 4 | 23% | 98% |  |
+| 5 | 17% | 74% | Last Result |
 | 6 | 23% | 57% | Median |
 | 7 | 12% | 34% |  |
 | 8 | 18% | 23% |  |
