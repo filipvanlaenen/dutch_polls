@@ -301,7 +301,7 @@ Last result: **0** seats (General Election of 15 March 2017)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
