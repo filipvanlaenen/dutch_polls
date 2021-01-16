@@ -10,17 +10,18 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Volkspartij voor Vrijheid en Democratie | 21.3% | 28.7% | 27.5–29.9% |27.2–30.3% |26.9–30.6% |26.3–31.2% |
+| Volkspartij voor Vrijheid en Democratie | 21.3% | 28.6% | 27.5–29.9% |27.1–30.2% |26.8–30.5% |26.3–31.1% |
 | Partij voor de Vrijheid | 13.1% | 13.3% | 12.4–14.3% |12.2–14.5% |12.0–14.8% |11.6–15.2% |
 | Christen-Democratisch Appèl | 12.4% | 12.0% | 11.2–12.9% |10.9–13.2% |10.7–13.4% |10.3–13.8% |
 | Democraten 66 | 12.2% | 8.6% | 7.9–9.4% |7.7–9.7% |7.6–9.9% |7.2–10.3% |
 | GroenLinks | 9.1% | 8.6% | 7.9–9.4% |7.7–9.7% |7.6–9.9% |7.2–10.3% |
 | Partij van de Arbeid | 5.7% | 7.3% | 6.7–8.1% |6.5–8.3% |6.3–8.5% |6.0–8.8% |
-| Socialistische Partij | 9.1% | 6.7% | 6.1–7.4% |5.9–7.6% |5.7–7.8% |5.4–8.1% |
+| Socialistische Partij | 9.1% | 6.6% | 6.0–7.3% |5.8–7.5% |5.7–7.7% |5.4–8.1% |
 | ChristenUnie | 3.4% | 4.7% | 4.1–5.3% |4.0–5.5% |3.9–5.6% |3.6–5.9% |
 | Partij voor de Dieren | 3.2% | 2.7% | 2.3–3.1% |2.2–3.3% |2.1–3.4% |1.9–3.6% |
 | Forum voor Democratie | 1.8% | 2.7% | 2.3–3.1% |2.2–3.3% |2.1–3.4% |1.9–3.6% |
 | Staatkundig Gereformeerde Partij | 2.1% | 2.0% | 1.7–2.4% |1.6–2.6% |1.5–2.7% |1.4–2.9% |
+| Juiste Antwoord 2021 | 0.0% | 1.3% | 1.1–1.7% |1.0–1.8% |0.9–1.9% |0.8–2.1% |
 | 50Plus | 3.1% | 0.7% | 0.5–1.0% |0.5–1.1% |0.4–1.1% |0.4–1.3% |
 | DENK | 2.1% | 0.7% | 0.5–1.0% |0.5–1.1% |0.4–1.1% |0.4–1.3% |
 
@@ -36,19 +37,20 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#volkspartij-voor-vrijheid-en-democratie">Volkspartij voor Vrijheid en Democratie</a> | 33 | 44 | 43–46 |43–47 |42–47 |41–48 |
-| <a href="#partij-voor-de-vrijheid">Partij voor de Vrijheid</a> | 20 | 20 | 19–22 |19–22 |18–22 |18–23 |
-| <a href="#christen-democratisch-appèl">Christen-Democratisch Appèl</a> | 19 | 18 | 17–20 |17–20 |17–20 |16–21 |
-| <a href="#democraten-66">Democraten 66</a> | 19 | 13 | 12–13 |12–14 |11–15 |11–15 |
-| <a href="#groenlinks">GroenLinks</a> | 14 | 13 | 12–14 |12–14 |12–14 |11–16 |
-| <a href="#partij-van-de-arbeid">Partij van de Arbeid</a> | 9 | 11 | 9–12 |9–13 |9–13 |9–13 |
-| <a href="#socialistische-partij">Socialistische Partij</a> | 14 | 10 | 9–11 |9–12 |8–12 |8–12 |
-| <a href="#christenunie">ChristenUnie</a> | 5 | 7 | 6–7 |6–8 |5–8 |5–9 |
-| <a href="#partij-voor-de-dieren">Partij voor de Dieren</a> | 5 | 3 | 3–4 |3–5 |3–5 |3–5 |
-| <a href="#forum-voor-democratie">Forum voor Democratie</a> | 2 | 4 | 3–5 |3–5 |3–5 |3–5 |
-| <a href="#staatkundig-gereformeerde-partij">Staatkundig Gereformeerde Partij</a> | 3 | 3 | 2–4 |2–4 |2–4 |2–4 |
-| <a href="#50plus">50Plus</a> | 4 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#denk">DENK</a> | 3 | 1 | 1 |0–1 |0–1 |0–2 |
+| <a href="#volkspartij-voor-vrijheid-en-democratie">Volkspartij voor Vrijheid en Democratie</a> | 33 | 41 | 41–43 |41–45 |41–46 |39–47 |
+| <a href="#partij-voor-de-vrijheid">Partij voor de Vrijheid</a> | 20 | 19 | 19–22 |19–22 |17–22 |17–22 |
+| <a href="#christen-democratisch-appèl">Christen-Democratisch Appèl</a> | 19 | 18 | 17–18 |17–20 |17–20 |16–21 |
+| <a href="#democraten-66">Democraten 66</a> | 19 | 14 | 12–14 |11–14 |10–14 |10–15 |
+| <a href="#groenlinks">GroenLinks</a> | 14 | 15 | 12–16 |12–16 |12–16 |11–16 |
+| <a href="#partij-van-de-arbeid">Partij van de Arbeid</a> | 9 | 13 | 10–13 |10–13 |10–13 |9–14 |
+| <a href="#socialistische-partij">Socialistische Partij</a> | 14 | 10 | 9–10 |9–10 |9–11 |8–12 |
+| <a href="#christenunie">ChristenUnie</a> | 5 | 6 | 6–7 |6–8 |6–8 |5–8 |
+| <a href="#partij-voor-de-dieren">Partij voor de Dieren</a> | 5 | 5 | 4–5 |3–5 |3–5 |2–5 |
+| <a href="#forum-voor-democratie">Forum voor Democratie</a> | 2 | 4 | 4–5 |3–5 |3–5 |3–5 |
+| <a href="#staatkundig-gereformeerde-partij">Staatkundig Gereformeerde Partij</a> | 3 | 3 | 3 |3 |2–4 |2–4 |
+| <a href="#juiste-antwoord-2021">Juiste Antwoord 2021</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–3 |
+| <a href="#50plus">50Plus</a> | 4 | 0 | 0–2 |0–2 |0–2 |0–2 |
+| <a href="#denk">DENK</a> | 3 | 1 | 0–1 |0–1 |0–1 |0–2 |
 
 ### Volkspartij voor Vrijheid en Democratie
 
@@ -64,16 +66,16 @@
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
 | 38 | 0% | 100% |  |
-| 39 | 0% | 100% |  |
-| 40 | 0.1% | 100% |  |
-| 41 | 1.5% | 99.9% |  |
-| 42 | 2% | 98% |  |
-| 43 | 41% | 96% |  |
-| 44 | 21% | 55% | Median |
-| 45 | 11% | 33% |  |
-| 46 | 15% | 22% |  |
-| 47 | 6% | 7% |  |
-| 48 | 1.4% | 1.4% |  |
+| 39 | 1.1% | 100% |  |
+| 40 | 0% | 98.9% |  |
+| 41 | 57% | 98.9% | Median |
+| 42 | 19% | 42% |  |
+| 43 | 14% | 22% |  |
+| 44 | 1.2% | 9% |  |
+| 45 | 5% | 7% |  |
+| 46 | 1.5% | 3% |  |
+| 47 | 1.1% | 2% |  |
+| 48 | 0.4% | 0.4% |  |
 | 49 | 0% | 0% |  |
 
 ### Partij voor de Vrijheid
@@ -84,14 +86,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.2% | 100% |  |
-| 18 | 4% | 99.8% |  |
-| 19 | 46% | 96% |  |
-| 20 | 15% | 50% | Last Result, Median |
-| 21 | 12% | 35% |  |
-| 22 | 21% | 23% |  |
-| 23 | 2% | 2% |  |
-| 24 | 0.3% | 0.3% |  |
+| 17 | 3% | 100% |  |
+| 18 | 2% | 97% |  |
+| 19 | 59% | 95% | Median |
+| 20 | 4% | 36% | Last Result |
+| 21 | 2% | 33% |  |
+| 22 | 30% | 31% |  |
+| 23 | 0.2% | 0.3% |  |
+| 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
 ### Christen-Democratisch Appèl
@@ -102,15 +104,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 0.1% | 99.9% |  |
-| 16 | 0.8% | 99.8% |  |
-| 17 | 25% | 99.0% |  |
-| 18 | 30% | 74% | Median |
-| 19 | 32% | 45% | Last Result |
-| 20 | 11% | 13% |  |
-| 21 | 1.3% | 1.3% |  |
-| 22 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 0.9% | 99.8% |  |
+| 17 | 18% | 98.8% |  |
+| 18 | 73% | 81% | Median |
+| 19 | 3% | 8% | Last Result |
+| 20 | 4% | 5% |  |
+| 21 | 0.8% | 1.1% |  |
+| 22 | 0.3% | 0.3% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 ### Democraten 66
 
@@ -120,14 +123,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 3% | 99.9% |  |
-| 12 | 28% | 97% |  |
-| 13 | 63% | 69% | Median |
-| 14 | 3% | 6% |  |
-| 15 | 3% | 4% |  |
-| 16 | 0.3% | 0.3% |  |
-| 17 | 0.1% | 0.1% |  |
+| 10 | 4% | 100% |  |
+| 11 | 2% | 96% |  |
+| 12 | 16% | 94% |  |
+| 13 | 6% | 78% |  |
+| 14 | 71% | 72% | Median |
+| 15 | 0.7% | 0.8% |  |
+| 16 | 0% | 0% |  |
+| 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% | Last Result |
 
@@ -139,13 +142,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 2% | 99.8% |  |
-| 12 | 17% | 98% |  |
-| 13 | 50% | 81% | Median |
-| 14 | 29% | 31% | Last Result |
-| 15 | 2% | 2% |  |
-| 16 | 0.8% | 0.8% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 1.3% | 99.7% |  |
+| 12 | 15% | 98% |  |
+| 13 | 5% | 84% |  |
+| 14 | 5% | 79% | Last Result |
+| 15 | 61% | 74% | Median |
+| 16 | 13% | 13% |  |
 | 17 | 0% | 0% |  |
 
 ### Partij van de Arbeid
@@ -156,13 +159,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.3% | 100% |  |
-| 9 | 11% | 99.7% | Last Result |
-| 10 | 37% | 89% |  |
-| 11 | 15% | 52% | Median |
-| 12 | 31% | 37% |  |
-| 13 | 7% | 7% |  |
-| 14 | 0% | 0% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 2% | 99.9% | Last Result |
+| 10 | 13% | 98% |  |
+| 11 | 0.9% | 85% |  |
+| 12 | 18% | 84% |  |
+| 13 | 65% | 66% | Median |
+| 14 | 1.0% | 1.0% |  |
+| 15 | 0% | 0% |  |
 
 ### Socialistische Partij
 
@@ -172,13 +176,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 4% | 99.9% |  |
-| 9 | 23% | 96% |  |
-| 10 | 56% | 73% | Median |
-| 11 | 11% | 17% |  |
-| 12 | 7% | 7% |  |
-| 13 | 0% | 0% |  |
+| 8 | 1.3% | 100% |  |
+| 9 | 27% | 98.7% |  |
+| 10 | 67% | 71% | Median |
+| 11 | 3% | 4% |  |
+| 12 | 0.4% | 0.7% |  |
+| 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% | Last Result |
 
 ### ChristenUnie
@@ -189,11 +192,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 4% | 100% | Last Result |
-| 6 | 12% | 96% |  |
-| 7 | 78% | 83% | Median |
-| 8 | 4% | 5% |  |
-| 9 | 0.7% | 0.7% |  |
+| 5 | 1.0% | 100% | Last Result |
+| 6 | 76% | 99.0% | Median |
+| 7 | 18% | 23% |  |
+| 8 | 5% | 6% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 ### Partij voor de Dieren
@@ -204,12 +207,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.3% | 100% |  |
-| 3 | 65% | 99.7% | Median |
-| 4 | 30% | 35% |  |
-| 5 | 5% | 5% | Last Result |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 2 | 1.0% | 100% |  |
+| 3 | 7% | 99.0% |  |
+| 4 | 33% | 92% |  |
+| 5 | 59% | 59% | Last Result, Median |
+| 6 | 0% | 0% |  |
 
 ### Forum voor Democratie
 
@@ -219,10 +221,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% | Last Result |
-| 3 | 26% | 99.6% |  |
-| 4 | 42% | 74% | Median |
-| 5 | 32% | 32% |  |
+| 2 | 0.1% | 100% | Last Result |
+| 3 | 9% | 99.9% |  |
+| 4 | 77% | 91% | Median |
+| 5 | 13% | 13% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -234,11 +236,24 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 14% | 99.9% |  |
-| 3 | 60% | 85% | Last Result, Median |
-| 4 | 25% | 25% |  |
+| 2 | 3% | 100% |  |
+| 3 | 92% | 97% | Last Result, Median |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
+
+### Juiste Antwoord 2021
+
+*For a full overview of the results for this party, see the [Juiste Antwoord 2021](party-juisteantwoord2021.html) page.*
+
+![Graph with seats probability mass function not yet produced](2021-01-11-IOResearch-seats-pmf-juisteantwoord2021.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 74% | 100% | Median |
+| 2 | 25% | 26% |  |
+| 3 | 1.2% | 1.2% |  |
+| 4 | 0% | 0% |  |
 
 ### 50Plus
 
@@ -248,9 +263,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% |  |
-| 1 | 75% | 75% | Median |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 74% | 100% | Median |
+| 1 | 13% | 26% |  |
+| 2 | 13% | 13% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -262,9 +277,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 90% | 91% | Median |
-| 2 | 0.6% | 0.6% |  |
+| 0 | 18% | 100% |  |
+| 1 | 81% | 82% | Median |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% | Last Result |
 
 
@@ -276,27 +291,27 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – GroenLinks – ChristenUnie | 90 | 96 | 100% | 92–96 | 92–98 | 91–99 | 90–99 |
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – Partij van de Arbeid – ChristenUnie | 85 | 92 | 100% | 91–95 | 90–96 | 90–97 | 90–97 |
-| Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl – Forum voor Democratie – Staatkundig Gereformeerde Partij | 77 | 89 | 100% | 88–91 | 88–93 | 87–94 | 85–95 |
-| Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl – Forum voor Democratie | 74 | 86 | 100% | 85–89 | 84–90 | 84–91 | 82–92 |
-| Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl | 72 | 82 | 100% | 81–84 | 81–86 | 80–87 | 78–88 |
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – ChristenUnie | 76 | 82 | 100% | 79–84 | 79–85 | 78–86 | 77–87 |
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 | 71 | 75 | 39% | 73–77 | 73–79 | 72–79 | 71–79 |
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Partij van de Arbeid | 61 | 73 | 11% | 72–76 | 72–77 | 72–77 | 70–78 |
-| Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Partij van de Arbeid – Socialistische Partij – ChristenUnie | 80 | 72 | 0.8% | 70–73 | 69–73 | 68–74 | 68–76 |
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie – Staatkundig Gereformeerde Partij – 50Plus | 61 | 71 | 0% | 68–72 | 68–73 | 68–73 | 66–74 |
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie – Staatkundig Gereformeerde Partij | 57 | 70 | 0% | 67–71 | 67–72 | 67–73 | 66–73 |
-| Volkspartij voor Vrijheid en Democratie – Democraten 66 – Partij van de Arbeid | 61 | 67 | 0% | 66–71 | 65–71 | 65–72 | 64–72 |
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie – 50Plus | 58 | 67 | 0% | 65–70 | 65–70 | 65–70 | 63–71 |
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie | 54 | 66 | 0% | 64–69 | 64–69 | 64–70 | 63–70 |
-| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl | 52 | 62 | 0% | 61–64 | 60–66 | 60–66 | 59–67 |
-| Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Partij van de Arbeid – ChristenUnie | 66 | 62 | 0% | 60–63 | 59–64 | 59–65 | 58–66 |
-| Volkspartij voor Vrijheid en Democratie – Partij van de Arbeid | 42 | 55 | 0% | 53–58 | 53–58 | 53–59 | 52–59 |
-| Christen-Democratisch Appèl – Democraten 66 – Partij van de Arbeid | 47 | 42 | 0% | 40–43 | 40–44 | 39–45 | 39–46 |
-| Christen-Democratisch Appèl – Partij van de Arbeid – ChristenUnie | 33 | 36 | 0% | 34–37 | 34–38 | 34–39 | 33–40 |
-| Christen-Democratisch Appèl – Democraten 66 | 38 | 31 | 0% | 29–32 | 29–33 | 29–33 | 28–35 |
-| Christen-Democratisch Appèl – Partij van de Arbeid | 28 | 29 | 0% | 28–30 | 27–31 | 27–32 | 26–32 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – GroenLinks – ChristenUnie | 90 | 94 | 100% | 93–94 | 92–96 | 92–96 | 90–100 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – Partij van de Arbeid – ChristenUnie | 85 | 92 | 100% | 90–93 | 90–94 | 90–96 | 89–98 |
+| Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl – Forum voor Democratie – Staatkundig Gereformeerde Partij | 77 | 85 | 100% | 85–91 | 85–91 | 85–93 | 84–94 |
+| Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl – Forum voor Democratie | 74 | 82 | 100% | 82–88 | 82–88 | 82–90 | 81–92 |
+| Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl | 72 | 78 | 100% | 78–83 | 78–84 | 78–86 | 78–88 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – ChristenUnie | 76 | 79 | 100% | 78–81 | 78–83 | 78–84 | 77–86 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 | 71 | 73 | 6% | 71–75 | 71–76 | 71–77 | 69–79 |
+| Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Partij van de Arbeid – Socialistische Partij – ChristenUnie | 80 | 76 | 57% | 69–76 | 69–76 | 69–76 | 68–76 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Partij van de Arbeid | 61 | 72 | 2% | 71–74 | 71–75 | 71–75 | 70–78 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie – Staatkundig Gereformeerde Partij – 50Plus | 61 | 66 | 0% | 66–71 | 66–71 | 66–72 | 65–74 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie – Staatkundig Gereformeerde Partij | 57 | 66 | 0% | 66–69 | 66–69 | 66–72 | 65–73 |
+| Volkspartij voor Vrijheid en Democratie – Democraten 66 – Partij van de Arbeid | 61 | 68 | 0% | 66–68 | 65–70 | 65–71 | 64–72 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie – 50Plus | 58 | 63 | 0% | 63–68 | 63–68 | 63–70 | 62–72 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie | 54 | 63 | 0% | 63–66 | 63–67 | 63–69 | 61–71 |
+| Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Partij van de Arbeid – ChristenUnie | 66 | 66 | 0% | 60–66 | 60–66 | 60–66 | 59–66 |
+| Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl | 52 | 59 | 0% | 59–62 | 59–63 | 59–64 | 57–67 |
+| Volkspartij voor Vrijheid en Democratie – Partij van de Arbeid | 42 | 54 | 0% | 53–55 | 53–57 | 53–58 | 52–59 |
+| Christen-Democratisch Appèl – Democraten 66 – Partij van de Arbeid | 47 | 45 | 0% | 41–45 | 41–45 | 41–45 | 40–46 |
+| Christen-Democratisch Appèl – Partij van de Arbeid – ChristenUnie | 33 | 37 | 0% | 34–37 | 34–39 | 34–39 | 34–39 |
+| Christen-Democratisch Appèl – Democraten 66 | 38 | 32 | 0% | 29–32 | 29–32 | 29–33 | 28–36 |
+| Christen-Democratisch Appèl – Partij van de Arbeid | 28 | 31 | 0% | 28–31 | 28–31 | 28–33 | 28–33 |
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – GroenLinks – ChristenUnie
 
@@ -304,18 +319,19 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 90 | 2% | 100% | Last Result |
-| 91 | 0.7% | 98% |  |
-| 92 | 8% | 97% |  |
-| 93 | 3% | 89% |  |
-| 94 | 16% | 86% |  |
-| 95 | 9% | 70% | Median |
-| 96 | 52% | 61% |  |
-| 97 | 2% | 9% |  |
-| 98 | 3% | 6% |  |
-| 99 | 3% | 3% |  |
-| 100 | 0.1% | 0.4% |  |
-| 101 | 0.3% | 0.3% |  |
+| 89 | 0.3% | 100% |  |
+| 90 | 1.1% | 99.7% | Last Result |
+| 91 | 0.1% | 98.6% |  |
+| 92 | 4% | 98.5% |  |
+| 93 | 13% | 95% |  |
+| 94 | 73% | 82% | Median |
+| 95 | 3% | 9% |  |
+| 96 | 4% | 6% |  |
+| 97 | 0.7% | 2% |  |
+| 98 | 0.7% | 1.5% |  |
+| 99 | 0% | 0.7% |  |
+| 100 | 0.3% | 0.7% |  |
+| 101 | 0.4% | 0.4% |  |
 | 102 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66 – Partij van de Arbeid – ChristenUnie
@@ -328,16 +344,16 @@
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
-| 89 | 0.1% | 99.9% |  |
-| 90 | 7% | 99.8% |  |
-| 91 | 5% | 93% |  |
-| 92 | 44% | 88% |  |
-| 93 | 17% | 45% | Median |
-| 94 | 2% | 27% |  |
-| 95 | 17% | 25% |  |
-| 96 | 5% | 8% |  |
-| 97 | 3% | 3% |  |
-| 98 | 0.3% | 0.3% |  |
+| 89 | 0.5% | 100% |  |
+| 90 | 15% | 99.5% |  |
+| 91 | 15% | 85% |  |
+| 92 | 59% | 70% | Median |
+| 93 | 4% | 11% |  |
+| 94 | 4% | 7% |  |
+| 95 | 1.0% | 4% |  |
+| 96 | 1.2% | 3% |  |
+| 97 | 0.5% | 2% |  |
+| 98 | 1.0% | 1.0% |  |
 | 99 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl – Forum voor Democratie – Staatkundig Gereformeerde Partij
@@ -353,19 +369,20 @@
 | 81 | 0% | 100% |  |
 | 82 | 0% | 100% |  |
 | 83 | 0% | 100% |  |
-| 84 | 0.3% | 100% |  |
-| 85 | 0.5% | 99.7% |  |
-| 86 | 0.3% | 99.3% |  |
-| 87 | 3% | 98.9% |  |
-| 88 | 9% | 96% |  |
-| 89 | 45% | 87% | Median |
-| 90 | 19% | 41% |  |
-| 91 | 12% | 22% |  |
-| 92 | 3% | 10% |  |
-| 93 | 3% | 7% |  |
-| 94 | 2% | 4% |  |
-| 95 | 2% | 2% |  |
-| 96 | 0% | 0% |  |
+| 84 | 0.8% | 100% |  |
+| 85 | 60% | 99.2% | Median |
+| 86 | 3% | 39% |  |
+| 87 | 0.9% | 36% |  |
+| 88 | 15% | 35% |  |
+| 89 | 0.2% | 20% |  |
+| 90 | 6% | 20% |  |
+| 91 | 12% | 15% |  |
+| 92 | 0.1% | 3% |  |
+| 93 | 1.2% | 3% |  |
+| 94 | 1.3% | 2% |  |
+| 95 | 0.1% | 0.5% |  |
+| 96 | 0.4% | 0.4% |  |
+| 97 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl – Forum voor Democratie
 
@@ -380,19 +397,20 @@
 | 78 | 0% | 100% |  |
 | 79 | 0% | 100% |  |
 | 80 | 0% | 100% |  |
-| 81 | 0.2% | 100% |  |
-| 82 | 0.4% | 99.8% |  |
-| 83 | 0.4% | 99.4% |  |
-| 84 | 4% | 99.0% |  |
-| 85 | 30% | 95% |  |
-| 86 | 20% | 64% | Median |
-| 87 | 22% | 44% |  |
-| 88 | 3% | 22% |  |
-| 89 | 12% | 19% |  |
-| 90 | 2% | 7% |  |
-| 91 | 2% | 4% |  |
-| 92 | 2% | 2% |  |
-| 93 | 0% | 0% |  |
+| 81 | 0.8% | 100% |  |
+| 82 | 63% | 99.2% | Median |
+| 83 | 0.4% | 37% |  |
+| 84 | 0.8% | 36% |  |
+| 85 | 14% | 35% |  |
+| 86 | 2% | 22% |  |
+| 87 | 5% | 19% |  |
+| 88 | 11% | 15% |  |
+| 89 | 0.5% | 3% |  |
+| 90 | 0.5% | 3% |  |
+| 91 | 1.3% | 2% |  |
+| 92 | 0.6% | 1.1% |  |
+| 93 | 0.5% | 0.5% |  |
+| 94 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Partij voor de Vrijheid – Christen-Democratisch Appèl
 
@@ -405,18 +423,18 @@
 | 74 | 0% | 100% |  |
 | 75 | 0% | 100% |  |
 | 76 | 0% | 100% | Majority |
-| 77 | 0.2% | 100% |  |
-| 78 | 0.4% | 99.8% |  |
-| 79 | 0.3% | 99.4% |  |
-| 80 | 4% | 99.1% |  |
-| 81 | 25% | 95% |  |
-| 82 | 27% | 70% | Median |
-| 83 | 21% | 43% |  |
-| 84 | 13% | 22% |  |
-| 85 | 2% | 9% |  |
-| 86 | 3% | 7% |  |
-| 87 | 2% | 4% |  |
-| 88 | 2% | 2% |  |
+| 77 | 0% | 100% |  |
+| 78 | 61% | 100% | Median |
+| 79 | 3% | 39% |  |
+| 80 | 0.1% | 36% |  |
+| 81 | 14% | 36% |  |
+| 82 | 2% | 22% |  |
+| 83 | 12% | 20% |  |
+| 84 | 4% | 7% |  |
+| 85 | 0.1% | 3% |  |
+| 86 | 1.2% | 3% |  |
+| 87 | 1.0% | 2% |  |
+| 88 | 1.0% | 1.1% |  |
 | 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% |  |
 
@@ -426,19 +444,19 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 76 | 0% | 100% | Last Result, Majority |
-| 77 | 0.6% | 100% |  |
-| 78 | 2% | 99.4% |  |
-| 79 | 7% | 97% |  |
-| 80 | 2% | 90% |  |
-| 81 | 19% | 88% |  |
-| 82 | 31% | 69% | Median |
-| 83 | 24% | 38% |  |
-| 84 | 7% | 14% |  |
-| 85 | 3% | 7% |  |
-| 86 | 3% | 3% |  |
-| 87 | 0.5% | 0.6% |  |
-| 88 | 0% | 0.1% |  |
+| 76 | 0.3% | 100% | Last Result, Majority |
+| 77 | 1.1% | 99.7% |  |
+| 78 | 18% | 98.6% |  |
+| 79 | 57% | 81% | Median |
+| 80 | 0.2% | 24% |  |
+| 81 | 16% | 23% |  |
+| 82 | 0.9% | 7% |  |
+| 83 | 3% | 6% |  |
+| 84 | 0.8% | 3% |  |
+| 85 | 0.6% | 2% |  |
+| 86 | 1.1% | 2% |  |
+| 87 | 0% | 0.4% |  |
+| 88 | 0.4% | 0.4% |  |
 | 89 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Democraten 66
@@ -447,18 +465,43 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 71 | 0.8% | 100% | Last Result |
-| 72 | 2% | 99.1% |  |
-| 73 | 8% | 97% |  |
-| 74 | 19% | 89% |  |
-| 75 | 31% | 70% | Median |
-| 76 | 25% | 39% | Majority |
-| 77 | 6% | 14% |  |
-| 78 | 3% | 8% |  |
-| 79 | 5% | 5% |  |
-| 80 | 0.1% | 0.2% |  |
-| 81 | 0% | 0.1% |  |
-| 82 | 0% | 0% |  |
+| 69 | 1.2% | 100% |  |
+| 70 | 0.3% | 98.8% |  |
+| 71 | 13% | 98.5% | Last Result |
+| 72 | 4% | 85% |  |
+| 73 | 61% | 81% | Median |
+| 74 | 0.7% | 21% |  |
+| 75 | 14% | 20% |  |
+| 76 | 3% | 6% | Majority |
+| 77 | 0.9% | 3% |  |
+| 78 | 1.1% | 2% |  |
+| 79 | 0.9% | 1.3% |  |
+| 80 | 0% | 0.4% |  |
+| 81 | 0% | 0.4% |  |
+| 82 | 0.4% | 0.4% |  |
+| 83 | 0% | 0% |  |
+
+### Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Partij van de Arbeid – Socialistische Partij – ChristenUnie
+
+![Graph with seats probability mass function not yet produced](2021-01-11-IOResearch-coalitions-seats-pmf-cda–d66–gl–pvda–sp–cu.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 66 | 0.1% | 100% |  |
+| 67 | 0% | 99.9% |  |
+| 68 | 1.2% | 99.9% |  |
+| 69 | 11% | 98.7% |  |
+| 70 | 1.3% | 87% |  |
+| 71 | 2% | 86% |  |
+| 72 | 0.9% | 84% |  |
+| 73 | 19% | 83% |  |
+| 74 | 3% | 64% |  |
+| 75 | 3% | 61% |  |
+| 76 | 57% | 57% | Median, Majority |
+| 77 | 0% | 0.1% |  |
+| 78 | 0% | 0% |  |
+| 79 | 0% | 0% |  |
+| 80 | 0% | 0% | Last Result |
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Partij van de Arbeid
 
@@ -473,41 +516,18 @@
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
-| 68 | 0% | 100% |  |
-| 69 | 0.1% | 100% |  |
-| 70 | 0.8% | 99.9% |  |
-| 71 | 1.4% | 99.1% |  |
-| 72 | 35% | 98% |  |
-| 73 | 36% | 63% | Median |
-| 74 | 2% | 26% |  |
-| 75 | 13% | 25% |  |
-| 76 | 6% | 11% | Majority |
-| 77 | 5% | 6% |  |
-| 78 | 0.4% | 0.6% |  |
-| 79 | 0.2% | 0.2% |  |
-| 80 | 0% | 0% |  |
-
-### Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Partij van de Arbeid – Socialistische Partij – ChristenUnie
-
-![Graph with seats probability mass function not yet produced](2021-01-11-IOResearch-coalitions-seats-pmf-cda–d66–gl–pvda–sp–cu.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0.1% | 100% |  |
-| 67 | 0% | 99.9% |  |
-| 68 | 2% | 99.9% |  |
-| 69 | 5% | 97% |  |
-| 70 | 10% | 92% |  |
-| 71 | 24% | 82% |  |
-| 72 | 12% | 59% | Median |
-| 73 | 43% | 47% |  |
-| 74 | 3% | 4% |  |
-| 75 | 0.6% | 1.4% |  |
-| 76 | 0.6% | 0.8% | Majority |
-| 77 | 0.2% | 0.2% |  |
-| 78 | 0% | 0% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.1% | 99.9% |  |
+| 70 | 1.2% | 99.8% |  |
+| 71 | 25% | 98.7% |  |
+| 72 | 58% | 73% | Median |
+| 73 | 4% | 15% |  |
+| 74 | 4% | 11% |  |
+| 75 | 5% | 8% |  |
+| 76 | 0.1% | 2% | Majority |
+| 77 | 1.2% | 2% |  |
+| 78 | 1.0% | 1.0% |  |
 | 79 | 0% | 0% |  |
-| 80 | 0% | 0% | Last Result |
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie – Staatkundig Gereformeerde Partij – 50Plus
 
@@ -518,18 +538,18 @@
 | 61 | 0% | 100% | Last Result |
 | 62 | 0% | 100% |  |
 | 63 | 0% | 100% |  |
-| 64 | 0% | 100% |  |
-| 65 | 0.2% | 100% |  |
-| 66 | 0.8% | 99.8% |  |
-| 67 | 1.2% | 99.1% |  |
-| 68 | 17% | 98% |  |
-| 69 | 5% | 81% |  |
-| 70 | 19% | 76% | Median |
-| 71 | 40% | 57% |  |
-| 72 | 11% | 17% |  |
-| 73 | 4% | 7% |  |
-| 74 | 2% | 2% |  |
-| 75 | 0% | 0.1% |  |
+| 64 | 0.1% | 100% |  |
+| 65 | 0.9% | 99.9% |  |
+| 66 | 71% | 99.0% | Median |
+| 67 | 1.2% | 28% |  |
+| 68 | 0.1% | 27% |  |
+| 69 | 11% | 27% |  |
+| 70 | 0.5% | 16% |  |
+| 71 | 12% | 16% |  |
+| 72 | 2% | 4% |  |
+| 73 | 1.2% | 2% |  |
+| 74 | 0.6% | 1.1% |  |
+| 75 | 0.4% | 0.4% |  |
 | 76 | 0% | 0% | Majority |
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie – Staatkundig Gereformeerde Partij
@@ -544,18 +564,18 @@
 | 60 | 0% | 100% |  |
 | 61 | 0% | 100% |  |
 | 62 | 0% | 100% |  |
-| 63 | 0% | 100% |  |
-| 64 | 0.2% | 100% |  |
-| 65 | 0.3% | 99.8% |  |
-| 66 | 1.4% | 99.5% |  |
-| 67 | 17% | 98% |  |
-| 68 | 4% | 81% |  |
-| 69 | 16% | 77% | Median |
-| 70 | 30% | 61% |  |
-| 71 | 23% | 31% |  |
-| 72 | 4% | 8% |  |
-| 73 | 5% | 5% |  |
-| 74 | 0.1% | 0.1% |  |
+| 63 | 0.1% | 100% |  |
+| 64 | 0.2% | 99.9% |  |
+| 65 | 2% | 99.7% |  |
+| 66 | 71% | 98% | Median |
+| 67 | 0.8% | 27% |  |
+| 68 | 9% | 26% |  |
+| 69 | 12% | 17% |  |
+| 70 | 0.5% | 5% |  |
+| 71 | 1.4% | 4% |  |
+| 72 | 2% | 3% |  |
+| 73 | 0.9% | 1.3% |  |
+| 74 | 0.4% | 0.4% |  |
 | 75 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Democraten 66 – Partij van de Arbeid
@@ -567,16 +587,16 @@
 | 61 | 0% | 100% | Last Result |
 | 62 | 0% | 100% |  |
 | 63 | 0% | 100% |  |
-| 64 | 0.8% | 99.9% |  |
-| 65 | 9% | 99.2% |  |
-| 66 | 25% | 91% |  |
-| 67 | 18% | 66% |  |
-| 68 | 20% | 48% | Median |
-| 69 | 5% | 28% |  |
-| 70 | 6% | 23% |  |
-| 71 | 14% | 17% |  |
-| 72 | 2% | 3% |  |
-| 73 | 0.5% | 0.5% |  |
+| 64 | 1.3% | 100% |  |
+| 65 | 4% | 98.7% |  |
+| 66 | 15% | 95% |  |
+| 67 | 11% | 80% |  |
+| 68 | 62% | 69% | Median |
+| 69 | 0.7% | 6% |  |
+| 70 | 3% | 6% |  |
+| 71 | 1.3% | 3% |  |
+| 72 | 1.5% | 2% |  |
+| 73 | 0.1% | 0.1% |  |
 | 74 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie – 50Plus
@@ -588,18 +608,18 @@
 | 58 | 0% | 100% | Last Result |
 | 59 | 0% | 100% |  |
 | 60 | 0% | 100% |  |
-| 61 | 0% | 100% |  |
-| 62 | 0.1% | 100% |  |
-| 63 | 0.8% | 99.9% |  |
-| 64 | 0.8% | 99.2% |  |
-| 65 | 18% | 98% |  |
-| 66 | 4% | 80% |  |
-| 67 | 40% | 76% | Median |
-| 68 | 19% | 37% |  |
-| 69 | 3% | 18% |  |
-| 70 | 12% | 15% |  |
-| 71 | 2% | 2% |  |
-| 72 | 0.2% | 0.2% |  |
+| 61 | 0.1% | 100% |  |
+| 62 | 0.9% | 99.9% |  |
+| 63 | 72% | 99.0% | Median |
+| 64 | 0.4% | 27% |  |
+| 65 | 3% | 27% |  |
+| 66 | 7% | 24% |  |
+| 67 | 1.2% | 17% |  |
+| 68 | 12% | 16% |  |
+| 69 | 1.4% | 4% |  |
+| 70 | 2% | 3% |  |
+| 71 | 0.5% | 1.3% |  |
+| 72 | 0.8% | 0.8% |  |
 | 73 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl – Forum voor Democratie
@@ -614,19 +634,38 @@
 | 57 | 0% | 100% |  |
 | 58 | 0% | 100% |  |
 | 59 | 0% | 100% |  |
-| 60 | 0% | 100% |  |
-| 61 | 0% | 100% |  |
-| 62 | 0.3% | 100% |  |
-| 63 | 1.0% | 99.6% |  |
-| 64 | 18% | 98.6% |  |
-| 65 | 3% | 80% |  |
-| 66 | 36% | 77% | Median |
-| 67 | 8% | 41% |  |
-| 68 | 17% | 33% |  |
-| 69 | 11% | 16% |  |
-| 70 | 4% | 5% |  |
-| 71 | 0.4% | 0.5% |  |
+| 60 | 0.1% | 100% |  |
+| 61 | 1.2% | 99.9% |  |
+| 62 | 0.8% | 98.7% |  |
+| 63 | 71% | 98% | Median |
+| 64 | 3% | 27% |  |
+| 65 | 7% | 24% |  |
+| 66 | 12% | 18% |  |
+| 67 | 0.7% | 5% |  |
+| 68 | 1.1% | 4% |  |
+| 69 | 1.3% | 3% |  |
+| 70 | 0.9% | 2% |  |
+| 71 | 1.1% | 1.1% |  |
 | 72 | 0% | 0% |  |
+
+### Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Partij van de Arbeid – ChristenUnie
+
+![Graph with seats probability mass function not yet produced](2021-01-11-IOResearch-coalitions-seats-pmf-cda–d66–gl–pvda–cu.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 58 | 0.4% | 100% |  |
+| 59 | 0.8% | 99.6% |  |
+| 60 | 13% | 98.9% |  |
+| 61 | 2% | 86% |  |
+| 62 | 0.9% | 83% |  |
+| 63 | 7% | 83% |  |
+| 64 | 14% | 76% |  |
+| 65 | 3% | 61% |  |
+| 66 | 58% | 58% | Last Result, Median |
+| 67 | 0% | 0.3% |  |
+| 68 | 0.3% | 0.3% |  |
+| 69 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Christen-Democratisch Appèl
 
@@ -639,38 +678,17 @@
 | 54 | 0% | 100% |  |
 | 55 | 0% | 100% |  |
 | 56 | 0% | 100% |  |
-| 57 | 0% | 100% |  |
-| 58 | 0.3% | 100% |  |
-| 59 | 1.1% | 99.7% |  |
-| 60 | 4% | 98.6% |  |
-| 61 | 21% | 94% |  |
-| 62 | 29% | 73% | Median |
-| 63 | 23% | 44% |  |
-| 64 | 14% | 21% |  |
-| 65 | 2% | 7% |  |
-| 66 | 4% | 5% |  |
-| 67 | 0.5% | 0.7% |  |
-| 68 | 0.2% | 0.2% |  |
-| 69 | 0% | 0% |  |
-
-### Christen-Democratisch Appèl – Democraten 66 – GroenLinks – Partij van de Arbeid – ChristenUnie
-
-![Graph with seats probability mass function not yet produced](2021-01-11-IOResearch-coalitions-seats-pmf-cda–d66–gl–pvda–cu.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0.1% | 100% |  |
-| 57 | 0% | 99.9% |  |
-| 58 | 0.9% | 99.9% |  |
-| 59 | 8% | 99.0% |  |
-| 60 | 14% | 91% |  |
-| 61 | 12% | 77% |  |
-| 62 | 15% | 65% | Median |
-| 63 | 45% | 50% |  |
-| 64 | 2% | 5% |  |
-| 65 | 2% | 3% |  |
-| 66 | 0.6% | 0.9% | Last Result |
-| 67 | 0.2% | 0.2% |  |
+| 57 | 1.2% | 100% |  |
+| 58 | 0.1% | 98.8% |  |
+| 59 | 72% | 98.8% | Median |
+| 60 | 2% | 27% |  |
+| 61 | 12% | 25% |  |
+| 62 | 8% | 13% |  |
+| 63 | 1.2% | 5% |  |
+| 64 | 2% | 4% |  |
+| 65 | 0.3% | 2% |  |
+| 66 | 1.4% | 2% |  |
+| 67 | 0.7% | 0.7% |  |
 | 68 | 0% | 0% |  |
 
 ### Volkspartij voor Vrijheid en Democratie – Partij van de Arbeid
@@ -688,16 +706,16 @@
 | 48 | 0% | 100% |  |
 | 49 | 0% | 100% |  |
 | 50 | 0% | 100% |  |
-| 51 | 0.1% | 100% |  |
-| 52 | 0.8% | 99.8% |  |
-| 53 | 34% | 99.0% |  |
-| 54 | 6% | 65% |  |
-| 55 | 31% | 59% | Median |
-| 56 | 5% | 28% |  |
-| 57 | 4% | 23% |  |
-| 58 | 15% | 19% |  |
-| 59 | 4% | 4% |  |
-| 60 | 0.1% | 0.1% |  |
+| 51 | 0% | 100% |  |
+| 52 | 2% | 100% |  |
+| 53 | 12% | 98% |  |
+| 54 | 70% | 86% | Median |
+| 55 | 7% | 15% |  |
+| 56 | 2% | 9% |  |
+| 57 | 4% | 6% |  |
+| 58 | 2% | 3% |  |
+| 59 | 0.6% | 0.8% |  |
+| 60 | 0.2% | 0.2% |  |
 | 61 | 0% | 0% |  |
 
 ### Christen-Democratisch Appèl – Democraten 66 – Partij van de Arbeid
@@ -706,18 +724,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.4% | 100% |  |
-| 39 | 2% | 99.5% |  |
-| 40 | 14% | 97% |  |
-| 41 | 12% | 83% |  |
-| 42 | 44% | 71% | Median |
-| 43 | 19% | 28% |  |
-| 44 | 6% | 9% |  |
-| 45 | 2% | 3% |  |
-| 46 | 0.4% | 0.8% |  |
-| 47 | 0% | 0.4% | Last Result |
-| 48 | 0.4% | 0.4% |  |
-| 49 | 0% | 0% |  |
+| 38 | 0.1% | 100% |  |
+| 39 | 0.2% | 99.9% |  |
+| 40 | 1.1% | 99.7% |  |
+| 41 | 16% | 98.6% |  |
+| 42 | 15% | 83% |  |
+| 43 | 5% | 68% |  |
+| 44 | 4% | 63% |  |
+| 45 | 57% | 58% | Median |
+| 46 | 1.0% | 1.0% |  |
+| 47 | 0% | 0% | Last Result |
 
 ### Christen-Democratisch Appèl – Partij van de Arbeid – ChristenUnie
 
@@ -726,16 +742,17 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.2% | 99.9% |  |
-| 33 | 0.9% | 99.7% | Last Result |
-| 34 | 10% | 98.9% |  |
-| 35 | 9% | 89% |  |
-| 36 | 57% | 80% | Median |
-| 37 | 17% | 23% |  |
-| 38 | 3% | 6% |  |
-| 39 | 3% | 3% |  |
-| 40 | 0.5% | 0.6% |  |
-| 41 | 0% | 0% |  |
+| 32 | 0% | 99.9% |  |
+| 33 | 0.1% | 99.9% | Last Result |
+| 34 | 12% | 99.8% |  |
+| 35 | 5% | 88% |  |
+| 36 | 15% | 83% |  |
+| 37 | 59% | 68% | Median |
+| 38 | 3% | 10% |  |
+| 39 | 7% | 7% |  |
+| 40 | 0.2% | 0.4% |  |
+| 41 | 0.3% | 0.3% |  |
+| 42 | 0% | 0% |  |
 
 ### Christen-Democratisch Appèl – Democraten 66
 
@@ -743,16 +760,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
-| 28 | 2% | 99.9% |  |
-| 29 | 9% | 98% |  |
-| 30 | 23% | 89% |  |
-| 31 | 19% | 66% | Median |
-| 32 | 39% | 46% |  |
-| 33 | 6% | 7% |  |
-| 34 | 0.6% | 1.1% |  |
-| 35 | 0.2% | 0.5% |  |
-| 36 | 0.3% | 0.4% |  |
+| 27 | 0.2% | 100% |  |
+| 28 | 0.5% | 99.8% |  |
+| 29 | 15% | 99.4% |  |
+| 30 | 9% | 85% |  |
+| 31 | 3% | 75% |  |
+| 32 | 69% | 72% | Median |
+| 33 | 2% | 3% |  |
+| 34 | 0.4% | 1.1% |  |
+| 35 | 0% | 0.7% |  |
+| 36 | 0.7% | 0.7% |  |
 | 37 | 0% | 0% |  |
 | 38 | 0% | 0% | Last Result |
 
@@ -763,15 +780,16 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 1.0% | 99.9% |  |
-| 27 | 4% | 98.9% |  |
-| 28 | 15% | 95% | Last Result |
-| 29 | 51% | 80% | Median |
-| 30 | 20% | 29% |  |
-| 31 | 6% | 9% |  |
-| 32 | 3% | 3% |  |
-| 33 | 0.5% | 0.5% |  |
-| 34 | 0% | 0% |  |
+| 26 | 0.2% | 99.9% |  |
+| 27 | 0.2% | 99.7% |  |
+| 28 | 14% | 99.6% | Last Result |
+| 29 | 17% | 86% |  |
+| 30 | 3% | 69% |  |
+| 31 | 61% | 66% | Median |
+| 32 | 0.2% | 4% |  |
+| 33 | 4% | 4% |  |
+| 34 | 0.3% | 0.3% |  |
+| 35 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -785,6 +803,6 @@
 ### Calculations
 
 + **Sample size:** 2336
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.30%
++ **Simulations done:** 131,072
++ **Error estimate:** 3.06%
 
