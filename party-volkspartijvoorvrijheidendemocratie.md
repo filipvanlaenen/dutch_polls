@@ -19,10 +19,10 @@ Last result: **21.3%** (General Election of 15 March 2017)
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 22.6% | 21.7–23.6% | 21.4–23.9% | 21.2–24.2% | 20.7–24.7% |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 28.6% | 27.0–30.3% | 26.6–30.8% | 26.2–31.2% | 25.5–32.0% |
 | [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 22.6% | 21.7–23.6% | 21.4–23.9% | 21.2–24.2% | 20.7–24.7% |
-| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 24.0% | N/A | N/A | N/A | N/A |
-| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 24.0% | N/A | N/A | N/A | N/A |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 24.0% | 23.0–25.0% | 22.7–25.3% | 22.5–25.5% | 22.0–26.0% |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 24.0% | 23.0–25.0% | 22.7–25.3% | 22.5–25.5% | 22.0–26.0% |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 21.9% | 20.4–23.7% | 19.9–24.1% | 19.5–24.6% | 18.8–25.4% |
-| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 23.9% | N/A | N/A | N/A | N/A |
+| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 23.9% | 23.0–25.0% | 22.7–25.3% | 22.4–25.5% | 22.0–26.0% |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 29.3% | 28.1–30.5% | 27.7–30.8% | 27.4–31.2% | 26.9–31.8% |
 | [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 23.3% | N/A | N/A | N/A | N/A |
 | [7–15 November 2020](2020-11-15-KantarPublic.html) | Kantar Public | 28.0% | 27.2–28.9% | 26.9–29.1% | 26.7–29.3% | 26.3–29.7% |
@@ -310,19 +310,19 @@ Last result: **33** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 32–45 | 32–45 | 32–46 | 32–47 |
+| N/A | [Poll Average](average.html) | 41 | 32–45 | 32–45 | 32–46 | 32–48 |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 41 | 41–43 | 41–45 | 41–46 | 39–47 |
 | [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 34 | 32–35 | 32–35 | 32–35 | 31–37 |
 | [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 34 | 32–35 | 32–36 | 31–37 | 31–38 |
-| [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 42 | 41–45 | 40–46 | 40–46 | 39–49 |
+| [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 42 | 41–45 | 40–46 | 40–47 | 39–49 |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 43 | 38–45 | 38–45 | 37–45 | 35–46 |
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 36 | 33–36 | 33–36 | 33–38 | 32–38 |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 45 | 40–47 | 39–47 | 39–49 | 39–49 |
-| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 32 | 32–36 | 32–36 | 32–36 | 32–39 |
-| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 36 | 33–36 | 33–36 | 32–37 | 30–39 |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 33 | 33–37 | 33–38 | 33–39 | 33–39 |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 37 | 35–37 | 35–37 | 35–39 | 34–39 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 32 | 31–34 | 31–35 | 31–36 | 28–38 |
-| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 37 | 37 | 37 | 35–37 | 35–41 |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 47 | 43–47 | 43–47 | 43–47 | 43–49 |
 | [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [7–15 November 2020](2020-11-15-KantarPublic.html) | Kantar Public | 43 | 42–45 | 41–45 | 41–45 | 41–46 |
@@ -598,15 +598,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 3% | 74% |  |
 | 39 | 2% | 71% |  |
 | 40 | 2% | 69% |  |
-| 41 | 23% | 67% | Median |
-| 42 | 19% | 45% |  |
-| 43 | 11% | 25% |  |
-| 44 | 0.9% | 14% |  |
+| 41 | 25% | 67% | Median |
+| 42 | 14% | 42% |  |
+| 43 | 11% | 28% |  |
+| 44 | 4% | 17% |  |
 | 45 | 10% | 13% |  |
 | 46 | 2% | 3% |  |
-| 47 | 0.5% | 1.0% |  |
-| 48 | 0.1% | 0.5% |  |
-| 49 | 0.3% | 0.3% |  |
+| 47 | 1.1% | 2% |  |
+| 48 | 0.1% | 0.6% |  |
+| 49 | 0.4% | 0.4% |  |
 | 50 | 0% | 0% |  |
 
 
