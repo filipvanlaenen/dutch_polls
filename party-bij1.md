@@ -11,6 +11,7 @@ Last result: **0.3%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
+| [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 0.0% | N/A | N/A | N/A | N/A |
 | [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
@@ -299,6 +300,7 @@ Last result: **0** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -575,8 +577,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 69% | 69% | Median |
+| 0 | 30% | 100% | Last Result |
+| 1 | 70% | 70% | Median |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
