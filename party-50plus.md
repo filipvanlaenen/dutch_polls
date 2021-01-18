@@ -310,7 +310,7 @@ Last result: **4** seats (General Election of 15 March 2017)
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
