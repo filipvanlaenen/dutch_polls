@@ -314,18 +314,18 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 13 | 12–14 | 11–15 | 11–15 | 9–16 |
 | [18–19 December 2020](2020-12-19-Peilnl.html) | Peil.nl | 13 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [11–14 December 2020](2020-12-14-IOResearch.html) | I&O Research | 13 | 11–14 | 11–15 | 11–15 | 10–15 |
-| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 12 | 12–14 | 11–14 | 10–14 | 10–14 |
-| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 13 | 13–15 | 12–15 | 12–15 | 11–16 |
-| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 13 | 13–15 | 13–15 | 13–15 | 11–15 |
+| [11–12 December 2020](2020-12-12-Peilnl.html) | Peil.nl | 13 | 11–13 | 10–14 | 10–14 | 10–14 |
+| [4–5 December 2020](2020-12-05-Peilnl.html) | Peil.nl | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [26–27 November 2020](2020-11-27-Peilnl.html) | Peil.nl | 15 | 12–15 | 12–15 | 12–15 | 11–15 |
 | [20–23 November 2020](2020-11-23-Ipsos.html) | Ipsos <br> EenVandaag | 12 | 12–15 | 12–15 | 12–16 | 11–19 |
-| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 14 | 12–14 | 12–14 | 12–14 | 11–14 |
+| [20–21 November 2020](2020-11-21-Peilnl.html) | Peil.nl | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [9–16 November 2020](2020-11-16-IOResearch.html) | I&O Research | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
-| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 13 | 12–13 | 12–13 | 12–13 | 10–13 |
+| [15 November 2020](2020-11-15-Peilnl.html) | Peil.nl | 13 | 11–14 | 11–14 | 10–14 | 10–14 |
 | [7–15 November 2020](2020-11-15-KantarPublic.html) | Kantar Public | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
-| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 13 | 12–13 | 12–13 | 12–13 | 10–13 |
-| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 13 | 12–13 | 12–13 | 12–13 | 10–13 |
+| [8 November 2020](2020-11-08-Peilnl.html) | Peil.nl | 13 | 11–14 | 11–14 | 10–14 | 10–14 |
+| [1 November 2020](2020-11-01-Peilnl.html) | Peil.nl | 13 | 11–14 | 11–14 | 10–14 | 10–14 |
 | [23–26 October 2020](2020-10-26-Ipsos.html) | Ipsos <br> EenVandaag | 14 | 13–15 | 12–15 | 12–15 | 10–16 |
-| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 13 | 11–13 | 11–13 | 11–13 | 11–14 |
+| [16–17 October 2020](2020-10-17-Peilnl.html) | Peil.nl | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
 | [9–12 October 2020](2020-10-12-IOResearch.html) | I&O Research | 15 | 15 | 13–15 | 13–15 | 13–16 |
 | [11 October 2020](2020-10-11-Peilnl.html) | Peil.nl | 14 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [4 October 2020](2020-10-04-Peilnl.html) | Peil.nl | 14 | 12–14 | 12–14 | 12–15 | 11–15 |
@@ -560,7 +560,7 @@ Last result: **19** seats (General Election of 15 March 2017)
 | [15 June 2017](2017-06-15-Ipsos.html) | Ipsos | 21 | 17–23 | 17–23 | 17–23 | 16–25 |
 | [4 June 2017](2017-06-04-Peilnl.html) | Peil.nl | 20 | 19–22 | 19–22 | 19–24 | 18–24 |
 | [1 June 2017](2017-06-01-Ipsos.html) | Ipsos | 20 | 17–21 | 17–22 | 16–22 | 15–24 |
-| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 18 | 17–21 | 17–21 | 17–21 | 17–21 |
+| [29 May 2017](2017-05-29-GfK.html) | GfK <br> EenVandaag | 20 | 20 | 20 | 19–20 | 18–20 |
 | [21 May 2017](2017-05-21-Peilnl.html) | Peil.nl | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [19 May 2017](2017-05-19-Ipsos.html) | Ipsos | 23 | 23 | 20–23 | 20–23 | 19–24 |
 | [14 May 2017](2017-05-14-Peilnl.html) | Peil.nl | 22 | 18–22 | 18–22 | 18–22 | 18–23 |
