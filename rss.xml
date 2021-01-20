@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Tue, 19 Jan 2021 19:13:04 +0100</pubDate>
+    <pubDate>Tue, 19 Jan 2021 19:44:40 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar Public, 8–12 January 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-01-12-KantarPublic.html#seats</link>
@@ -7630,14 +7630,34 @@
       <dc:date>2020-12-25T10:10:46.831252+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by GfK for EenVandaag, 29 May 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2017-05-29-GfK.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 29–31 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 21–25 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 17–18 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 18–20 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 14–16 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 13 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 10–12 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 4–5 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4–6 seats&lt;/li&gt;&lt;li&gt;50Plus: 3–4 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 3–4 seats&lt;/li&gt;&lt;li&gt;DENK: 1–2 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2017-05-29-GfK-seats.png"
+        length="281757"
+        type="image/png"/>
+      <pubDate>Tue, 19 Jan 2021 19:44:40 +0100</pubDate>
+      <dc:date>2021-01-19T19:44:40.937165+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK for EenVandaag, 29 May 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2017-05-29-GfK.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2017-05-29-GfK-coalitions-seats.png"
+        length="463915"
+        type="image/png"/>
+      <pubDate>Tue, 19 Jan 2021 19:44:40 +0100</pubDate>
+      <dc:date>2021-01-19T19:44:40.937165+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GfK for EenVandaag, 29 May 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2017-05-29-GfK.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 18.3–21.8%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 13.8–17.0%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 10.6–13.5%&lt;/li&gt;&lt;li&gt;Democraten 66: 10.6–13.5%&lt;/li&gt;&lt;li&gt;GroenLinks: 8.8–11.4%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 7.5–10.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 5.6–7.8%&lt;/li&gt;&lt;li&gt;ChristenUnie: 2.6–4.2%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 2.6–4.2%&lt;/li&gt;&lt;li&gt;50Plus: 2.0–3.5%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.5–2.7%&lt;/li&gt;&lt;li&gt;DENK: 0.9–1.9%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Piratenpartij: 0.4–1.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2017-05-29-GfK.png"
         length="375891"
         type="image/png"/>
-      <pubDate>Tue, 19 Jan 2021 19:13:04 +0100</pubDate>
-      <dc:date>2021-01-19T19:13:04.463642+01:00</dc:date>
+      <pubDate>Tue, 19 Jan 2021 19:44:40 +0100</pubDate>
+      <dc:date>2021-01-19T19:44:40.937165+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 21 May 2017 – Seat Projections for the Parties</title>
@@ -8029,6 +8049,6 @@
       <pubDate>Tue, 22 Dec 2020 20:58:58 +0100</pubDate>
       <dc:date>2020-12-22T20:58:58.689516+01:00</dc:date>
     </item>
-    <dc:date>2021-01-19T19:13:04.463642+01:00</dc:date>
+    <dc:date>2021-01-19T19:44:40.937165+01:00</dc:date>
   </channel>
 </rss>
