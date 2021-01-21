@@ -11,6 +11,7 @@ Last result: **1.8%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.6% | 2.1–3.2% | 1.9–3.3% | 1.7–3.5% | 1.5–4.0% |
+| [17 January 2021](2021-01-17-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public | 2.6% | 2.0–3.4% | 1.9–3.7% | 1.8–3.9% | 1.5–4.3% |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 2.7% | 2.3–3.1% | 2.2–3.3% | 2.1–3.4% | 1.9–3.6% |
 | [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
@@ -303,7 +304,8 @@ Last result: **2** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [17 January 2021](2021-01-17-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 3–5 |
 | [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -583,9 +585,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
 | 2 | 3% | 99.8% | Last Result |
-| 3 | 56% | 97% | Median |
-| 4 | 38% | 41% |  |
-| 5 | 3% | 3% |  |
+| 3 | 41% | 97% |  |
+| 4 | 54% | 56% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
