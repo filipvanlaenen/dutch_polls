@@ -10,11 +10,12 @@ Last result: **13.1%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.4% | 12.8–16.9% | 12.5–17.3% | 12.2–17.6% | 11.6–18.1% |
-| [17 January 2021](2021-01-17-Peilnl.html) | Peil.nl | 16.6% | 15.8–17.5% | 15.5–17.8% | 15.3–18.0% | 14.9–18.5% |
+| N/A | [Poll Average](average.html) | 14.4% | 12.8–16.3% | 12.5–16.7% | 12.2–17.0% | 11.6–17.5% |
+| [22–23 January 2021](2021-01-23-Peilnl.html) | Peil.nl | 16.0% | 15.1–16.9% | 14.9–17.1% | 14.7–17.3% | 14.3–17.8% |
+| [15–16 January 2021](2021-01-16-Peilnl.html) | Peil.nl | 16.6% | 15.8–17.5% | 15.5–17.8% | 15.3–18.0% | 14.9–18.5% |
 | [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public | 14.0% | 12.6–15.6% | 12.3–16.0% | 11.9–16.4% | 11.3–17.2% |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 13.3% | 12.4–14.3% | 12.2–14.5% | 12.0–14.8% | 11.6–15.2% |
-| [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 16.6% | 15.8–17.5% | 15.5–17.8% | 15.3–18.0% | 14.9–18.5% |
+| [8–9 January 2021](2021-01-09-Peilnl.html) | Peil.nl | 16.6% | 15.8–17.5% | 15.5–17.8% | 15.3–18.0% | 14.9–18.5% |
 | [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 16.6% | 15.8–17.5% | 15.5–17.8% | 15.3–18.0% | 14.9–18.5% |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 12.1% | 11.0–13.4% | 10.7–13.7% | 10.4–14.1% | 9.9–14.7% |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.9–17.5% |
@@ -291,13 +292,12 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0.4% | 100% |  |
 | 11.5–12.5% | 6% | 99.6% |  |
 | 12.5–13.5% | 22% | 94% | Last Result |
-| 13.5–14.5% | 25% | 72% | Median |
-| 14.5–15.5% | 16% | 47% |  |
-| 15.5–16.5% | 16% | 31% |  |
-| 16.5–17.5% | 13% | 15% |  |
-| 17.5–18.5% | 2% | 3% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 13.5–14.5% | 26% | 72% | Median |
+| 14.5–15.5% | 21% | 46% |  |
+| 15.5–16.5% | 19% | 26% |  |
+| 16.5–17.5% | 6% | 6% |  |
+| 17.5–18.5% | 0.4% | 0.4% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -308,11 +308,12 @@ Last result: **20** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–25 | 18–26 | 18–26 | 18–27 |
-| [17 January 2021](2021-01-17-Peilnl.html) | Peil.nl | 25 | 25–26 | 25–26 | 25–26 | 23–28 |
+| N/A | [Poll Average](average.html) | 21 | 19–25 | 18–25 | 18–25 | 18–26 |
+| [22–23 January 2021](2021-01-23-Peilnl.html) | Peil.nl | 25 | 25 | 25 | 24–25 | 23–26 |
+| [15–16 January 2021](2021-01-16-Peilnl.html) | Peil.nl | 25 | 25–26 | 25–26 | 25–26 | 23–28 |
 | [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public | 22 | 19–23 | 18–23 | 18–23 | 17–26 |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 19 | 18–21 | 18–21 | 18–22 | 18–23 |
-| [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 24 | 24–28 | 24–28 | 24–28 | 24–28 |
+| [8–9 January 2021](2021-01-09-Peilnl.html) | Peil.nl | 24 | 24–28 | 24–28 | 24–28 | 24–28 |
 | [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 26 | 25–28 | 24–29 | 24–29 | 22–29 |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 20 | 17–20 | 16–20 | 16–20 | 15–22 |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 21 | 20–23 | 20–24 | 19–25 | 18–26 |
@@ -594,11 +595,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 16% | 66% | Median |
 | 22 | 10% | 50% |  |
 | 23 | 13% | 40% |  |
-| 24 | 1.3% | 27% |  |
-| 25 | 17% | 26% |  |
-| 26 | 8% | 8% |  |
-| 27 | 0.4% | 0.5% |  |
-| 28 | 0.2% | 0.2% |  |
-| 29 | 0% | 0% |  |
+| 24 | 2% | 27% |  |
+| 25 | 24% | 25% |  |
+| 26 | 0.7% | 0.9% |  |
+| 27 | 0.1% | 0.1% |  |
+| 28 | 0% | 0% |  |
 
 

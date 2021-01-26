@@ -11,10 +11,11 @@ Last result: **21.3%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.5% | 23.1–29.7% | 22.7–30.2% | 22.3–30.7% | 21.8–31.8% |
-| [17 January 2021](2021-01-17-Peilnl.html) | Peil.nl | 23.3% | 22.3–24.3% | 22.1–24.6% | 21.8–24.9% | 21.4–25.3% |
+| [22–23 January 2021](2021-01-23-Peilnl.html) | Peil.nl | 23.3% | 22.3–24.3% | 22.1–24.6% | 21.8–24.9% | 21.4–25.3% |
+| [15–16 January 2021](2021-01-16-Peilnl.html) | Peil.nl | 23.3% | 22.3–24.3% | 22.1–24.6% | 21.8–24.9% | 21.4–25.3% |
 | [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public | 28.6% | 26.7–30.6% | 26.2–31.1% | 25.8–31.6% | 24.9–32.6% |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 28.6% | 27.5–29.9% | 27.1–30.2% | 26.8–30.5% | 26.3–31.1% |
-| [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 22.0% | 21.0–23.0% | 20.7–23.2% | 20.5–23.5% | 20.1–24.0% |
+| [8–9 January 2021](2021-01-09-Peilnl.html) | Peil.nl | 22.0% | 21.0–23.0% | 20.7–23.2% | 20.5–23.5% | 20.1–24.0% |
 | [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 22.0% | 21.0–23.0% | 20.7–23.2% | 20.5–23.5% | 20.1–24.0% |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 27.9% | 26.3–29.6% | 25.8–30.0% | 25.4–30.4% | 24.7–31.3% |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 26.9% | 25.1–28.7% | 24.7–29.2% | 24.3–29.6% | 23.5–30.5% |
@@ -312,11 +313,12 @@ Last result: **33** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 35–47 | 35–49 | 35–49 | 35–49 |
-| [17 January 2021](2021-01-17-Peilnl.html) | Peil.nl | 35 | 35 | 35 | 35–39 | 34–39 |
+| N/A | [Poll Average](average.html) | 43 | 36–47 | 36–49 | 36–49 | 36–49 |
+| [22–23 January 2021](2021-01-23-Peilnl.html) | Peil.nl | 36 | 36–37 | 36–37 | 36–37 | 36–38 |
+| [15–16 January 2021](2021-01-16-Peilnl.html) | Peil.nl | 35 | 35 | 35 | 35–39 | 34–39 |
 | [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public | 44 | 43–46 | 43–46 | 41–46 | 39–48 |
 | [8–11 January 2021](2021-01-11-IOResearch.html) | I&O Research | 47 | 43–49 | 43–49 | 42–49 | 40–49 |
-| [10 January 2021](2021-01-10-Peilnl.html) | Peil.nl | 33 | 32–34 | 32–35 | 32–37 | 31–38 |
+| [8–9 January 2021](2021-01-09-Peilnl.html) | Peil.nl | 33 | 32–34 | 32–35 | 32–37 | 31–38 |
 | [1–2 January 2021](2021-01-02-Peilnl.html) | Peil.nl | 34 | 32–35 | 32–36 | 31–37 | 31–38 |
 | [18–21 December 2020](2020-12-21-KantarPublic.html) | Kantar Public | 42 | 41–45 | 40–46 | 40–47 | 39–49 |
 | [18–21 December 2020](2020-12-21-Ipsos.html) | Ipsos <br> EenVandaag | 43 | 38–45 | 38–45 | 37–45 | 35–46 |
@@ -592,13 +594,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 33 | 0% | 100% | Last Result |
-| 34 | 0.2% | 100% |  |
-| 35 | 24% | 99.8% |  |
-| 36 | 0.2% | 76% |  |
-| 37 | 0.7% | 76% |  |
-| 38 | 3% | 75% |  |
-| 39 | 2% | 72% |  |
-| 40 | 1.5% | 70% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.2% | 99.9% |  |
+| 36 | 22% | 99.7% |  |
+| 37 | 3% | 78% |  |
+| 38 | 3% | 74% |  |
+| 39 | 1.5% | 71% |  |
+| 40 | 1.4% | 70% |  |
 | 41 | 2% | 68% |  |
 | 42 | 3% | 66% |  |
 | 43 | 16% | 63% | Median |
