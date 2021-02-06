@@ -316,11 +316,11 @@ Last result: **33** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 36–46 | 36–46 | 35–47 | 34–47 |
+| N/A | [Poll Average](average.html) | 41 | 36–46 | 36–46 | 35–46 | 34–47 |
 | [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 38 | 35–38 | 35–39 | 35–39 | 34–39 |
-| [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 46 | 43–46 | 42–46 | 40–46 | 40–47 |
+| [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 44 | 44–46 | 43–46 | 41–46 | 40–47 |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 40 | 37–45 | 36–45 | 36–46 | 34–46 |
-| [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 41 | 40–46 | 40–47 | 40–47 | 39–48 |
+| [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 44 | 40–45 | 40–46 | 40–46 | 39–48 |
 | [22–23 January 2021](2021-01-23-Peilnl.html) | Peil.nl | 36 | 36–37 | 36–37 | 36–37 | 36–38 |
 | [15–16 January 2021](2021-01-16-Peilnl.html) | Peil.nl | 35 | 35 | 35 | 35–39 | 34–39 |
 | [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public | 44 | 43–46 | 43–46 | 41–46 | 39–48 |
@@ -607,15 +607,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 5% | 87% |  |
 | 38 | 16% | 81% |  |
 | 39 | 3% | 66% |  |
-| 40 | 18% | 62% | Median |
-| 41 | 4% | 44% |  |
-| 42 | 2% | 40% |  |
-| 43 | 8% | 38% |  |
-| 44 | 3% | 30% |  |
-| 45 | 3% | 28% |  |
-| 46 | 22% | 25% |  |
-| 47 | 2% | 3% |  |
-| 48 | 0.2% | 0.3% |  |
+| 40 | 11% | 63% |  |
+| 41 | 2% | 52% | Median |
+| 42 | 3% | 50% |  |
+| 43 | 3% | 47% |  |
+| 44 | 25% | 44% |  |
+| 45 | 8% | 19% |  |
+| 46 | 10% | 11% |  |
+| 47 | 0.5% | 0.8% |  |
+| 48 | 0.2% | 0.2% |  |
 | 49 | 0% | 0% |  |
 
 

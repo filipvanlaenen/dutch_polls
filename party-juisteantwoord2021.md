@@ -309,9 +309,9 @@ Last result: **0** seats (General Election of 15 March 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 0–4 |
 | [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 1 | 1 | 1 | 0–1 | 0–1 |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
-| [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [22–23 January 2021](2021-01-23-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [15–16 January 2021](2021-01-16-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–12 January 2021](2021-01-12-KantarPublic.html) | Kantar Public | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
@@ -591,10 +591,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 33% | 98% |  |
-| 2 | 40% | 65% | Median |
-| 3 | 23% | 25% |  |
+| 0 | 1.3% | 100% | Last Result |
+| 1 | 42% | 98.7% |  |
+| 2 | 30% | 56% | Median |
+| 3 | 24% | 26% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
