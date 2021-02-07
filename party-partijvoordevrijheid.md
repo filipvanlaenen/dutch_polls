@@ -315,9 +315,9 @@ Last result: **20** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–25 | 17–25 | 17–25 | 16–26 |
-| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 22 | 22–25 | 22–25 | 22–26 | 22–26 |
-| [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 27 | 25–27 | 24–27 | 22–27 | 21–27 |
+| N/A | [Poll Average](average.html) | 20 | 17–25 | 17–25 | 17–25 | 16–25 |
+| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 24 | 23–25 | 23–25 | 22–25 | 22–26 |
+| [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 24 | 24–25 | 24–25 | 24–27 | 23–27 |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 18 | 17–18 | 16–18 | 16–18 | 16–20 |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 21 | 17–21 | 17–24 | 17–24 | 17–24 |
 | [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 20 | 17–21 | 17–21 | 17–21 | 16–22 |
@@ -608,11 +608,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 6% | 64% |  |
 | 20 | 15% | 59% | Last Result, Median |
 | 21 | 16% | 44% |  |
-| 22 | 15% | 28% |  |
-| 23 | 0.1% | 13% |  |
-| 24 | 2% | 13% |  |
-| 25 | 10% | 11% |  |
-| 26 | 0.8% | 0.8% |  |
+| 22 | 2% | 28% |  |
+| 23 | 8% | 26% |  |
+| 24 | 5% | 18% |  |
+| 25 | 12% | 12% |  |
+| 26 | 0.5% | 0.5% |  |
 | 27 | 0% | 0% |  |
 
 
