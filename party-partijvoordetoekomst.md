@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 15 March 2017)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.6% | 2.3–3.0% | 2.2–3.1% | 2.1–3.2% | 1.9–3.4% |
 | [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 2.6% | 2.3–3.0% | 2.2–3.1% | 2.1–3.2% | 1.9–3.4% |
+| [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
@@ -311,6 +312,7 @@ Last result: **0** seats (General Election of 15 March 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant |  |  |  |  |  |
 | [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
