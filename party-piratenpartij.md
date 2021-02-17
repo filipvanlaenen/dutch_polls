@@ -11,6 +11,7 @@ Last result: **0.3%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% |
+| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
 | [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% |
@@ -309,6 +310,7 @@ Last result: **0** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 0 | 0 | 0 | 0 | 0 |

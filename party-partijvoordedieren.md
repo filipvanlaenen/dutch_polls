@@ -10,7 +10,8 @@ Last result: **3.2%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.0–5.0% | 2.8–5.3% | 2.7–5.5% | 2.4–5.9% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.0–5.1% | 2.8–5.3% | 2.7–5.6% | 2.4–6.1% |
+| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 4.5% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
 | [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 3.3% | 2.9–3.9% | 2.7–4.0% | 2.6–4.2% | 2.4–4.4% |
@@ -298,10 +299,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 1.3% | 100% |  |
 | 2.5–3.5% | 33% | 98.7% | Last Result |
-| 3.5–4.5% | 38% | 65% | Median |
-| 4.5–5.5% | 26% | 27% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 3.5–4.5% | 36% | 66% | Median |
+| 4.5–5.5% | 27% | 30% |  |
+| 5.5–6.5% | 2% | 3% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -313,7 +314,8 @@ Last result: **5** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–7 | 4–8 | 4–9 | 3–9 |
+| N/A | [Poll Average](average.html) | 5 | 5–7 | 4–8 | 4–8 | 3–8 |
+| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7 | 7–8 |
 | [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 8 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 5 | 5 | 5 | 5–6 | 3–7 |
@@ -602,11 +604,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.6% | 100% |  |
 | 4 | 8% | 99.4% |  |
-| 5 | 50% | 91% | Last Result, Median |
-| 6 | 4% | 41% |  |
-| 7 | 31% | 37% |  |
-| 8 | 2% | 6% |  |
-| 9 | 4% | 4% |  |
+| 5 | 48% | 91% | Last Result, Median |
+| 6 | 8% | 44% |  |
+| 7 | 29% | 35% |  |
+| 8 | 6% | 6% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 
