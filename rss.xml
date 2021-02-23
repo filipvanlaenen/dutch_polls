@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sat, 20 Feb 2021 15:38:42 +0100</pubDate>
+    <pubDate>Tue, 23 Feb 2021 07:52:06 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 21 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-02-21-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 32–39 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 21–26 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 16–22 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 11–14 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 8–11 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 7–10 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 11–15 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 5–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 6–8 seats&lt;/li&gt;&lt;li&gt;50Plus: 1–2 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–4 seats&lt;/li&gt;&lt;li&gt;DENK: 1–2 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3–6 seats&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst: 2–3 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 2–3 seats&lt;/li&gt;&lt;li&gt;Code Oranje: 0–1 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-02-21-Peilnl-seats.png"
+        length="356520"
+        type="image/png"/>
+      <pubDate>Tue, 23 Feb 2021 07:52:06 +0100</pubDate>
+      <dc:date>2021-02-23T07:52:06.389398+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 21 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-02-21-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-02-21-Peilnl-coalitions-seats.png"
+        length="604071"
+        type="image/png"/>
+      <pubDate>Tue, 23 Feb 2021 07:52:06 +0100</pubDate>
+      <dc:date>2021-02-23T07:52:06.389398+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 21 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-02-21-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 20.7–23.7%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 13.8–16.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 10.6–12.9%&lt;/li&gt;&lt;li&gt;Democraten 66: 7.5–9.5%&lt;/li&gt;&lt;li&gt;GroenLinks: 5.1–6.8%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5.1–6.8%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 7.5–9.5%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.9–5.4%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.9–5.4%&lt;/li&gt;&lt;li&gt;50Plus: 0.9–1.8%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.5–2.5%&lt;/li&gt;&lt;li&gt;DENK: 0.9–1.8%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.1–3.2%&lt;/li&gt;&lt;li&gt;Partij voor de Toekomst: 1.5–2.5%&lt;/li&gt;&lt;li&gt;Bij1: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 1.5–2.5%&lt;/li&gt;&lt;li&gt;Code Oranje: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Volt Europa: 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-02-21-Peilnl.png"
+        length="417938"
+        type="image/png"/>
+      <pubDate>Tue, 23 Feb 2021 07:52:06 +0100</pubDate>
+      <dc:date>2021-02-23T07:52:06.389398+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 12–15 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-02-15-Ipsos.html#seats</link>
@@ -8379,6 +8409,6 @@
       <pubDate>Tue, 22 Dec 2020 20:58:58 +0100</pubDate>
       <dc:date>2020-12-22T20:58:58.689516+01:00</dc:date>
     </item>
-    <dc:date>2021-02-20T15:38:42.874874+01:00</dc:date>
+    <dc:date>2021-02-23T07:52:06.389398+01:00</dc:date>
   </channel>
 </rss>
