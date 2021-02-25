@@ -11,13 +11,13 @@ Last result: **2.1%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.2–3.2% |
-| [21 February 2021](2021-02-21-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.3% | 1.6–2.4% | 1.5–2.5% | 1.4–2.7% |
-| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 1.9% | 1.5–2.6% | 1.4–2.8% | 1.2–3.0% | 1.1–3.3% |
+| [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.3% | 1.6–2.4% | 1.5–2.5% | 1.4–2.7% |
+| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 1.9% | 1.5–2.6% | 1.4–2.8% | 1.2–3.0% | 1.1–3.3% |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% |
-| [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
-| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
-| [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
 | [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% |
@@ -315,13 +315,13 @@ Last result: **3** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–4 | 2–5 |
-| [21 February 2021](2021-02-21-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
-| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
+| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 2 | 2 | 2 | 2–3 | 2–3 |
-| [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
+| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–3 |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 3 | 3 | 3–4 | 3–5 | 2–5 |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 3 | 2–4 | 2–4 | 2–4 | 2–4 |

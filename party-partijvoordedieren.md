@@ -11,13 +11,13 @@ Last result: **3.2%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 3.0–5.0% | 2.8–5.3% | 2.7–5.5% | 2.4–6.1% |
-| [21 February 2021](2021-02-21-Peilnl.html) | Peil.nl | 4.6% | 4.1–5.1% | 4.0–5.2% | 3.9–5.4% | 3.7–5.6% |
-| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 4.5% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
+| [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 4.6% | 4.1–5.1% | 4.0–5.2% | 3.9–5.4% | 3.7–5.6% |
+| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 4.5% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 3.3% | 2.9–3.8% | 2.8–4.0% | 2.7–4.1% | 2.5–4.4% |
-| [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
-| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 3.3% | 2.9–3.9% | 2.7–4.0% | 2.6–4.2% | 2.4–4.4% |
-| [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 3.3% | 2.7–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.9% |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.8% | 3.0–6.3% |
 | [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 2.6% | 2.3–3.1% | 2.1–3.3% | 2.0–3.4% | 1.9–3.7% |
@@ -317,13 +317,13 @@ Last result: **5** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–8 | 4–8 | 4–8 | 4–8 |
-| [21 February 2021](2021-02-21-Peilnl.html) | Peil.nl | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7 | 7–8 |
-| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 8 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7 | 7–8 |
+| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl | 8 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 5 | 5 | 5 | 5–6 | 3–7 |
-| [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 5–9 | 5–9 |
+| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 5–9 | 5–9 |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 5–9 | 5–9 | 5–9 | 4–9 |
 | [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 3 | 3–5 | 3–5 | 3–5 | 2–5 |

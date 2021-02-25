@@ -11,13 +11,13 @@ Last result: **5.7%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.3% | 7.2–9.2% | 6.8–9.4% | 6.6–9.6% | 6.1–10.1% |
-| [21 February 2021](2021-02-21-Peilnl.html) | Peil.nl | 8.5% | 7.8–9.2% | 7.7–9.4% | 7.5–9.5% | 7.2–9.9% |
-| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 7.6% | 6.7–8.8% | 6.4–9.1% | 6.2–9.4% | 5.7–10.0% |
+| [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 8.5% | 7.8–9.2% | 7.7–9.4% | 7.5–9.5% | 7.2–9.9% |
+| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 7.6% | 6.7–8.8% | 6.4–9.1% | 6.2–9.4% | 5.7–10.0% |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 8.6% | 8.0–9.4% | 7.8–9.6% | 7.6–9.8% | 7.3–10.2% |
-| [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 8.6% | 8.0–9.3% | 7.8–9.5% | 7.7–9.7% | 7.4–10.0% |
-| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
+| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl | 8.6% | 8.0–9.3% | 7.8–9.5% | 7.7–9.7% | 7.4–10.0% |
+| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl | 8.7% | 8.0–9.4% | 7.8–9.6% | 7.7–9.7% | 7.4–10.1% |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 8.6% | 7.9–9.4% | 7.7–9.6% | 7.5–9.8% | 7.1–10.3% |
-| [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
+| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.1–9.0% | 6.8–9.4% |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 7.7% | 6.7–8.8% | 6.4–9.1% | 6.2–9.4% | 5.8–10.0% |
 | [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.2% | 6.6–9.6% |
@@ -317,13 +317,13 @@ Last result: **9** seats (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–15 | 10–15 | 10–16 | 10–16 |
-| [21 February 2021](2021-02-21-Peilnl.html) | Peil.nl | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
-| [12–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 11 | 10–16 | 10–16 | 10–16 | 9–16 |
+| [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
+| [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 11 | 10–16 | 10–16 | 10–16 | 9–16 |
 | [12–15 February 2021](2021-02-15-IOResearch.html) | I&O Research | 14 | 12–14 | 12–14 | 12–15 | 10–15 |
-| [14 February 2021](2021-02-14-Peilnl.html) | Peil.nl | 14 | 12–14 | 12–14 | 12–14 | 12–14 |
-| [7 February 2021](2021-02-07-Peilnl.html) | Peil.nl | 13 | 13–14 | 12–15 | 12–16 | 11–16 |
+| [12–13 February 2021](2021-02-13-Peilnl.html) | Peil.nl | 14 | 12–14 | 12–14 | 12–14 | 12–14 |
+| [5–6 February 2021](2021-02-06-Peilnl.html) | Peil.nl | 13 | 13–14 | 12–15 | 12–16 | 11–16 |
 | [29 January–2 February 2021](2021-02-02-IOResearch.html) | I&O Research <br> De Volkskrant | 12 | 12 | 12 | 12–15 | 12–16 |
-| [31 January 2021](2021-01-31-Peilnl.html) | Peil.nl | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
+| [29–30 January 2021](2021-01-30-Peilnl.html) | Peil.nl | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
 | [23–26 January 2021](2021-01-26-KantarPublic.html) | Kantar Public | 11 | 11 | 11–12 | 10–13 | 10–14 |
 | [22–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> EenVandaag | 12 | 11–13 | 9–14 | 9–15 | 8–15 |
 | [22–25 January 2021](2021-01-25-IOResearch.html) | I&O Research | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
