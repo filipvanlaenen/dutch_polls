@@ -10,7 +10,10 @@ Last result: **12.4%** (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.0% | 10.9–13.5% | 10.5–14.0% | 10.2–14.5% | 9.5–15.3% |
+| N/A | [Poll Average](average.html) | 11.6% | 10.5–12.9% | 10.2–13.2% | 9.9–13.5% | 9.4–14.0% |
+| [1–2 March 2021](2021-03-02-Ipsos.html) | Ipsos <br> EenVandaag | 11.2% | 10.3–12.1% | 10.1–12.4% | 9.9–12.6% | 9.5–13.1% |
+| [1–2 March 2021](2021-03-02-IOResearch.html) | I&O Research | 11.2% | 10.5–12.1% | 10.3–12.3% | 10.1–12.5% | 9.8–12.9% |
+| [26–27 February 2021](2021-02-27-Peilnl.html) | Peil.nl | 12.6% | 11.9–13.4% | 11.7–13.7% | 11.5–13.9% | 11.1–14.3% |
 | [22–24 February 2021](2021-02-24-KantarPublic.html) | Kantar Public | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.6–13.3% | 9.1–13.9% |
 | [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 11.7% | 11.0–12.5% | 10.8–12.7% | 10.6–12.9% | 10.3–13.3% |
 | [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
@@ -300,15 +303,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.5% | 100% |  |
-| 9.5–10.5% | 5% | 99.4% |  |
-| 10.5–11.5% | 25% | 95% |  |
-| 11.5–12.5% | 41% | 69% | Last Result, Median |
-| 12.5–13.5% | 19% | 28% |  |
-| 13.5–14.5% | 7% | 9% |  |
-| 14.5–15.5% | 2% | 2% |  |
-| 15.5–16.5% | 0.3% | 0.3% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.7% | 100% |  |
+| 9.5–10.5% | 11% | 99.2% |  |
+| 10.5–11.5% | 38% | 88% |  |
+| 11.5–12.5% | 32% | 50% | Last Result, Median |
+| 12.5–13.5% | 16% | 18% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -319,7 +321,10 @@ Last result: **19** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–21 | 17–22 | 16–22 | 14–22 |
+| N/A | [Poll Average](average.html) | 18 | 16–19 | 15–20 | 15–21 | 14–21 |
+| [1–2 March 2021](2021-03-02-Ipsos.html) | Ipsos <br> EenVandaag | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
+| [1–2 March 2021](2021-03-02-IOResearch.html) | I&O Research | 17 | 15–20 | 15–20 | 15–20 | 14–20 |
+| [26–27 February 2021](2021-02-27-Peilnl.html) | Peil.nl | 19 | 19 | 19–20 | 19–20 | 19–20 |
 | [22–24 February 2021](2021-02-24-KantarPublic.html) | Kantar Public | 18 | 16–21 | 14–21 | 14–21 | 14–21 |
 | [19–20 February 2021](2021-02-20-Peilnl.html) | Peil.nl | 17 | 17–19 | 17–20 | 16–22 | 15–22 |
 | [14–15 February 2021](2021-02-15-Ipsos.html) | Ipsos <br> EenVandaag | 19 | 18–22 | 18–22 | 17–22 | 17–23 |
@@ -610,16 +615,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 1.3% | 100% |  |
-| 15 | 1.1% | 98.7% |  |
-| 16 | 1.3% | 98% |  |
-| 17 | 19% | 96% |  |
-| 18 | 31% | 78% | Median |
-| 19 | 27% | 47% | Last Result |
-| 20 | 9% | 20% |  |
-| 21 | 5% | 11% |  |
-| 22 | 5% | 5% |  |
-| 23 | 0.2% | 0.2% |  |
-| 24 | 0% | 0% |  |
+| 14 | 1.5% | 100% |  |
+| 15 | 4% | 98% |  |
+| 16 | 16% | 95% |  |
+| 17 | 13% | 79% |  |
+| 18 | 30% | 66% | Median |
+| 19 | 29% | 36% | Last Result |
+| 20 | 4% | 7% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
