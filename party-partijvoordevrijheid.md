@@ -11,6 +11,7 @@ Last result: **13.1%** (General Election of 15 March 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.7% | 11.0–16.1% | 10.6–16.5% | 10.4–16.8% | 9.8–17.4% |
+| [12–13 March 2021](2021-03-13-Peilnl.html) | Peil.nl | 15.9% | 15.1–16.8% | 14.9–17.1% | 14.7–17.3% | 14.3–17.7% |
 | [6–8 March 2021](2021-03-08-KantarPublic.html) | Kantar Public | 11.3% | 10.4–12.4% | 10.1–12.7% | 9.9–13.0% | 9.4–13.5% |
 | [5–8 March 2021](2021-03-08-Ipsos.html) | Ipsos <br> EenVandaag | 13.3% | 12.4–14.3% | 12.1–14.6% | 11.9–14.9% | 11.5–15.4% |
 | [5–8 March 2021](2021-03-08-IOResearch.html) | I&O Research | 11.9% | 11.1–12.7% | 10.9–13.0% | 10.7–13.2% | 10.3–13.6% |
@@ -313,10 +314,10 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 26% | 78% |  |
 | 12.5–13.5% | 17% | 52% | Last Result, Median |
 | 13.5–14.5% | 9% | 35% |  |
-| 14.5–15.5% | 7% | 26% |  |
-| 15.5–16.5% | 14% | 19% |  |
-| 16.5–17.5% | 5% | 5% |  |
-| 17.5–18.5% | 0.3% | 0.3% |  |
+| 14.5–15.5% | 8% | 26% |  |
+| 15.5–16.5% | 14% | 18% |  |
+| 16.5–17.5% | 4% | 5% |  |
+| 17.5–18.5% | 0.2% | 0.3% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -328,7 +329,8 @@ Last result: **20** seats (General Election of 15 March 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–26 | 17–26 | 16–26 | 16–26 |
+| N/A | [Poll Average](average.html) | 19 | 18–24 | 17–24 | 16–25 | 16–25 |
+| [12–13 March 2021](2021-03-13-Peilnl.html) | Peil.nl | 24 | 23–25 | 23–25 | 23–25 | 23–27 |
 | [6–8 March 2021](2021-03-08-KantarPublic.html) | Kantar Public | 19 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [5–8 March 2021](2021-03-08-Ipsos.html) | Ipsos <br> EenVandaag | 21 | 19–21 | 18–21 | 18–22 | 18–23 |
 | [5–8 March 2021](2021-03-08-IOResearch.html) | I&O Research | 18 | 18 | 18 | 18 | 17–20 |
@@ -634,13 +636,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 22% | 64% | Median |
 | 20 | 4% | 43% | Last Result |
 | 21 | 13% | 39% |  |
-| 22 | 2% | 26% |  |
-| 23 | 0.4% | 24% |  |
-| 24 | 3% | 24% |  |
-| 25 | 1.3% | 20% |  |
-| 26 | 18% | 19% |  |
-| 27 | 0.4% | 0.5% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 22 | 0.6% | 26% |  |
+| 23 | 4% | 25% |  |
+| 24 | 18% | 21% |  |
+| 25 | 2% | 3% |  |
+| 26 | 0.1% | 0.3% |  |
+| 27 | 0.1% | 0.2% |  |
+| 28 | 0% | 0.1% |  |
+| 29 | 0% | 0.1% |  |
+| 30 | 0.1% | 0.1% |  |
+| 31 | 0% | 0% |  |
 
 
