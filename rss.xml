@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Wed, 10 Mar 2021 17:52:26 +0100</pubDate>
+    <pubDate>Sun, 14 Mar 2021 13:30:41 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 12–13 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-03-13-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 31–33 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 23–25 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 17–19 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 16–20 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 7–8 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 9–12 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 10–12 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 5–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 5–7 seats&lt;/li&gt;&lt;li&gt;50Plus: 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–4 seats&lt;/li&gt;&lt;li&gt;DENK: 1–2 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 5–7 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 2–4 seats&lt;/li&gt;&lt;li&gt;Code Oranje: 0 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-03-13-Peilnl-seats.png"
+        length="316078"
+        type="image/png"/>
+      <pubDate>Sun, 14 Mar 2021 13:30:41 +0100</pubDate>
+      <dc:date>2021-03-14T13:30:41.52861+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 12–13 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-03-13-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-03-13-Peilnl-coalitions-seats.png"
+        length="500665"
+        type="image/png"/>
+      <pubDate>Sun, 14 Mar 2021 13:30:41 +0100</pubDate>
+      <dc:date>2021-03-14T13:30:41.52861+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 12–13 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-03-13-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 19.2–22.1%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 14.7–17.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 10.9–13.2%&lt;/li&gt;&lt;li&gt;Democraten 66: 10.2–12.5%&lt;/li&gt;&lt;li&gt;GroenLinks: 4.5–6.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5.8–7.6%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 6.4–8.3%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.4–4.8%&lt;/li&gt;&lt;li&gt;50Plus: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK: 1.0–1.8%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Bij1: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 1.6–2.6%&lt;/li&gt;&lt;li&gt;Code Oranje: 0.1–0.4%&lt;/li&gt;&lt;li&gt;Volt Europa: 1.6–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-03-13-Peilnl.png"
+        length="403948"
+        type="image/png"/>
+      <pubDate>Sun, 14 Mar 2021 13:30:41 +0100</pubDate>
+      <dc:date>2021-03-14T13:30:41.52861+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar Public, 6–8 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-03-08-KantarPublic.html#seats</link>
@@ -8649,6 +8679,6 @@
       <pubDate>Tue, 22 Dec 2020 20:58:58 +0100</pubDate>
       <dc:date>2020-12-22T20:58:58.689516+01:00</dc:date>
     </item>
-    <dc:date>2021-03-10T17:52:26.342933+01:00</dc:date>
+    <dc:date>2021-03-14T13:30:41.52861+01:00</dc:date>
   </channel>
 </rss>
