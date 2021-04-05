@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>All Registered Polls for the Tweede Kamer</title>
+    <link>https://filipvanlaenen.github.io/dutch_polls</link>
+    <description>All Registered Polls for the Tweede Kamer</description>
+    <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 3–4 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 3–4 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.png" length="405947" type="image/png"/>
+      <pubDate>Mon, 5 Apr 2021 15:20:23 +0200</pubDate>
+      <dc:date>2021-04-05T15:20:23.348708+02:00</dc:date>
+    </item>
+  </channel>
+</rss>
