@@ -35,8 +35,8 @@ Last result: **3** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
-| [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3 |
+| [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl |  |  |  |  |  |
 
 ### Probability Mass Function
@@ -47,8 +47,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 99.6% | 100% | Median |
-| 3 | 0.3% | 0.4% | Last Result |
-| 4 | 0% | 0% |  |
+| 3 | 100% | 100% | Last Result, Median |
 
 
