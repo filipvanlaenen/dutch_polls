@@ -1,0 +1,40 @@
+# All Registered Polls
+
+The table below lists all polls registered and analyzed so far.
+
+| Period     | Polling firm/Commissioner(s) | VVD | D66 | PVV | CDA | SP | PvdA | GL | FvD | PvdD | CU | Volt | JA21 | SGP | DENK | 50+ | BBB | B1 | CO | Spl | PP | PvdT |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 17 March 2021 | General Election | 21.9% <br> 34 | 15.0% <br> 24 | 10.8% <br> 17 | 9.5% <br> 15 | 6.0% <br> 9 | 5.7% <br> 9 | 5.2% <br> 8 | 5.0% <br> 8 | 3.8% <br> 6 | 3.4% <br> 5 | 2.4% <br> 3 | 2.4% <br> 3 | 2.1% <br> 3 | 2.0% <br> 3 | 1.0% <br> 1 | 1.0% <br> 1 | 0.8% <br> 1 | 0.4% <br> 0 | 0.3% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 |
+| [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 17–20% <br> 29 | 15–18% <br> 27 | 10–12% <br> 16 | 9–11% <br> 16 | 5–7% <br> 9 | 5–7% <br> 9 | 5–6% <br> 9 | 5–7% <br> 10 | 4–5% <br> 8 | 3–4% <br> 5 | 2–3% <br> 3 | 3–4% <br> 3 | 2–3% <br> 3 | 2–3% <br> 2 | 0–1% <br> 0 | 1–2% <br> 1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 17 March 2021 | General Election | 21.9% <br> 34 | 15.0% <br> 24 | 10.8% <br> 17 | 9.5% <br> 15 | 6.0% <br> 9 | 5.7% <br> 9 | 5.2% <br> 8 | 5.0% <br> 8 | 3.8% <br> 6 | 3.4% <br> 5 | 2.4% <br> 3 | 2.4% <br> 3 | 2.1% <br> 3 | 2.0% <br> 3 | 1.0% <br> 1 | 1.0% <br> 1 | 0.8% <br> 1 | 0.4% <br> 0 | 0.3% <br> 0 | 0.2% <br> 0 | 0.0% <br> 0 |
+
+Only polls for which at least the sample size has been published are included in the table above.
+
+**Legend:**
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the Tweede Kamer (95% confidence interval)
++ **VVD:** Volkspartij voor Vrijheid en Democratie
++ **D66:** Democraten 66
++ **PVV:** Partij voor de Vrijheid
++ **CDA:** Christen-Democratisch Appèl
++ **SP:** Socialistische Partij
++ **PvdA:** Partij van de Arbeid
++ **GL:** GroenLinks
++ **FvD:** Forum voor Democratie
++ **PvdD:** Partij voor de Dieren
++ **CU:** ChristenUnie
++ **Volt:** Volt Europa
++ **JA21:** Juiste Antwoord 2021
++ **SGP:** Staatkundig Gereformeerde Partij
++ **DENK:** DENK
++ **50+:** 50Plus
++ **BBB:** BoerBurgerBeweging
++ **B1:** Bij1
++ **CO:** Code Oranje
++ **Spl:** Splinter
++ **PP:** Piratenpartij
++ **PvdT:** Partij voor de Toekomst
++ **N/A (single party):** Party not included the published results
++ **N/A (entire row):** Calculation for this opinion poll not started yet
+
