@@ -6,7 +6,7 @@ The following resources have been consulted in order to create this site:
 
 + Wikipedia page about the next general election: "[Next Dutch general election](https://en.wikipedia.org/wiki/Next_Dutch_general_election)"
 + Wikipedia page about the opinion polls for the next general election: "[Opinion polling for the next Dutch general election](https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Dutch_general_election)"
-+ Wikipedia page about the 2017 general election: "[2017 Dutch general election](https://en.wikipedia.org/wiki/2017_Dutch_general_election)"
++ Wikipedia page about the 2021 general election: "[2021 Dutch general election](https://en.wikipedia.org/wiki/2021_Dutch_general_election)"
 + Information about the electoral system in the Netherlands: "[IPU PARLINE database: NETHERLANDS (Tweede Kamer der Staten-Generaal), Electoral system](http://archive.ipu.org/parline-e/reports/2231_B.htm)"
 
 ## Similar Websites
@@ -39,9 +39,10 @@ The following websites provide similar information to this website:
 + [Latvian Polls](https://filipvanlaenen.github.io/latvian_polls/) and [Latvian EP Polls](https://filipvanlaenen.github.io/latvian_ep_polls/)
 + [Luxembourg Polls](https://filipvanlaenen.github.io/luxembourg_polls/) and [Luxembourg EP Polls](https://filipvanlaenen.github.io/luxembourg_ep_polls/)
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
-+ [Polish Polls](https://filipvanlaenen.github.io/polish_polls/)
++ [Polish Polls](https://filipvanlaenen.github.io/polish_polls/) and [Polish EP Polls](https://filipvanlaenen.github.io/polish_ep_polls/)
 + [Portuguese Polls](https://filipvanlaenen.github.io/portuguese_polls/) and [Portuguese EP Polls](https://filipvanlaenen.github.io/portuguese_ep_polls/)
 + [Scottish Polls](https://filipvanlaenen.github.io/scottish_polls/)
++ [Slovakian Polls](https://filipvanlaenen.github.io/slovakian_polls/) and [Slovakian EP Polls](https://filipvanlaenen.github.io/slovakian_ep_polls/)
 + [Slovenian Polls](https://filipvanlaenen.github.io/slovenian_polls/) and [Slovenian EP Polls](https://filipvanlaenen.github.io/slovenian_ep_polls/)
 + [Swedish Polls](https://filipvanlaenen.github.io/swedish_polls/) and [Swedish EP Polls](https://filipvanlaenen.github.io/swedish_ep_polls/)
 + [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
