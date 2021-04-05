@@ -6,12 +6,28 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 3–4 April 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 3–4 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl-seating-plan.png" length="620361" type="image/png"/>
+      <pubDate>Mon, 5 Apr 2021 16:56:21 +0200</pubDate>
+      <dc:date>2021-04-05T16:56:21.391858+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 3–4 April 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.html#seats</link>
+      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 3–4 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl-seats.png" length="245074" type="image/png"/>
+      <pubDate>Mon, 5 Apr 2021 16:56:21 +0200</pubDate>
+      <dc:date>2021-04-05T16:56:21.391858+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 3–4 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.html</link>
       <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 3–4 April 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-04-Peilnl.png" length="405947" type="image/png"/>
-      <pubDate>Mon, 5 Apr 2021 16:06:19 +0200</pubDate>
-      <dc:date>2021-04-05T16:06:19.70815+02:00</dc:date>
+      <pubDate>Mon, 5 Apr 2021 16:56:21 +0200</pubDate>
+      <dc:date>2021-04-05T16:56:21.391858+02:00</dc:date>
     </item>
   </channel>
 </rss>
