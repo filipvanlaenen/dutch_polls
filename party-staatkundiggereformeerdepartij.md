@@ -13,7 +13,7 @@ Last result: **2.1%** (General Election of 17 March 2021)
 | N/A | [Poll Average](average.html) | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [9–10 April 2021](2021-04-10-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
-| [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
+| [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 
 ### Probability Mass Function
 
@@ -39,7 +39,7 @@ Last result: **3** seats (General Election of 17 March 2021)
 | N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3 |
 | [9–10 April 2021](2021-04-10-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
 | [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 2 |
-| [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 
 ### Probability Mass Function
 
