@@ -10,7 +10,9 @@ Last result: **21.9%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.6% | 19.7–21.6% | 19.5–21.9% | 19.2–22.1% | 18.8–22.6% |
+| N/A | [Poll Average](average.html) | 21.3% | 20.4–22.3% | 20.1–22.6% | 19.8–22.7% | 19.4–23.3% |
+| [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 21.3% | 20.3–22.3% | 20.0–22.5% | 19.8–22.8% | 19.4–23.3% |
+| [9–12 April 2021](2021-04-12-IOResearch.html) | I&O Research | 22.6% | N/A | N/A | N/A | N/A |
 | [9–10 April 2021](2021-04-10-Peilnl.html) | Peil.nl | 20.6% | 19.7–21.6% | 19.4–21.9% | 19.2–22.1% | 18.8–22.6% |
 | [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 18.6% | 17.7–19.6% | 17.5–19.8% | 17.3–20.1% | 16.9–20.5% |
 | [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 22.0% | 21.0–23.0% | 20.7–23.2% | 20.5–23.5% | 20.1–24.0% |
@@ -21,14 +23,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 7% | 99.8% |  |
-| 19.5–20.5% | 38% | 93% |  |
-| 20.5–21.5% | 44% | 55% | Median |
-| 21.5–22.5% | 11% | 11% | Last Result |
-| 22.5–23.5% | 0.6% | 0.6% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 1.1% | 100% |  |
+| 19.5–20.5% | 16% | 98.9% |  |
+| 20.5–21.5% | 46% | 83% | Median |
+| 21.5–22.5% | 31% | 37% | Last Result |
+| 22.5–23.5% | 5% | 5% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -40,7 +42,9 @@ Last result: **34** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32 | 32 | 32 | 32–34 | 32–35 |
-| [9–10 April 2021](2021-04-10-Peilnl.html) | Peil.nl | 32 | 32 | 32 | 32–34 | 32–35 |
+| [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [9–12 April 2021](2021-04-12-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [9–10 April 2021](2021-04-10-Peilnl.html) | Peil.nl | 32 | 32 | 32–33 | 32–33 | 28–34 |
 | [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 29 | 29 | 29 | 29 | 29 |
 | [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 35 | 32–37 | 32–37 | 32–37 | 32–37 |
 
