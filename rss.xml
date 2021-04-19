@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Thu, 15 Apr 2021 22:56:06 +0200</pubDate>
+    <pubDate>Sat, 17 Apr 2021 20:39:04 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 9–10 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-10-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 32–33 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 15–18 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 14–16 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 23–26 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 6–7 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 8–9 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 8–9 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 4–6 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 6–7 seats&lt;/li&gt;&lt;li&gt;50Plus: 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 3 seats&lt;/li&gt;&lt;li&gt;DENK: 2–4 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 8–10 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 4–5 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 3–4 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-10-Peilnl-seats.png"
+        length="319893"
+        type="image/png"/>
+      <pubDate>Sat, 17 Apr 2021 20:39:04 +0200</pubDate>
+      <dc:date>2021-04-17T20:39:04.661649+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 9–10 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-10-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-10-Peilnl-coalitions-seats.png"
+        length="495106"
+        type="image/png"/>
+      <pubDate>Sat, 17 Apr 2021 20:39:04 +0200</pubDate>
+      <dc:date>2021-04-17T20:39:04.661649+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 9–10 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-10-Peilnl.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-10-Peilnl.png"
         length="407274"
         type="image/png"/>
-      <pubDate>Thu, 15 Apr 2021 17:56:31 +0200</pubDate>
-      <dc:date>2021-04-15T17:56:31.024927+02:00</dc:date>
+      <pubDate>Sat, 17 Apr 2021 20:39:04 +0200</pubDate>
+      <dc:date>2021-04-17T20:39:04.661649+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 3–4 April 2021 – Seat Projections for the Parties</title>
@@ -59,6 +79,6 @@
       <pubDate>Thu, 15 Apr 2021 22:56:06 +0200</pubDate>
       <dc:date>2021-04-15T22:56:06.385746+02:00</dc:date>
     </item>
-    <dc:date>2021-04-15T22:56:06.385746+02:00</dc:date>
+    <dc:date>2021-04-17T20:39:04.661649+02:00</dc:date>
   </channel>
 </rss>
