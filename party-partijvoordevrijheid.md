@@ -45,11 +45,11 @@ Last result: **17** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–21 | 15–21 | 14–21 | 13–22 |
-| [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 21 | 21 | 18–21 | 18–21 | 17–21 |
+| N/A | [Poll Average](average.html) | 17 | 13–19 | 13–19 | 13–19 | 13–22 |
+| [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 19 | 19 | 18–19 | 18–19 | 17–20 |
 | [16–19 April 2021](2021-04-19-Ipsos.html) | Ipsos | 17 | 16–19 | 14–19 | 14–20 | 13–22 |
 | [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
-| [9–12 April 2021](2021-04-12-IOResearch.html) | I&O Research | 15 | 15 | 15 | 15 | 13–15 |
+| [9–12 April 2021](2021-04-12-IOResearch.html) | I&O Research | 15 | 13–16 | 13–16 | 13–16 | 13–17 |
 | [9–10 April 2021](2021-04-10-Peilnl.html) | Peil.nl | 16 | 16–17 | 15–17 | 15–18 | 15–18 |
 | [3–4 April 2021](2021-04-04-Peilnl.html) | Peil.nl | 17 | 17 | 17 | 17 | 17 |
 | [26–27 March 2021](2021-03-27-Peilnl.html) | Peil.nl | 17 | 17 | 17 | 17 | 15–18 |
@@ -62,15 +62,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.5% | 100% |  |
-| 14 | 3% | 99.5% |  |
-| 15 | 33% | 97% |  |
-| 16 | 4% | 64% |  |
+| 13 | 15% | 100% |  |
+| 14 | 4% | 85% |  |
+| 15 | 12% | 81% |  |
+| 16 | 8% | 69% |  |
 | 17 | 16% | 60% | Last Result, Median |
-| 18 | 4% | 44% |  |
-| 19 | 8% | 40% |  |
-| 20 | 0.2% | 32% |  |
-| 21 | 31% | 32% |  |
+| 18 | 5% | 44% |  |
+| 19 | 38% | 39% |  |
+| 20 | 0.2% | 1.1% |  |
+| 21 | 0.2% | 0.9% |  |
 | 22 | 0.6% | 0.7% |  |
 | 23 | 0% | 0% |  |
 
