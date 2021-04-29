@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Tue, 27 Apr 2021 21:20:51 +0200</pubDate>
+    <pubDate>Wed, 28 Apr 2021 21:17:20 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 23–24 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-24-Peilnl.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2021-04-27T21:20:51.284093+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos, 16–19 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-19-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 29–38 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 14–21 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 9–15 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 24–31 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 5–10 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5–9 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 8–11 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 3–6 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 6–10 seats&lt;/li&gt;&lt;li&gt;50Plus: 0–2 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–5 seats&lt;/li&gt;&lt;li&gt;DENK: 1–4 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 5–9 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 3–5 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 4–7 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-19-Ipsos-seats.png"
+        length="384529"
+        type="image/png"/>
+      <pubDate>Wed, 28 Apr 2021 21:17:20 +0200</pubDate>
+      <dc:date>2021-04-28T21:17:20.824637+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 16–19 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-19-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-19-Ipsos-coalitions-seats.png"
+        length="634409"
+        type="image/png"/>
+      <pubDate>Wed, 28 Apr 2021 21:17:20 +0200</pubDate>
+      <dc:date>2021-04-28T21:17:20.824637+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos, 16–19 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-04-19-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 20.0–25.2%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 9.9–13.9%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 6.2–9.5%&lt;/li&gt;&lt;li&gt;Democraten 66: 14.5–19.1%&lt;/li&gt;&lt;li&gt;GroenLinks: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 5.0–8.0%&lt;/li&gt;&lt;li&gt;ChristenUnie: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.0–6.8%&lt;/li&gt;&lt;li&gt;50Plus: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.4–3.3%&lt;/li&gt;&lt;li&gt;DENK: 0.9–2.4%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Bij1: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Volt Europa: 2.4–4.7%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 0.4–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-04-19-Ipsos.png"
         length="442891"
         type="image/png"/>
-      <pubDate>Tue, 27 Apr 2021 08:03:08 +0200</pubDate>
-      <dc:date>2021-04-27T08:03:08.966807+02:00</dc:date>
+      <pubDate>Wed, 28 Apr 2021 21:17:20 +0200</pubDate>
+      <dc:date>2021-04-28T21:17:20.824637+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 16–17 April 2021 – Seat Projections for the Parties</title>
@@ -199,6 +219,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54.95904+02:00</dc:date>
     </item>
-    <dc:date>2021-04-27T21:20:51.284093+02:00</dc:date>
+    <dc:date>2021-04-28T21:17:20.824637+02:00</dc:date>
   </channel>
 </rss>
