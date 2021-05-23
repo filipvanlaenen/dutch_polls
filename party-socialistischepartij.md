@@ -10,8 +10,8 @@ Last result: **6.0%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.1–7.0% | 3.8–7.3% | 3.6–7.5% | 3.2–8.0% |
-| [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl | 6.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 5.9% | 4.3–6.9% | 3.9–7.2% | 3.7–7.4% | 3.3–7.9% |
+| [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl | 6.0% | 5.4–6.6% | 5.3–6.7% | 5.2–6.9% | 4.9–7.2% |
 | [7–9 May 2021](2021-05-09-Peilnl.html) | Peil.nl | 6.0% | 5.4–6.6% | 5.3–6.7% | 5.2–6.9% | 4.9–7.2% |
 | [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.1% |
 | [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 6.0% | N/A | N/A | N/A | N/A |
@@ -30,11 +30,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 22% | 98% |  |
-| 4.5–5.5% | 23% | 76% |  |
-| 5.5–6.5% | 27% | 53% | Last Result, Median |
-| 6.5–7.5% | 23% | 25% |  |
+| 2.5–3.5% | 1.4% | 100% |  |
+| 3.5–4.5% | 14% | 98.6% |  |
+| 4.5–5.5% | 21% | 84% |  |
+| 5.5–6.5% | 43% | 64% | Last Result, Median |
+| 6.5–7.5% | 19% | 20% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -48,7 +48,7 @@ Last result: **9** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 5–10 | 5–10 | 5–10 | 5–10 |
-| [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl | 9 | 9 | 9 | 9 | 6–10 |
 | [7–9 May 2021](2021-05-09-Peilnl.html) | Peil.nl | 10 | 9–10 | 8–10 | 7–10 | 7–10 |
 | [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 10 | 10 | 10 | 10 | 10 |
 | [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -69,13 +69,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 16% | 99.9% |  |
-| 6 | 21% | 84% |  |
-| 7 | 1.2% | 63% |  |
-| 8 | 4% | 62% |  |
-| 9 | 8% | 58% | Last Result, Median |
-| 10 | 50% | 50% |  |
-| 11 | 0.1% | 0.2% |  |
+| 5 | 11% | 99.9% |  |
+| 6 | 14% | 89% |  |
+| 7 | 0.8% | 75% |  |
+| 8 | 3% | 74% |  |
+| 9 | 37% | 71% | Last Result, Median |
+| 10 | 34% | 34% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
