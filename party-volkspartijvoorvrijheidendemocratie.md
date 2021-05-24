@@ -11,10 +11,11 @@ Last result: **21.9%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.3% | 20.8–23.7% | 20.4–24.1% | 20.1–24.5% | 19.4–25.5% |
+| [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 22.6% | 21.6–23.6% | 21.4–23.9% | 21.1–24.1% | 20.7–24.6% |
 | [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl | 22.6% | 21.6–23.6% | 21.4–23.9% | 21.1–24.1% | 20.7–24.6% |
 | [7–9 May 2021](2021-05-09-Peilnl.html) | Peil.nl | 22.6% | 21.6–23.6% | 21.4–23.9% | 21.1–24.1% | 20.7–24.6% |
 | [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 21.6% | 20.4–22.8% | 20.1–23.2% | 19.8–23.5% | 19.2–24.1% |
-| [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 21.3% | N/A | N/A | N/A | N/A |
+| [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 21.3% | 20.3–22.3% | 20.1–22.5% | 19.8–22.8% | 19.4–23.3% |
 | [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 21.3% | 20.3–22.3% | 20.1–22.5% | 19.8–22.8% | 19.4–23.3% |
 | [16–19 April 2021](2021-04-19-Ipsos.html) | Ipsos | 22.5% | 20.9–24.2% | 20.4–24.7% | 20.0–25.2% | 19.3–26.0% |
 | [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 21.3% | 20.3–22.3% | 20.1–22.5% | 19.8–22.8% | 19.4–23.3% |
@@ -51,10 +52,11 @@ Last result: **34** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 35 | 33–38 | 30–38 | 30–38 | 29–38 |
+| [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 35 | 35 | 35 | 35 | 33–36 |
 | [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl | 35 | 35 | 35 | 35 | 33–36 |
 | [7–9 May 2021](2021-05-09-Peilnl.html) | Peil.nl | 36 | 33–36 | 33–38 | 32–39 | 32–39 |
 | [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 33 | 33–38 | 33–38 | 33–38 | 33–38 |
-| [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 32 | 32 | 32 | 32–34 | 32–35 |
 | [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 34 | 34 | 32–34 | 32–34 | 32–34 |
 | [16–19 April 2021](2021-04-19-Ipsos.html) | Ipsos | 35 | 30–38 | 30–38 | 29–38 | 29–38 |
 | [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 35 | 33–35 | 32–36 | 31–36 | 30–36 |
