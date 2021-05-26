@@ -48,11 +48,11 @@ Last result: **15** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–13 | 8–14 | 8–14 | 8–17 |
-| [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 13 | 13 | 13 | 12–13 | 10–13 |
-| [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl | 13 | 13 | 13 | 12–13 | 10–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–13 | 9–14 | 9–14 | 8–17 |
+| [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 9 | 9 | 9 | 9–13 | 9–13 |
+| [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl | 9 | 9–11 | 9–13 | 9–13 | 9–13 |
 | [7–9 May 2021](2021-05-09-Peilnl.html) | Peil.nl | 10 | 10–12 | 10–13 | 10–13 | 9–14 |
-| [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 9 | 8–12 | 8–12 | 8–12 | 8–12 |
+| [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 10 | 10 | 9–10 | 9–12 | 8–12 |
 | [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 12 | 12 | 12 | 11–12 | 11–13 |
 | [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 12 | 12 | 12 | 12 | 12–15 |
 | [16–19 April 2021](2021-04-19-Ipsos.html) | Ipsos | 11 | 9–14 | 9–14 | 9–15 | 7–17 |
@@ -70,15 +70,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.3% | 100% |  |
-| 8 | 8% | 99.7% |  |
-| 9 | 24% | 92% |  |
-| 10 | 2% | 68% |  |
-| 11 | 9% | 66% |  |
-| 12 | 15% | 56% | Median |
-| 13 | 35% | 42% |  |
+| 7 | 0.4% | 100% |  |
+| 8 | 1.1% | 99.6% |  |
+| 9 | 44% | 98.6% |  |
+| 10 | 31% | 55% | Median |
+| 11 | 10% | 24% |  |
+| 12 | 3% | 14% |  |
+| 13 | 4% | 11% |  |
 | 14 | 6% | 7% |  |
-| 15 | 0.5% | 1.2% | Last Result |
+| 15 | 0.4% | 1.2% | Last Result |
 | 16 | 0% | 0.7% |  |
 | 17 | 0.7% | 0.7% |  |
 | 18 | 0% | 0% |  |
