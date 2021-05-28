@@ -50,12 +50,12 @@ Last result: **17** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–20 | 13–22 |
-| [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 20 | 20 | 20 | 19–20 | 17–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–20 | 16–20 | 15–22 | 13–23 |
+| [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 20 | 18–20 | 17–23 | 17–23 | 16–23 |
 | [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl | 20 | 18–20 | 17–23 | 17–23 | 16–23 |
-| [7–9 May 2021](2021-05-09-Peilnl.html) | Peil.nl | 16 | 16–19 | 16–19 | 15–20 | 15–20 |
+| [7–9 May 2021](2021-05-09-Peilnl.html) | Peil.nl | 19 | 16–19 | 16–19 | 16–19 | 15–21 |
 | [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 16 | 16 | 15–16 | 15–17 | 13–17 |
-| [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 21 | 21 | 18–21 | 18–21 | 17–21 |
+| [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 19 | 19 | 18–19 | 18–19 | 17–20 |
 | [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 19 | 19 | 18–19 | 18–19 | 17–20 |
 | [16–19 April 2021](2021-04-19-Ipsos.html) | Ipsos | 18 | 16–19 | 14–19 | 14–21 | 13–22 |
 | [16–17 April 2021](2021-04-17-Peilnl.html) | Peil.nl | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
@@ -77,12 +77,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 2% | 99.4% |  |
 | 15 | 2% | 98% |  |
 | 16 | 34% | 96% |  |
-| 17 | 11% | 62% | Last Result |
-| 18 | 2% | 50% | Median |
-| 19 | 15% | 49% |  |
-| 20 | 32% | 33% |  |
-| 21 | 0.4% | 0.9% |  |
-| 22 | 0.5% | 0.5% |  |
-| 23 | 0% | 0% |  |
+| 17 | 14% | 61% | Last Result, Median |
+| 18 | 3% | 48% |  |
+| 19 | 16% | 45% |  |
+| 20 | 26% | 29% |  |
+| 21 | 0.4% | 3% |  |
+| 22 | 0.5% | 3% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0% | 0% |  |
 
 
