@@ -11,6 +11,7 @@ Last result: **3.8%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.8% | 4.1–6.2% | 3.9–6.6% | 3.8–6.9% | 3.5–7.5% |
+| [4–5 June 2021](2021-06-05-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [28–29 May 2021](2021-05-29-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [21–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> EenVandaag | 5.7% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
@@ -50,7 +51,8 @@ Last result: **6** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–11 | 5–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 6–11 | 5–11 |
+| [4–5 June 2021](2021-06-05-Peilnl.html) | Peil.nl | 6 | 6–10 | 6–10 | 6–10 | 5–10 |
 | [28–29 May 2021](2021-05-29-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [21–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 8–10 | 7–11 | 7–11 | 6–11 |
 | [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -75,11 +77,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% |  |
-| 6 | 8% | 98% | Last Result |
-| 7 | 30% | 91% |  |
-| 8 | 36% | 60% | Median |
-| 9 | 17% | 24% |  |
-| 10 | 4% | 7% |  |
+| 6 | 22% | 98% | Last Result |
+| 7 | 7% | 76% |  |
+| 8 | 35% | 69% | Median |
+| 9 | 22% | 33% |  |
+| 10 | 8% | 11% |  |
 | 11 | 3% | 3% |  |
 | 12 | 0% | 0% |  |
 
