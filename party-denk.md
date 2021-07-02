@@ -10,8 +10,8 @@ Last result: **2.0%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.8% |
-| [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.3% | 1.1–2.4% | 1.0–2.5% | 0.8–2.8% |
+| [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [20 June 2021](2021-06-20-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
 | [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
 | [4–7 June 2021](2021-06-07-IOResearch.html) | I&O Research | 2.0% | N/A | N/A | N/A | N/A |
@@ -38,9 +38,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 51% | 100% |  |
-| 1.5–2.5% | 48% | 49% | Last Result, Median |
-| 2.5–3.5% | 1.5% | 2% |  |
+| 0.5–1.5% | 26% | 100% |  |
+| 1.5–2.5% | 71% | 74% | Last Result, Median |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
