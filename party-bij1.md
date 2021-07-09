@@ -10,7 +10,8 @@ Last result: **0.8%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.7–1.7% | 0.6–1.9% | 0.5–2.0% | 0.4–2.2% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.1–1.8% | 1.1–1.9% | 1.0–2.0% | 0.9–2.3% |
+| [25–28 June 2021](2021-06-28-Ipsos.html) | Ipsos <br> EenVandaag | 0.7% | N/A | N/A | N/A | N/A |
 | [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–2.0% |
 | [20 June 2021](2021-06-20-Peilnl.html) | Peil.nl | 1.3% | N/A | N/A | N/A | N/A |
 | [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl | 1.3% | N/A | N/A | N/A | N/A |
@@ -37,10 +38,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% |  |
-| 0.5–1.5% | 75% | 96% | Last Result, Median |
-| 1.5–2.5% | 22% | 22% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 69% | 100% | Last Result, Median |
+| 1.5–2.5% | 31% | 31% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -52,7 +53,8 @@ Last result: **1** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [25–28 June 2021](2021-06-28-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 2 | 2 | 2 | 2 | 1–2 |
 | [20 June 2021](2021-06-20-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -81,10 +83,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 50% | 97% | Last Result, Median |
-| 2 | 46% | 48% |  |
-| 3 | 1.3% | 1.3% |  |
+| 1 | 46% | 100% | Last Result |
+| 2 | 52% | 54% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 
