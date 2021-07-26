@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sun, 18 Jul 2021 16:52:46 +0200</pubDate>
+    <pubDate>Mon, 26 Jul 2021 18:03:32 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 23–24 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-07-24-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 21.8–24.8%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 10.2–12.5%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Democraten 66: 13.4–16.0%&lt;/li&gt;&lt;li&gt;GroenLinks: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 5.8–7.6%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.5–6.2%&lt;/li&gt;&lt;li&gt;50Plus: 0.1–0.4%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK: 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Bij1: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Volt Europa: 3.4–4.8%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Belang van Nederland: 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-07-24-Peilnl.png"
+        length="421318"
+        type="image/png"/>
+      <pubDate>Mon, 26 Jul 2021 18:03:32 +0200</pubDate>
+      <dc:date>2021-07-26T18:03:32.43243+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 9–12 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-07-12-IOResearch.html</link>
@@ -499,6 +509,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54.95904+02:00</dc:date>
     </item>
-    <dc:date>2021-07-18T16:52:46.906866+02:00</dc:date>
+    <dc:date>2021-07-26T18:03:32.43243+02:00</dc:date>
   </channel>
 </rss>
