@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Wed, 04 Aug 2021 08:30:29 +0200</pubDate>
+    <pubDate>Sat, 07 Aug 2021 18:57:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 23–26 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 31–41 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 14–18 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 9–11 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 18–26 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 6–9 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 7–9 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 7–11 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 4–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 7–10 seats&lt;/li&gt;&lt;li&gt;50Plus: 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–5 seats&lt;/li&gt;&lt;li&gt;DENK: 2–4 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3–4 seats&lt;/li&gt;&lt;li&gt;Bij1: 1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 6–8 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 4–5 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos-seats.png"
+        length="354681"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 18:57:17 +0200</pubDate>
+      <dc:date>2021-08-07T18:57:17.664002+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 23–26 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos-coalitions-seats.png"
+        length="621110"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 18:57:17 +0200</pubDate>
+      <dc:date>2021-08-07T18:57:17.664002+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 23–26 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.png"
         length="446659"
         type="image/png"/>
-      <pubDate>Sun, 01 Aug 2021 21:38:57 +0200</pubDate>
-      <dc:date>2021-08-01T21:38:57.336842+02:00</dc:date>
+      <pubDate>Sat, 07 Aug 2021 18:57:17 +0200</pubDate>
+      <dc:date>2021-08-07T18:57:17.664002+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 23–24 July 2021 – Voting Intentions</title>
@@ -539,6 +559,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54.95904+02:00</dc:date>
     </item>
-    <dc:date>2021-08-04T08:30:29.488845+02:00</dc:date>
+    <dc:date>2021-08-07T18:57:17.664002+02:00</dc:date>
   </channel>
 </rss>
