@@ -66,7 +66,7 @@ Last result: **6** seats (General Election of 17 March 2021)
 | [25–28 June 2021](2021-06-28-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 9 | 8–9 | 8–9 | 6–10 |
 | [27 June 2021](2021-06-27-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [20 June 2021](2021-06-20-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl | 8 | 6–8 | 6–8 | 4–8 | 4–8 |
+| [12 June 2021](2021-06-12-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6–7 | 6–8 |
 | [4–7 June 2021](2021-06-07-IOResearch.html) | I&O Research | 8 | 8 | 8 | 7–8 | 7–9 |
 | [4–5 June 2021](2021-06-05-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–9 | 6–10 | 6–10 |
 | [28–29 May 2021](2021-05-29-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
