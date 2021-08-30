@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 20–21 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-08-21-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 20–21 August 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-08-21-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-08-21-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-08-21-Peilnl.png" length="420999" type="image/png"/>
+      <pubDate>Mon, 30 Aug 2021 08:26:14 +0200</pubDate>
+      <dc:date>2021-08-30T08:26:14.752313+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 23–26 July 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 23–26 July 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos-seating-plan.png"/>]]></description>
@@ -140,30 +148,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-06-05-Peilnl.png" length="402295" type="image/png"/>
       <pubDate>Sat, 12 Jun 2021 20:48:04 +0200</pubDate>
       <dc:date>2021-06-12T20:48:04.971155+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 28–29 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 28–29 May 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl-seating-plan.png" length="686691" type="image/png"/>
-      <pubDate>Fri, 4 Jun 2021 13:58:05 +0200</pubDate>
-      <dc:date>2021-06-04T13:58:05.394213+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 28–29 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 28–29 May 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl-seats.png" length="338707" type="image/png"/>
-      <pubDate>Fri, 4 Jun 2021 13:58:05 +0200</pubDate>
-      <dc:date>2021-06-04T13:58:05.394213+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 28–29 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 28–29 May 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-05-29-Peilnl.png" length="401725" type="image/png"/>
-      <pubDate>Fri, 4 Jun 2021 13:58:05 +0200</pubDate>
-      <dc:date>2021-06-04T13:58:05.394213+02:00</dc:date>
     </item>
   </channel>
 </rss>
