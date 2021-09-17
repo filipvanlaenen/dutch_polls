@@ -6,12 +6,20 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 10–11 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 10–11 September 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.png" length="418866" type="image/png"/>
+      <pubDate>Fri, 17 Sep 2021 07:52:51 +0200</pubDate>
+      <dc:date>2021-09-17T07:52:51.619746+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 3–4 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-04-Peilnl.html</link>
       <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 3–4 September 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-09-04-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-09-04-Peilnl.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-04-Peilnl.png" length="419139" type="image/png"/>
-      <pubDate>Mon, 13 Sep 2021 07:45:50 +0200</pubDate>
-      <dc:date>2021-09-13T07:45:50.001151+02:00</dc:date>
+      <pubDate>Fri, 17 Sep 2021 08:12:15 +0200</pubDate>
+      <dc:date>2021-09-17T08:12:15.137754+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 27–30 August 2021 – Voting Intentions</title>
@@ -124,14 +132,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-06-20-Peilnl.png" length="402540" type="image/png"/>
       <pubDate>Tue, 3 Aug 2021 08:18:55 +0200</pubDate>
       <dc:date>2021-08-03T08:18:55.715841+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 12 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-06-12-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 12 June 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-06-12-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-06-12-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-06-12-Peilnl.png" length="402264" type="image/png"/>
-      <pubDate>Mon, 16 Aug 2021 08:05:18 +0200</pubDate>
-      <dc:date>2021-08-16T08:05:18.151401+02:00</dc:date>
     </item>
   </channel>
 </rss>
