@@ -11,6 +11,7 @@ Last result: **5.7%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.1% | 6.0–7.9% | 5.6–8.1% | 5.4–8.3% | 4.9–8.7% |
+| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 7.3% | 6.7–8.0% | 6.6–8.1% | 6.4–8.3% | 6.1–8.6% |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 7.3% | 6.7–8.0% | 6.6–8.1% | 6.4–8.3% | 6.1–8.6% |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 6.3% | 5.5–7.5% | 5.2–7.8% | 5.0–8.0% | 4.6–8.6% |
 | [20–21 August 2021](2021-08-21-Peilnl.html) | Peil.nl | 7.3% | 6.7–8.0% | 6.6–8.1% | 6.4–8.3% | 6.1–8.6% |
@@ -62,8 +63,9 @@ Last result: **9** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–14 | 9–14 | 9–14 |
-| [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 11 | 11–12 | 11–12 | 11–12 | 11–12 |
+| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–14 | 9–14 | 9–14 |
+| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 11 | 11–13 | 11–13 | 11–13 | 11–13 |
+| [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 14 | 14 | 14 | 14 | 11–14 |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 9 | 9 | 9–10 | 7–13 |
 | [20–21 August 2021](2021-08-21-Peilnl.html) | Peil.nl | 12 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [23–26 July 2021](2021-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 10 | 10 | 8–10 | 7–11 | 6–11 |
@@ -101,10 +103,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.2% | 100% |  |
 | 8 | 0.1% | 99.8% |  |
 | 9 | 32% | 99.7% | Last Result |
-| 10 | 2% | 67% |  |
-| 11 | 33% | 66% | Median |
-| 12 | 23% | 32% |  |
-| 13 | 0.7% | 10% |  |
+| 10 | 1.5% | 67% |  |
+| 11 | 39% | 66% | Median |
+| 12 | 11% | 26% |  |
+| 13 | 6% | 15% |  |
 | 14 | 9% | 9% |  |
 | 15 | 0% | 0% |  |
 
