@@ -10,7 +10,8 @@ Last result: **2.4%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.9–4.2% | 2.7–4.4% | 2.5–4.6% | 2.2–5.0% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.9–4.2% | 2.7–4.4% | 2.5–4.6% | 2.2–4.9% |
+| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 3.9% | 3.4–4.5% | 3.3–4.6% | 3.2–4.8% | 2.9–5.1% |
 | [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.5% | 2.0–4.9% |
@@ -61,7 +62,8 @@ Last result: **3** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 5 | 5 | 5–6 | 3–6 |
+| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5–6 |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4–7 |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 5 | 5 | 5 | 3–5 |
@@ -99,12 +101,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.6% | 100% | Last Result |
-| 4 | 4% | 99.4% |  |
-| 5 | 75% | 95% | Median |
-| 6 | 19% | 21% |  |
-| 7 | 2% | 2% |  |
-| 8 | 0.2% | 0.4% |  |
-| 9 | 0.2% | 0.2% |  |
-| 10 | 0% | 0% |  |
+| 4 | 0.3% | 99.4% |  |
+| 5 | 95% | 99.0% | Median |
+| 6 | 3% | 4% |  |
+| 7 | 0.1% | 0.2% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 
