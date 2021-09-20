@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Fri, 17 Sep 2021 08:12:15 +0200</pubDate>
+    <pubDate>Mon, 20 Sep 2021 07:20:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by I&amp;O Research, 10–13 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-13-IOResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 18.8–22.2%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 9.1–11.7%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 3.9–5.7%&lt;/li&gt;&lt;li&gt;Democraten 66: 10.5–13.2%&lt;/li&gt;&lt;li&gt;GroenLinks: 5.8–7.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5.2–7.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 6.7–8.9%&lt;/li&gt;&lt;li&gt;ChristenUnie: 4.0–5.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.4–6.2%&lt;/li&gt;&lt;li&gt;50Plus: 0.2–0.8%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.7–2.9%&lt;/li&gt;&lt;li&gt;DENK: 0.7–1.5%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Bij1: 1.1–2.2%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 2.8–4.3%&lt;/li&gt;&lt;li&gt;Volt Europa: 3.2–4.8%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 3.5–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-13-IOResearch.png"
+        length="427051"
+        type="image/png"/>
+      <pubDate>Mon, 20 Sep 2021 07:20:59 +0200</pubDate>
+      <dc:date>2021-09-20T07:20:59.251434+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 10–11 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.html</link>
@@ -639,6 +649,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54.95904+02:00</dc:date>
     </item>
-    <dc:date>2021-09-17T08:12:15.137754+02:00</dc:date>
+    <dc:date>2021-09-20T07:20:59.251434+02:00</dc:date>
   </channel>
 </rss>
