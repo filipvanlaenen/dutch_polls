@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Fri, 24 Sep 2021 08:02:57 +0200</pubDate>
+    <pubDate>Mon, 27 Sep 2021 17:13:07 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar, 17–20 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-20-Kantar.html</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-04-Peilnl.png"
         length="419139"
         type="image/png"/>
-      <pubDate>Fri, 17 Sep 2021 08:12:15 +0200</pubDate>
-      <dc:date>2021-09-17T08:12:15.137754+02:00</dc:date>
+      <pubDate>Mon, 27 Sep 2021 17:13:07 +0200</pubDate>
+      <dc:date>2021-09-27T17:13:07.718108+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 27–30 August 2021 – Voting Intentions</title>
@@ -669,6 +669,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54.95904+02:00</dc:date>
     </item>
-    <dc:date>2021-09-24T08:02:57.827668+02:00</dc:date>
+    <dc:date>2021-09-27T17:13:07.718108+02:00</dc:date>
   </channel>
 </rss>
