@@ -72,13 +72,13 @@ Last result: **34** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 32–42 | 32–42 | 29–42 | 29–42 |
-| [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 33 | 30–33 | 29–33 | 29–33 | 29–33 |
+| N/A | [Poll Average](average.html) | 33 | 31–39 | 31–39 | 30–40 | 29–42 |
+| [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 31 | 31–33 | 31–34 | 31–34 | 30–35 |
 | [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 33 | 33–36 | 33–36 | 33–38 | 33–40 |
-| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 32 | 32 | 32–34 | 31–34 | 29–34 |
+| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 32 | 30–34 | 30–34 | 30–34 | 29–35 |
 | [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 39 | 39–40 | 39–40 | 39–40 | 37–40 |
-| [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 37 | 37–40 | 37–41 | 37–41 | 37–41 |
-| [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 42 | 42 | 42 | 37–42 | 32–42 |
+| [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 39 | 36–39 | 36–40 | 36–40 | 36–41 |
+| [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 35 | 35–40 | 35–42 | 33–42 | 32–43 |
 | [20–21 August 2021](2021-08-21-Peilnl.html) | Peil.nl | 41 | 36–41 | 36–41 | 35–41 | 35–41 |
 | [23–26 July 2021](2021-07-26-Ipsos.html) | Ipsos <br> EenVandaag | 39 | 39 | 34–39 | 31–41 | 31–41 |
 | [23–24 July 2021](2021-07-24-Peilnl.html) | Peil.nl | 37 | 35–40 | 35–40 | 35–40 | 35–40 |
@@ -113,20 +113,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
-| 29 | 3% | 99.9% |  |
-| 30 | 0.4% | 97% |  |
-| 31 | 0.6% | 97% |  |
-| 32 | 22% | 96% |  |
-| 33 | 40% | 74% | Median |
-| 34 | 2% | 34% | Last Result |
-| 35 | 0.1% | 32% |  |
-| 36 | 6% | 32% |  |
-| 37 | 0.9% | 26% |  |
-| 38 | 0.7% | 25% |  |
-| 39 | 0% | 24% |  |
-| 40 | 0.3% | 24% |  |
-| 41 | 0% | 24% |  |
-| 42 | 24% | 24% |  |
-| 43 | 0% | 0% |  |
+| 29 | 0.6% | 99.9% |  |
+| 30 | 2% | 99.4% |  |
+| 31 | 22% | 97% |  |
+| 32 | 19% | 75% |  |
+| 33 | 19% | 56% | Median |
+| 34 | 5% | 37% | Last Result |
+| 35 | 13% | 32% |  |
+| 36 | 6% | 19% |  |
+| 37 | 1.3% | 13% |  |
+| 38 | 0.6% | 12% |  |
+| 39 | 8% | 11% |  |
+| 40 | 0.7% | 3% |  |
+| 41 | 0.2% | 2% |  |
+| 42 | 2% | 2% |  |
+| 43 | 0.2% | 0.2% |  |
+| 44 | 0% | 0% |  |
 
 
