@@ -69,9 +69,9 @@ Last result: **1** seats (General Election of 17 March 2021)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 3–8 | 2–8 | 2–8 | 2–8 |
 | [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 5 | 5–8 | 5–8 | 5–8 | 5–9 |
-| [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 8 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7 | 5–7 |
+| [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 7 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 7 | 7 | 6–7 | 6–7 | 6–7 |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 2–3 | 2–5 | 2–5 | 2–6 |
 | [20–21 August 2021](2021-08-21-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -111,10 +111,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 10% | 99.9% |  |
 | 3 | 13% | 90% |  |
 | 4 | 0.7% | 77% |  |
-| 5 | 17% | 76% |  |
-| 6 | 24% | 59% | Median |
-| 7 | 6% | 36% |  |
-| 8 | 29% | 30% |  |
+| 5 | 19% | 76% |  |
+| 6 | 17% | 57% | Median |
+| 7 | 25% | 40% |  |
+| 8 | 15% | 15% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 

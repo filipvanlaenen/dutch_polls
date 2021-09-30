@@ -67,11 +67,11 @@ Last result: **8** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–13 | 7–13 | 7–13 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 8–13 | 7–13 | 7–13 | 7–13 |
 | [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 13 | 12–13 | 12–13 | 11–13 | 9–13 |
-| [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 11 | 10–11 | 10–11 | 8–11 | 8–11 |
-| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 11 | 10–11 | 10–12 | 9–12 | 8–13 |
-| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 9 | 9 | 9 | 9 | 7–9 |
+| [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 10 | 8–10 | 7–11 | 7–11 | 7–11 |
+| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 10 | 9–11 | 9–11 | 9–12 | 9–13 |
+| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 9 | 8–9 | 8–9 | 6–9 | 6–9 |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 8 | 8–10 | 8–10 | 6–10 | 6–10 |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
 | [20–21 August 2021](2021-08-21-Peilnl.html) | Peil.nl | 5 | 5–8 | 5–8 | 5–8 | 5–8 |
@@ -108,12 +108,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.4% | 100% |  |
-| 7 | 6% | 99.5% |  |
-| 8 | 16% | 94% | Last Result |
-| 9 | 4% | 78% |  |
-| 10 | 10% | 73% |  |
-| 11 | 37% | 63% | Median |
-| 12 | 5% | 26% |  |
+| 7 | 8% | 99.5% |  |
+| 8 | 19% | 92% | Last Result |
+| 9 | 10% | 73% |  |
+| 10 | 32% | 63% | Median |
+| 11 | 6% | 31% |  |
+| 12 | 3% | 25% |  |
 | 13 | 21% | 21% |  |
 | 14 | 0% | 0% |  |
 

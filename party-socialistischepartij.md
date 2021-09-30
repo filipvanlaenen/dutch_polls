@@ -66,11 +66,11 @@ Last result: **9** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 6–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–11 | 5–12 |
 | [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
-| [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
-| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 9 | 9 | 9 | 9 | 8–9 |
+| [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
+| [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 8 | 7–11 | 7–12 | 7–12 | 7–12 |
+| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 9 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [20–21 August 2021](2021-08-21-Peilnl.html) | Peil.nl | 10 | 8–11 | 8–11 | 7–11 | 7–11 |
@@ -108,12 +108,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
 | 5 | 0.6% | 99.9% |  |
-| 6 | 18% | 99.3% |  |
-| 7 | 29% | 81% |  |
-| 8 | 17% | 52% | Median |
-| 9 | 20% | 35% | Last Result |
-| 10 | 16% | 16% |  |
-| 11 | 0.2% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 6 | 17% | 99.3% |  |
+| 7 | 29% | 82% |  |
+| 8 | 24% | 53% | Median |
+| 9 | 21% | 29% | Last Result |
+| 10 | 4% | 8% |  |
+| 11 | 3% | 5% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0% | 0% |  |
 
 
