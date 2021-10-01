@@ -71,7 +71,7 @@ Last result: **15** seats (General Election of 17 March 2021)
 | [17–20 September 2021](2021-09-20-Kantar.html) | Kantar | 6 | 5–9 | 5–9 | 5–9 | 5–9 |
 | [17–18 September 2021](2021-09-18-Peilnl.html) | Peil.nl | 8 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [10–13 September 2021](2021-09-13-IOResearch.html) | I&O Research | 8 | 6–9 | 6–9 | 6–9 | 5–9 |
-| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5–7 | 5–7 |
+| [10–11 September 2021](2021-09-11-Peilnl.html) | Peil.nl | 5 | 5 | 5–6 | 5–7 | 5–7 |
 | [3–4 September 2021](2021-09-04-Peilnl.html) | Peil.nl | 7 | 7–8 | 6–9 | 5–9 | 5–9 |
 | [27–30 August 2021](2021-08-30-Ipsos.html) | Ipsos <br> EenVandaag | 12 | 9–13 | 9–13 | 9–13 | 8–13 |
 | [20–21 August 2021](2021-08-21-Peilnl.html) | Peil.nl | 5 | 5–7 | 5–7 | 5–8 | 4–8 |
