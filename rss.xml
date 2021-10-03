@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Thu, 30 Sep 2021 19:57:14 +0200</pubDate>
+    <pubDate>Sun, 03 Oct 2021 17:39:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos, 24–27 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-27-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 31–38 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 15–20 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 5–10 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 15–23 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 6–11 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5–10 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 7–12 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 3–7 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 7–13 seats&lt;/li&gt;&lt;li&gt;50Plus: 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–4 seats&lt;/li&gt;&lt;li&gt;DENK: 2–6 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3–6 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–2 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 4–8 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 4–8 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 3–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-27-Ipsos-seats.png"
+        length="404845"
+        type="image/png"/>
+      <pubDate>Sun, 03 Oct 2021 17:39:03 +0200</pubDate>
+      <dc:date>2021-10-03T17:39:03.209181+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 24–27 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-27-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-27-Ipsos-coalitions-seats.png"
+        length="655937"
+        type="image/png"/>
+      <pubDate>Sun, 03 Oct 2021 17:39:03 +0200</pubDate>
+      <dc:date>2021-10-03T17:39:03.209181+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 24–27 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-27-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 20.8–26.1%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 9.4–13.4%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Democraten 66: 10.2–14.3%&lt;/li&gt;&lt;li&gt;GroenLinks: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.1–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 4.6–7.6%&lt;/li&gt;&lt;li&gt;ChristenUnie: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.6–7.6%&lt;/li&gt;&lt;li&gt;50Plus: 0.2–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.2–3.0%&lt;/li&gt;&lt;li&gt;DENK: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Bij1: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Volt Europa: 2.9–5.3%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 2.5–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-27-Ipsos.png"
+        length="444281"
+        type="image/png"/>
+      <pubDate>Sun, 03 Oct 2021 17:39:03 +0200</pubDate>
+      <dc:date>2021-10-03T17:39:03.209181+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar, 17–20 September 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-20-Kantar.html#seats</link>
@@ -789,6 +819,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54.95904+02:00</dc:date>
     </item>
-    <dc:date>2021-09-30T19:57:14.251705+02:00</dc:date>
+    <dc:date>2021-10-03T17:39:03.209181+02:00</dc:date>
   </channel>
 </rss>
