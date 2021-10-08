@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 1–2 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-02-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 1–2 October 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-10-02-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-10-02-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-10-02-Peilnl.png" length="419992" type="image/png"/>
+      <pubDate>Tue, 5 Oct 2021 08:44:28 +0200</pubDate>
+      <dc:date>2021-10-05T08:44:28.179934+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos, 24–27 September 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-27-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Ipsos, 24–27 September 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-09-27-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-09-27-Ipsos-seating-plan.png"/>]]></description>
@@ -180,30 +188,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-08-21-Peilnl.png" length="420999" type="image/png"/>
       <pubDate>Mon, 30 Aug 2021 08:26:14 +0200</pubDate>
       <dc:date>2021-08-30T08:26:14.752313+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 23–26 July 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 23–26 July 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos-seating-plan.png" length="701922" type="image/png"/>
-      <pubDate>Sat, 7 Aug 2021 18:57:17 +0200</pubDate>
-      <dc:date>2021-08-07T18:57:17.664002+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 23–26 July 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 23–26 July 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos-seats.png" length="354681" type="image/png"/>
-      <pubDate>Sat, 7 Aug 2021 18:57:17 +0200</pubDate>
-      <dc:date>2021-08-07T18:57:17.664002+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for EenVandaag, 23–26 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Ipsos for EenVandaag, 23–26 July 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-07-26-Ipsos.png" length="446659" type="image/png"/>
-      <pubDate>Sat, 7 Aug 2021 18:57:17 +0200</pubDate>
-      <dc:date>2021-08-07T18:57:17.664002+02:00</dc:date>
     </item>
   </channel>
 </rss>
