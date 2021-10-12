@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Tue, 05 Oct 2021 08:44:28 +0200</pubDate>
+    <pubDate>Tue, 12 Oct 2021 19:43:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peil.nl, 1–2 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-02-Peilnl.html</link>
@@ -48,6 +48,16 @@
         type="image/png"/>
       <pubDate>Sun, 03 Oct 2021 17:39:03 +0200</pubDate>
       <dc:date>2021-10-03T17:39:03.209181+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 24–25 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-25-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 21.8–24.8%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 10.2–12.5%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Democraten 66: 11.5–13.9%&lt;/li&gt;&lt;li&gt;GroenLinks: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 6.4–8.3%&lt;/li&gt;&lt;li&gt;ChristenUnie: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.0–5.5%&lt;/li&gt;&lt;li&gt;50Plus: 0.1–0.4%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK: 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Bij1: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 2.1–3.3%&lt;/li&gt;&lt;li&gt;Volt Europa: 3.4–4.8%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Belang van Nederland: 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-25-Peilnl.png"
+        length="422583"
+        type="image/png"/>
+      <pubDate>Tue, 12 Oct 2021 19:43:18 +0200</pubDate>
+      <dc:date>2021-10-12T19:43:18.756059+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar, 17–20 September 2021 – Seat Projections for the Parties</title>
@@ -829,6 +839,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54.95904+02:00</dc:date>
     </item>
-    <dc:date>2021-10-05T08:44:28.179934+02:00</dc:date>
+    <dc:date>2021-10-12T19:43:18.756059+02:00</dc:date>
   </channel>
 </rss>
