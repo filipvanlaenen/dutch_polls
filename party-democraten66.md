@@ -10,9 +10,9 @@ Last result: **15.0%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.1% | 10.8–14.0% | 10.6–14.5% | 10.3–15.0% | 9.9–15.8% |
+| N/A | [Poll Average](average.html) | 11.6% | 9.2–13.8% | 8.8–14.3% | 8.5–14.8% | 8.1–15.6% |
 | [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
-| [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 9.3% | N/A | N/A | N/A | N/A |
+| [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 9.3% | 8.5–10.2% | 8.3–10.4% | 8.1–10.7% | 7.8–11.1% |
 | [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl | 11.3% | N/A | N/A | N/A | N/A |
 | [1–2 October 2021](2021-10-02-Peilnl.html) | Peil.nl | 11.3% | 10.6–12.1% | 10.4–12.3% | 10.2–12.5% | 9.9–12.9% |
 | [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 12.1% | 10.8–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
@@ -54,15 +54,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 5% | 99.8% |  |
-| 10.5–11.5% | 28% | 95% |  |
-| 11.5–12.5% | 29% | 67% | Median |
-| 12.5–13.5% | 21% | 38% |  |
-| 13.5–14.5% | 12% | 17% |  |
-| 14.5–15.5% | 4% | 5% | Last Result |
-| 15.5–16.5% | 0.7% | 0.8% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 3% | 100% |  |
+| 8.5–9.5% | 13% | 97% |  |
+| 9.5–10.5% | 12% | 84% |  |
+| 10.5–11.5% | 22% | 72% |  |
+| 11.5–12.5% | 22% | 50% | Median |
+| 12.5–13.5% | 16% | 29% |  |
+| 13.5–14.5% | 9% | 13% |  |
+| 14.5–15.5% | 3% | 4% | Last Result |
+| 15.5–16.5% | 0.6% | 0.6% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -75,9 +76,9 @@ Last result: **24** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–23 | 15–23 | 15–23 | 15–23 |
+| N/A | [Poll Average](average.html) | 17 | 14–21 | 14–23 | 13–23 | 13–23 |
 | [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 17 | 15–17 | 15–17 | 15–17 | 15–17 |
-| [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 14 | 13–14 | 13–14 | 13–15 | 12–17 |
 | [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [1–2 October 2021](2021-10-02-Peilnl.html) | Peil.nl | 18 | 18 | 18 | 18 | 18 |
 | [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 20 | 16–23 | 15–23 | 15–23 | 15–23 |
@@ -121,17 +122,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 15% | 99.9% |  |
-| 16 | 2% | 85% |  |
-| 17 | 23% | 83% |  |
-| 18 | 17% | 60% | Median |
-| 19 | 16% | 43% |  |
-| 20 | 8% | 27% |  |
-| 21 | 7% | 19% |  |
-| 22 | 0.3% | 12% |  |
-| 23 | 12% | 12% |  |
-| 24 | 0.1% | 0.1% | Last Result |
+| 11 | 0.1% | 100% |  |
+| 12 | 0.2% | 99.9% |  |
+| 13 | 3% | 99.7% |  |
+| 14 | 21% | 97% |  |
+| 15 | 12% | 76% |  |
+| 16 | 1.3% | 64% |  |
+| 17 | 18% | 62% | Median |
+| 18 | 12% | 45% |  |
+| 19 | 12% | 32% |  |
+| 20 | 6% | 20% |  |
+| 21 | 5% | 14% |  |
+| 22 | 0.2% | 9% |  |
+| 23 | 9% | 9% |  |
+| 24 | 0% | 0.1% | Last Result |
 | 25 | 0% | 0% |  |
 
 
