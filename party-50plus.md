@@ -13,7 +13,7 @@ Last result: **1.0%** (General Election of 17 March 2021)
 | N/A | [Poll Average](average.html) | 0.5% | 0.2–0.9% | 0.1–1.0% | 0.1–1.2% | 0.1–1.4% |
 | [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
 | [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 0.5% | 0.3–0.8% | 0.3–0.8% | 0.3–0.9% | 0.2–1.1% |
-| [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl | 0.2% | 0.0–0.4% | 0.0–0.4% | 0.0–0.4% | 0.0–0.5% |
+| [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
 | [1–2 October 2021](2021-10-02-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
 | [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [24–25 September 2021](2021-09-25-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
@@ -71,7 +71,7 @@ Last result: **1** seats (General Election of 17 March 2021)
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [1–2 October 2021](2021-10-02-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–25 September 2021](2021-09-25-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
