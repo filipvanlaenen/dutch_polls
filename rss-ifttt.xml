@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 22–25 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-25-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Ipsos for EenVandaag, 22–25 October 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-10-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-10-25-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-10-25-Ipsos.png" length="451622" type="image/png"/>
+      <pubDate>Wed, 27 Oct 2021 19:25:13 +0200</pubDate>
+      <dc:date>2021-10-27T19:25:13.776482+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 15–16 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-16-Peilnl.html</link>
       <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 15–16 October 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-10-16-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-10-16-Peilnl.png"/>]]></description>
@@ -156,30 +164,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-13-IOResearch.png" length="445013" type="image/png"/>
       <pubDate>Fri, 22 Oct 2021 08:06:18 +0200</pubDate>
       <dc:date>2021-10-22T08:06:18.360929+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 10–11 September 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 10–11 September 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl-seating-plan.png" length="681556" type="image/png"/>
-      <pubDate>Thu, 30 Sep 2021 19:57:14 +0200</pubDate>
-      <dc:date>2021-09-30T19:57:14.251705+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 10–11 September 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 10–11 September 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl-seats.png" length="336521" type="image/png"/>
-      <pubDate>Thu, 30 Sep 2021 19:57:14 +0200</pubDate>
-      <dc:date>2021-09-30T19:57:14.251705+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 10–11 September 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 10–11 September 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-11-Peilnl.png" length="418866" type="image/png"/>
-      <pubDate>Thu, 30 Sep 2021 19:57:14 +0200</pubDate>
-      <dc:date>2021-09-30T19:57:14.251705+02:00</dc:date>
     </item>
   </channel>
 </rss>
