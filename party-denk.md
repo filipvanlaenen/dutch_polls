@@ -72,10 +72,10 @@ Last result: **3** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 2 | 2–3 | 2–5 | 2–5 | 2–5 |
-| [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 2–3 |
+| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3–4 | 2–4 | 2–5 | 2–6 |
+| [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 2 | 2 | 2–3 | 2–4 | 2–4 |
+| [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–2 October 2021](2021-10-02-Peilnl.html) | Peil.nl | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 4 | 2–5 | 2–6 | 2–6 | 2–6 |
 | [24–25 September 2021](2021-09-25-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 2–3 | 2–4 |
@@ -118,13 +118,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 11% | 86% |  |
-| 2 | 29% | 75% | Median |
-| 3 | 33% | 46% | Last Result |
-| 4 | 11% | 13% |  |
-| 5 | 2% | 2% |  |
-| 6 | 0% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 0 | 23% | 100% |  |
+| 1 | 2% | 77% |  |
+| 2 | 26% | 75% | Median |
+| 3 | 33% | 49% | Last Result |
+| 4 | 15% | 16% |  |
+| 5 | 0.8% | 1.0% |  |
+| 6 | 0.1% | 0.2% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 
