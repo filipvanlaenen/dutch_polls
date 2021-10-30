@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Fri, 29 Oct 2021 19:37:49 +0200</pubDate>
+    <pubDate>Sat, 30 Oct 2021 00:03:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 22–25 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-25-Ipsos.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2021-10-29T16:56:44.673215+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Peil.nl, 15–16 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-16-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 33–38 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 17–21 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 4–5 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 16–18 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 9–10 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 9–10 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 9–11 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 5–8 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 7–9 seats&lt;/li&gt;&lt;li&gt;50Plus: 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–4 seats&lt;/li&gt;&lt;li&gt;DENK: 2–4 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 5–7 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 5–6 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 5–6 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 6–8 seats&lt;/li&gt;&lt;li&gt;Belang van Nederland: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-10-16-Peilnl-seats.png"
+        length="337893"
+        type="image/png"/>
+      <pubDate>Fri, 29 Oct 2021 20:42:30 +0200</pubDate>
+      <dc:date>2021-10-29T20:42:30.702792+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 15–16 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-16-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-10-16-Peilnl-coalitions-seats.png"
+        length="511955"
+        type="image/png"/>
+      <pubDate>Fri, 29 Oct 2021 20:42:30 +0200</pubDate>
+      <dc:date>2021-10-29T20:42:30.702792+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 15–16 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-16-Peilnl.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 21.1–24.1%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 11.5–13.9%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Democraten 66: 10.2–12.5%&lt;/li&gt;&lt;li&gt;GroenLinks: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 6.4–8.3%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.5–6.2%&lt;/li&gt;&lt;li&gt;50Plus: 0.1–0.4%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK: 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Bij1: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Volt Europa: 3.4–4.8%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Belang van Nederland: 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-10-16-Peilnl.png"
         length="422940"
         type="image/png"/>
-      <pubDate>Fri, 29 Oct 2021 19:37:49 +0200</pubDate>
-      <dc:date>2021-10-29T19:37:49.04554+02:00</dc:date>
+      <pubDate>Fri, 29 Oct 2021 20:42:30 +0200</pubDate>
+      <dc:date>2021-10-29T20:42:30.702792+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 8–11 October 2021 – Voting Intentions</title>
@@ -56,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-10-11-IOResearch.png"
         length="444312"
         type="image/png"/>
-      <pubDate>Thu, 28 Oct 2021 20:32:49 +0200</pubDate>
-      <dc:date>2021-10-28T20:32:49.429524+02:00</dc:date>
+      <pubDate>Sat, 30 Oct 2021 00:03:13 +0200</pubDate>
+      <dc:date>2021-10-30T00:03:13.796203+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peil.nl, 8–9 October 2021 – Seat Projections for the Parties</title>
@@ -939,6 +959,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54.95904+02:00</dc:date>
     </item>
-    <dc:date>2021-10-29T19:37:49.04554+02:00</dc:date>
+    <dc:date>2021-10-30T00:03:13.796203+02:00</dc:date>
   </channel>
 </rss>
