@@ -76,10 +76,10 @@ Last result: **34** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 31–38 | 31–38 | 31–38 | 28–38 |
+| N/A | [Poll Average](average.html) | 33 | 31–36 | 31–36 | 30–37 | 28–38 |
 | [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 34 | 33–36 | 32–37 | 29–37 | 28–37 |
-| [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 38 | 38 | 35–38 | 35–38 | 32–38 |
-| [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 34 | 31–34 | 31–34 | 31–34 | 30–35 |
+| [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 36 | 34–36 | 34–37 | 33–38 | 33–38 |
+| [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 32 | 32–34 | 30–35 | 30–35 | 28–35 |
 | [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl | 36 | 35–36 | 33–36 | 33–37 | 31–37 |
 | [1–2 October 2021](2021-10-02-Peilnl.html) | Peil.nl | 38 | 35–38 | 35–38 | 35–38 | 35–38 |
 | [24–27 September 2021](2021-09-27-Ipsos.html) | Ipsos | 35 | 31–37 | 31–38 | 31–38 | 31–42 |
@@ -123,17 +123,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.6% | 100% |  |
-| 29 | 0.2% | 99.4% |  |
-| 30 | 0.3% | 99.2% |  |
-| 31 | 27% | 98.9% |  |
-| 32 | 4% | 72% |  |
-| 33 | 5% | 68% |  |
-| 34 | 35% | 63% | Last Result, Median |
-| 35 | 2% | 28% |  |
-| 36 | 0.5% | 26% |  |
-| 37 | 2% | 26% |  |
-| 38 | 23% | 23% |  |
+| 28 | 0.8% | 100% |  |
+| 29 | 0.2% | 99.2% |  |
+| 30 | 2% | 99.0% |  |
+| 31 | 22% | 97% |  |
+| 32 | 21% | 76% |  |
+| 33 | 6% | 55% | Median |
+| 34 | 21% | 48% | Last Result |
+| 35 | 5% | 27% |  |
+| 36 | 19% | 23% |  |
+| 37 | 2% | 4% |  |
+| 38 | 1.4% | 1.4% |  |
 | 39 | 0% | 0% |  |
 
 
