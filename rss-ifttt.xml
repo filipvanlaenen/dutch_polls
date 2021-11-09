@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 29–30 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-30-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 29–30 October 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-10-30-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-10-30-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-10-30-Peilnl.png" length="422806" type="image/png"/>
+      <pubDate>Tue, 9 Nov 2021 07:32:43 +0100</pubDate>
+      <dc:date>2021-11-09T07:32:43.484546+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 22–25 October 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-10-25-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 22–25 October 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-10-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-10-25-Ipsos-seating-plan.png"/>]]></description>
@@ -220,14 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-18-Peilnl.png" length="423647" type="image/png"/>
       <pubDate>Wed, 29 Sep 2021 20:43:30 +0200</pubDate>
       <dc:date>2021-09-29T20:43:30.338285+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by I&amp;O Research, 10–13 September 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-09-13-IOResearch.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by I&O Research, 10–13 September 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-09-13-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-09-13-IOResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-09-13-IOResearch.png" length="445013" type="image/png"/>
-      <pubDate>Thu, 28 Oct 2021 20:28:53 +0200</pubDate>
-      <dc:date>2021-10-28T20:28:53.550963+02:00</dc:date>
     </item>
   </channel>
 </rss>
