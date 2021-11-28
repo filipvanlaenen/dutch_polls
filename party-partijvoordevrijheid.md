@@ -10,13 +10,13 @@ Last result: **10.8%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 10.1–13.7% | 9.8–14.0% | 9.5–14.2% | 9.0–14.7% |
+| N/A | [Poll Average](average.html) | 11.7% | 10.2–13.6% | 9.9–13.9% | 9.6–14.2% | 9.1–14.7% |
 | [19–20 November 2021](2021-11-20-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
 | [12–15 November 2021](2021-11-15-IOResearch.html) | I&O Research | 10.7% | 9.9–11.7% | 9.7–11.9% | 9.4–12.2% | 9.1–12.6% |
 | [5–9 November 2021](2021-11-09-Kantar.html) | Kantar | 11.1% | 9.9–12.4% | 9.5–12.8% | 9.2–13.2% | 8.7–13.9% |
 | [7 November 2021](2021-11-07-Peilnl.html) | Peil.nl | 13.3% | N/A | N/A | N/A | N/A |
 | [29–30 October 2021](2021-10-30-Peilnl.html) | Peil.nl | 13.3% | N/A | N/A | N/A | N/A |
-| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 12.0% | N/A | N/A | N/A | N/A |
+| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
 | [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 12.6% | N/A | N/A | N/A | N/A |
 | [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 9.7% | N/A | N/A | N/A | N/A |
 | [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl | 12.0% | N/A | N/A | N/A | N/A |
@@ -62,12 +62,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 3% | 99.9% |  |
-| 9.5–10.5% | 19% | 97% |  |
-| 10.5–11.5% | 29% | 78% | Last Result, Median |
-| 11.5–12.5% | 16% | 49% |  |
-| 12.5–13.5% | 21% | 33% |  |
-| 13.5–14.5% | 11% | 12% |  |
+| 8.5–9.5% | 2% | 99.9% |  |
+| 9.5–10.5% | 16% | 98% |  |
+| 10.5–11.5% | 28% | 82% | Last Result |
+| 11.5–12.5% | 21% | 54% | Median |
+| 12.5–13.5% | 21% | 32% |  |
+| 13.5–14.5% | 10% | 11% |  |
 | 14.5–15.5% | 0.9% | 0.9% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -80,13 +80,13 @@ Last result: **17** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–21 | 15–22 | 14–23 | 14–23 |
+| N/A | [Poll Average](average.html) | 18 | 15–21 | 15–21 | 15–23 | 14–23 |
 | [19–20 November 2021](2021-11-20-Peilnl.html) | Peil.nl | 20 | 20–23 | 19–23 | 18–23 | 18–23 |
 | [12–15 November 2021](2021-11-15-IOResearch.html) | I&O Research | 17 | 15–17 | 14–19 | 14–20 | 14–20 |
 | [5–9 November 2021](2021-11-09-Kantar.html) | Kantar | 16 | 15–16 | 15–18 | 15–19 | 12–20 |
 | [7 November 2021](2021-11-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [29–30 October 2021](2021-10-30-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 19 | 19–21 | 17–21 | 16–22 | 15–23 |
 | [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -134,16 +134,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.2% | 100% |  |
 | 13 | 0% | 99.8% |  |
-| 14 | 3% | 99.8% |  |
-| 15 | 16% | 97% |  |
-| 16 | 26% | 82% |  |
-| 17 | 17% | 55% | Last Result, Median |
-| 18 | 3% | 38% |  |
-| 19 | 3% | 36% |  |
-| 20 | 22% | 33% |  |
-| 21 | 6% | 11% |  |
-| 22 | 0.7% | 5% |  |
+| 14 | 2% | 99.8% |  |
+| 15 | 12% | 98% |  |
+| 16 | 20% | 86% |  |
+| 17 | 14% | 66% | Last Result |
+| 18 | 2% | 52% | Median |
+| 19 | 18% | 49% |  |
+| 20 | 17% | 31% |  |
+| 21 | 9% | 14% |  |
+| 22 | 1.1% | 5% |  |
 | 23 | 4% | 4% |  |
-| 24 | 0% | 0% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 

@@ -10,13 +10,13 @@ Last result: **21.9%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.9% | 19.4–22.3% | 19.0–22.7% | 18.7–23.1% | 18.1–24.0% |
+| N/A | [Poll Average](average.html) | 21.0% | 19.5–22.6% | 19.1–23.2% | 18.8–23.6% | 18.1–24.6% |
 | [19–20 November 2021](2021-11-20-Peilnl.html) | Peil.nl | 21.3% | 20.3–22.3% | 20.1–22.5% | 19.8–22.8% | 19.4–23.3% |
 | [12–15 November 2021](2021-11-15-IOResearch.html) | I&O Research | 20.1% | 19.0–21.3% | 18.7–21.7% | 18.4–21.9% | 17.9–22.5% |
 | [5–9 November 2021](2021-11-09-Kantar.html) | Kantar | 21.1% | 19.5–22.8% | 19.0–23.3% | 18.7–23.8% | 17.9–24.6% |
 | [7 November 2021](2021-11-07-Peilnl.html) | Peil.nl | 22.6% | N/A | N/A | N/A | N/A |
 | [29–30 October 2021](2021-10-30-Peilnl.html) | Peil.nl | 22.6% | N/A | N/A | N/A | N/A |
-| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 21.6% | N/A | N/A | N/A | N/A |
+| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 21.6% | 20.0–23.4% | 19.6–23.8% | 19.2–24.3% | 18.5–25.1% |
 | [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl | 22.6% | N/A | N/A | N/A | N/A |
 | [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research | 21.2% | N/A | N/A | N/A | N/A |
 | [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl | 22.6% | N/A | N/A | N/A | N/A |
@@ -62,15 +62,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 2% | 99.9% |  |
-| 18.5–19.5% | 10% | 98% |  |
-| 19.5–20.5% | 26% | 88% |  |
-| 20.5–21.5% | 35% | 62% | Median |
-| 21.5–22.5% | 20% | 27% | Last Result |
-| 22.5–23.5% | 5% | 6% |  |
-| 23.5–24.5% | 1.0% | 1.2% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 17.5–18.5% | 1.4% | 99.9% |  |
+| 18.5–19.5% | 9% | 98.5% |  |
+| 19.5–20.5% | 23% | 90% |  |
+| 20.5–21.5% | 33% | 67% | Median |
+| 21.5–22.5% | 22% | 33% | Last Result |
+| 22.5–23.5% | 8% | 11% |  |
+| 23.5–24.5% | 2% | 3% |  |
+| 24.5–25.5% | 0.4% | 0.5% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -81,13 +82,13 @@ Last result: **34** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 30–35 | 30–36 | 30–36 | 29–38 |
+| N/A | [Poll Average](average.html) | 33 | 30–35 | 30–36 | 30–37 | 28–38 |
 | [19–20 November 2021](2021-11-20-Peilnl.html) | Peil.nl | 34 | 32–35 | 31–35 | 30–35 | 29–35 |
 | [12–15 November 2021](2021-11-15-IOResearch.html) | I&O Research | 30 | 30–34 | 30–34 | 30–34 | 28–34 |
 | [5–9 November 2021](2021-11-09-Kantar.html) | Kantar | 33 | 30–36 | 30–36 | 30–37 | 28–39 |
 | [7 November 2021](2021-11-07-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [29–30 October 2021](2021-10-30-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 34 | 33–36 | 32–37 | 29–37 | 28–37 |
 | [15–16 October 2021](2021-10-16-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [8–11 October 2021](2021-10-11-IOResearch.html) | I&O Research |  |  |  |  |  |
 | [8–9 October 2021](2021-10-09-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -134,17 +135,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.2% | 100% |  |
-| 28 | 0.3% | 99.8% |  |
-| 29 | 0.5% | 99.5% |  |
-| 30 | 25% | 99.0% |  |
-| 31 | 8% | 74% |  |
-| 32 | 7% | 65% |  |
-| 33 | 30% | 58% | Median |
-| 34 | 7% | 29% | Last Result |
-| 35 | 15% | 22% |  |
-| 36 | 6% | 7% |  |
-| 37 | 0.1% | 0.9% |  |
-| 38 | 0.6% | 0.8% |  |
+| 28 | 0.7% | 99.8% |  |
+| 29 | 0.4% | 99.1% |  |
+| 30 | 19% | 98.6% |  |
+| 31 | 6% | 80% |  |
+| 32 | 6% | 73% |  |
+| 33 | 26% | 67% | Median |
+| 34 | 21% | 41% | Last Result |
+| 35 | 12% | 20% |  |
+| 36 | 5% | 8% |  |
+| 37 | 2% | 3% |  |
+| 38 | 0.5% | 0.7% |  |
 | 39 | 0.2% | 0.2% |  |
 | 40 | 0% | 0% |  |
 
