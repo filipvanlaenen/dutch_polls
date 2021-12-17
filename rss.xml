@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sat, 11 Dec 2021 18:42:00 +0100</pubDate>
+    <pubDate>Fri, 17 Dec 2021 20:37:34 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 12 December 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-12-12-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 29–34 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 19–21 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 5–8 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 16–19 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 8–10 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 7–9 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 10–11 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 5–6 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 8–10 seats&lt;/li&gt;&lt;li&gt;50Plus: 0 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–3 seats&lt;/li&gt;&lt;li&gt;DENK: 2–3 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 6–7 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 6–7 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 5–7 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 7–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-12-12-Peilnl-seats.png"
+        length="327548"
+        type="image/png"/>
+      <pubDate>Fri, 17 Dec 2021 20:37:34 +0100</pubDate>
+      <dc:date>2021-12-17T20:37:34.022355+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 12 December 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-12-12-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-12-12-Peilnl-coalitions-seats.png"
+        length="514409"
+        type="image/png"/>
+      <pubDate>Fri, 17 Dec 2021 20:37:34 +0100</pubDate>
+      <dc:date>2021-12-17T20:37:34.022355+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 12 December 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2021-12-12-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 18.6–21.4%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 11.5–13.9%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Democraten 66: 10.2–12.5%&lt;/li&gt;&lt;li&gt;GroenLinks: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.6–6.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 5.8–7.6%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 5.2–6.9%&lt;/li&gt;&lt;li&gt;50Plus: 0.1–0.4%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.6–2.6%&lt;/li&gt;&lt;li&gt;DENK: 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Bij1: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 4.0–5.5%&lt;/li&gt;&lt;li&gt;Volt Europa: 4.0–5.5%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 4.6–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-12-12-Peilnl.png"
+        length="409912"
+        type="image/png"/>
+      <pubDate>Fri, 17 Dec 2021 20:37:34 +0100</pubDate>
+      <dc:date>2021-12-17T20:37:34.022355+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 3–6 December 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2021-12-06-IOResearch.html#seats</link>
@@ -839,6 +869,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54+02:00</dc:date>
     </item>
-    <dc:date>2021-12-11T18:42:00.459921+01:00</dc:date>
+    <dc:date>2021-12-17T20:37:34.022355+01:00</dc:date>
   </channel>
 </rss>
