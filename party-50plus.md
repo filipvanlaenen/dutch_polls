@@ -11,6 +11,7 @@ Last result: **1.0%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.2–1.4% | 0.1–1.5% | 0.1–1.6% | 0.1–1.9% |
+| [17–18 December 2021](2021-12-18-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
 | [12 December 2021](2021-12-12-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
 | [3–6 December 2021](2021-12-06-IOResearch.html) | I&O Research | 1.1% | 0.9–1.5% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [3–5 December 2021](2021-12-05-Peilnl.html) | Peil.nl | 0.2% | 0.1–0.3% | 0.1–0.4% | 0.1–0.4% | 0.0–0.5% |
@@ -80,6 +81,7 @@ Last result: **1** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [17–18 December 2021](2021-12-18-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [12 December 2021](2021-12-12-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [3–6 December 2021](2021-12-06-IOResearch.html) | I&O Research | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [3–5 December 2021](2021-12-05-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
