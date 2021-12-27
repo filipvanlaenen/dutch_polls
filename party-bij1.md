@@ -11,6 +11,7 @@ Last result: **0.8%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.6–1.6% | 0.5–1.7% | 0.5–1.9% | 0.4–2.1% |
+| [24–25 December 2021](2021-12-25-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [15–20 December 2021](2021-12-20-Kantar.html) | Kantar | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [17–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> EenVandaag | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [17–18 December 2021](2021-12-18-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
@@ -83,6 +84,7 @@ Last result: **1** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [24–25 December 2021](2021-12-25-Peilnl.html) | Peil.nl | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [15–20 December 2021](2021-12-20-Kantar.html) | Kantar | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
 | [17–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [17–18 December 2021](2021-12-18-Peilnl.html) | Peil.nl | 0 | 0 | 0–1 | 0–1 | 0–1 |
