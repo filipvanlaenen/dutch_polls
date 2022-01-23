@@ -10,9 +10,10 @@ Last result: **9.5%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.4–7.2% | 4.3–7.6% | 4.1–8.0% | 3.8–8.7% |
+| N/A | [Poll Average](average.html) | 5.4% | 3.9–7.2% | 3.7–7.6% | 3.6–8.0% | 3.3–8.7% |
+| [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 5.2% | 4.7–5.9% | 4.5–6.1% | 4.4–6.3% | 4.1–6.6% |
-| [14–15 January 2022](2022-01-15-Peilnl.html) | Peil.nl | 4.6% | 4.1–5.1% | 4.0–5.3% | 3.9–5.4% | 3.7–5.7% |
+| [14–15 January 2022](2022-01-15-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
 | [24–25 December 2021](2021-12-25-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [15–20 December 2021](2021-12-20-Kantar.html) | Kantar | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.0–9.2% |
 | [17–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> EenVandaag | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.6% |
@@ -71,10 +72,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 14% | 100% |  |
-| 4.5–5.5% | 42% | 86% | Median |
-| 5.5–6.5% | 25% | 45% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 24% | 98% |  |
+| 4.5–5.5% | 30% | 74% | Median |
+| 5.5–6.5% | 25% | 44% |  |
 | 6.5–7.5% | 14% | 20% |  |
 | 7.5–8.5% | 5% | 6% |  |
 | 8.5–9.5% | 0.7% | 0.7% |  |
@@ -89,9 +91,10 @@ Last result: **15** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–10 | 6–10 | 5–11 | 5–11 |
+| N/A | [Poll Average](average.html) | 7 | 6–10 | 5–10 | 5–11 | 5–11 |
+| [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 6 | 6–9 | 6–9 | 6–9 | 6–9 |
-| [14–15 January 2022](2022-01-15-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7 | 6–8 |
+| [14–15 January 2022](2022-01-15-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [24–25 December 2021](2021-12-25-Peilnl.html) | Peil.nl | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | [15–20 December 2021](2021-12-20-Kantar.html) | Kantar | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [17–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 5–9 | 5–9 | 5–9 | 5–11 |
@@ -152,10 +155,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 4% | 100% |  |
-| 6 | 21% | 96% |  |
-| 7 | 36% | 75% | Median |
-| 8 | 2% | 39% |  |
+| 5 | 6% | 100% |  |
+| 6 | 44% | 94% |  |
+| 7 | 12% | 51% | Median |
+| 8 | 1.5% | 39% |  |
 | 9 | 12% | 37% |  |
 | 10 | 22% | 25% |  |
 | 11 | 3% | 4% |  |
