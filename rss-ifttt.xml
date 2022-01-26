@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 21–24 January 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2022-01-24-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Ipsos for EenVandaag, 21–24 January 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-01-24-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-01-24-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-01-24-Ipsos.png" length="469979" type="image/png"/>
+      <pubDate>Wed, 26 Jan 2022 16:33:41 +0100</pubDate>
+      <dc:date>2022-01-26T16:33:41.312598+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peil.nl, 21–22 January 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2022-01-22-Peilnl.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 21–22 January 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-01-22-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-01-22-Peilnl-seating-plan.png"/>]]></description>
@@ -196,30 +204,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-12-06-IOResearch.png" length="446100" type="image/png"/>
       <pubDate>Sat, 11 Dec 2021 18:16:43 +0100</pubDate>
       <dc:date>2021-12-11T18:16:43.606458+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 3–5 December 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 3–5 December 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl-seating-plan.png" length="698140" type="image/png"/>
-      <pubDate>Sat, 11 Dec 2021 18:42:00 +0100</pubDate>
-      <dc:date>2021-12-11T18:42:00.459921+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 3–5 December 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 3–5 December 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl-seats.png" length="379016" type="image/png"/>
-      <pubDate>Sat, 11 Dec 2021 18:42:00 +0100</pubDate>
-      <dc:date>2021-12-11T18:42:00.459921+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 3–5 December 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 3–5 December 2021<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2021-12-05-Peilnl.png" length="429398" type="image/png"/>
-      <pubDate>Sat, 11 Dec 2021 18:42:00 +0100</pubDate>
-      <dc:date>2021-12-11T18:42:00.459921+01:00</dc:date>
     </item>
   </channel>
 </rss>
