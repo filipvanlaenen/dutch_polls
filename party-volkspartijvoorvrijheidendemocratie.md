@@ -10,7 +10,12 @@ Last result: **21.9%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.9% | 15.1–21.1% | 14.8–21.8% | 14.5–22.3% | 14.0–23.3% |
+| N/A | [Poll Average](average.html) | 17.8% | 16.2–20.3% | 15.9–20.9% | 15.6–21.4% | 15.1–22.2% |
+| [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 16.8% | 15.9–17.9% | 15.6–18.2% | 15.3–18.4% | 14.9–18.9% |
+| [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 14.6% | N/A | N/A | N/A | N/A |
+| [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl | 14.6% | N/A | N/A | N/A | N/A |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 20.5% | N/A | N/A | N/A | N/A |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 14.6% | N/A | N/A | N/A | N/A |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 19.2% | 17.7–20.9% | 17.3–21.4% | 16.9–21.8% | 16.2–22.6% |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 15.3% | 14.5–16.2% | 14.3–16.4% | 14.1–16.6% | 13.7–17.1% |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 17.1% | 16.1–18.2% | 15.8–18.4% | 15.6–18.7% | 15.1–19.2% |
@@ -73,19 +78,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 3% | 99.9% |  |
-| 14.5–15.5% | 13% | 97% |  |
-| 15.5–16.5% | 14% | 84% |  |
-| 16.5–17.5% | 14% | 69% |  |
-| 17.5–18.5% | 13% | 55% | Median |
-| 18.5–19.5% | 13% | 43% |  |
-| 19.5–20.5% | 14% | 30% |  |
-| 20.5–21.5% | 10% | 16% |  |
-| 21.5–22.5% | 5% | 6% | Last Result |
-| 22.5–23.5% | 1.4% | 2% |  |
-| 23.5–24.5% | 0.3% | 0.3% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
+| 14.5–15.5% | 2% | 99.9% |  |
+| 15.5–16.5% | 16% | 98% |  |
+| 16.5–17.5% | 26% | 82% |  |
+| 17.5–18.5% | 19% | 56% | Median |
+| 18.5–19.5% | 16% | 37% |  |
+| 19.5–20.5% | 13% | 21% |  |
+| 20.5–21.5% | 6% | 8% |  |
+| 21.5–22.5% | 2% | 2% | Last Result |
+| 22.5–23.5% | 0.2% | 0.3% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -96,7 +99,12 @@ Last result: **34** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 23–30 | 23–30 | 23–31 | 23–33 |
+| N/A | [Poll Average](average.html) | 28 | 26–28 | 26–30 | 26–32 | 24–32 |
+| [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 28 | 28 | 28 | 26–28 | 25–28 |
+| [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar |  |  |  |  |  |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 26 | 26–30 | 26–32 | 25–32 | 24–32 |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 23 | 23 | 23 | 23–24 | 23–25 |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 30 | 29–30 | 29–30 | 28–30 | 23–30 |
@@ -161,23 +169,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0% | 100% |  |
-| 23 | 24% | 99.9% |  |
-| 24 | 1.2% | 76% |  |
-| 25 | 1.0% | 75% |  |
-| 26 | 13% | 74% |  |
-| 27 | 0.3% | 61% |  |
-| 28 | 7% | 60% |  |
-| 29 | 11% | 53% | Median |
-| 30 | 39% | 42% |  |
-| 31 | 0.9% | 3% |  |
-| 32 | 2% | 2% |  |
-| 33 | 0.1% | 0.6% |  |
-| 34 | 0% | 0.5% | Last Result |
-| 35 | 0.3% | 0.4% |  |
-| 36 | 0.1% | 0.2% |  |
-| 37 | 0% | 0.1% |  |
-| 38 | 0.1% | 0.1% |  |
-| 39 | 0% | 0% |  |
+| 23 | 0.2% | 100% |  |
+| 24 | 0.4% | 99.8% |  |
+| 25 | 1.1% | 99.4% |  |
+| 26 | 27% | 98% |  |
+| 27 | 0.9% | 71% |  |
+| 28 | 62% | 70% | Median |
+| 29 | 2% | 8% |  |
+| 30 | 0.9% | 6% |  |
+| 31 | 2% | 5% |  |
+| 32 | 3% | 3% |  |
+| 33 | 0.1% | 0.2% |  |
+| 34 | 0% | 0.2% | Last Result |
+| 35 | 0.1% | 0.2% |  |
+| 36 | 0.1% | 0.1% |  |
+| 37 | 0% | 0% |  |
 
 

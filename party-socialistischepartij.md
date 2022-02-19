@@ -10,7 +10,12 @@ Last result: **6.0%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.3–8.1% | 4.0–8.7% | 3.8–9.1% | 3.3–9.8% |
+| N/A | [Poll Average](average.html) | 4.7% | 4.0–5.4% | 3.8–5.6% | 3.6–5.8% | 3.2–6.3% |
+| [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 4.8% | 4.3–5.4% | 4.1–5.6% | 4.0–5.8% | 3.8–6.1% |
+| [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 5.3% | N/A | N/A | N/A | N/A |
+| [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl | 5.3% | N/A | N/A | N/A | N/A |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 5.5% | N/A | N/A | N/A | N/A |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 5.3% | N/A | N/A | N/A | N/A |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 4.5% | 3.8–5.4% | 3.6–5.7% | 3.4–5.9% | 3.1–6.4% |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 5.1% | 4.6–5.8% | 4.4–5.9% | 4.3–6.1% | 4.0–6.4% |
@@ -74,16 +79,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.2% | 100% |  |
-| 3.5–4.5% | 14% | 98.8% |  |
-| 4.5–5.5% | 45% | 84% | Median |
-| 5.5–6.5% | 16% | 40% | Last Result |
-| 6.5–7.5% | 7% | 24% |  |
-| 7.5–8.5% | 11% | 17% |  |
-| 8.5–9.5% | 5% | 6% |  |
-| 9.5–10.5% | 0.8% | 0.9% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 36% | 98% |  |
+| 4.5–5.5% | 55% | 61% | Median |
+| 5.5–6.5% | 7% | 7% | Last Result |
+| 6.5–7.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -94,7 +95,12 @@ Last result: **9** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–10 | 7–11 | 6–12 | 5–12 |
+| N/A | [Poll Average](average.html) | 7 | 7–8 | 6–8 | 5–8 | 5–10 |
+| [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 7 | 7 | 7 | 6–7 | 5–7 |
+| [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar |  |  |  |  |  |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 8 | 6–8 | 5–8 | 5–10 | 4–10 |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 6–7 | 6–8 |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 7 | 7 | 7 | 7–8 | 7–9 |
@@ -159,17 +165,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 1.3% | 99.8% |  |
-| 6 | 3% | 98% |  |
-| 7 | 57% | 96% | Median |
-| 8 | 13% | 39% |  |
-| 9 | 0.4% | 26% | Last Result |
-| 10 | 20% | 26% |  |
-| 11 | 2% | 5% |  |
-| 12 | 3% | 3% |  |
-| 13 | 0.3% | 0.3% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 4% | 99.5% |  |
+| 6 | 5% | 96% |  |
+| 7 | 65% | 91% | Median |
+| 8 | 24% | 26% |  |
+| 9 | 0.5% | 2% | Last Result |
+| 10 | 1.4% | 1.4% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
