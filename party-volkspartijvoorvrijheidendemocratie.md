@@ -10,9 +10,9 @@ Last result: **21.9%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.8% | 16.2–20.3% | 15.9–20.9% | 15.6–21.4% | 15.1–22.2% |
+| N/A | [Poll Average](average.html) | 16.8% | 14.3–19.9% | 14.0–20.6% | 13.7–21.1% | 13.3–22.0% |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 16.8% | 15.9–17.9% | 15.6–18.2% | 15.3–18.4% | 14.9–18.9% |
-| [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 14.6% | N/A | N/A | N/A | N/A |
+| [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 14.6% | 13.8–15.5% | 13.6–15.7% | 13.4–16.0% | 13.0–16.4% |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl | 14.6% | N/A | N/A | N/A | N/A |
 | [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 20.5% | N/A | N/A | N/A | N/A |
 | [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 14.6% | N/A | N/A | N/A | N/A |
@@ -78,16 +78,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0.1% | 100% |  |
-| 14.5–15.5% | 2% | 99.9% |  |
-| 15.5–16.5% | 16% | 98% |  |
-| 16.5–17.5% | 26% | 82% |  |
-| 17.5–18.5% | 19% | 56% | Median |
-| 18.5–19.5% | 16% | 37% |  |
-| 19.5–20.5% | 13% | 21% |  |
-| 20.5–21.5% | 6% | 8% |  |
-| 21.5–22.5% | 2% | 2% | Last Result |
-| 22.5–23.5% | 0.2% | 0.3% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 1.4% | 100% |  |
+| 13.5–14.5% | 13% | 98.6% |  |
+| 14.5–15.5% | 17% | 85% |  |
+| 15.5–16.5% | 13% | 68% |  |
+| 16.5–17.5% | 18% | 55% | Median |
+| 17.5–18.5% | 12% | 37% |  |
+| 18.5–19.5% | 11% | 25% |  |
+| 19.5–20.5% | 9% | 14% |  |
+| 20.5–21.5% | 4% | 5% |  |
+| 21.5–22.5% | 1.0% | 1.2% | Last Result |
+| 22.5–23.5% | 0.2% | 0.2% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -99,9 +101,9 @@ Last result: **34** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 26–28 | 26–30 | 26–32 | 24–32 |
+| N/A | [Poll Average](average.html) | 26 | 22–28 | 22–29 | 22–31 | 22–32 |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 28 | 28 | 28 | 26–28 | 25–28 |
-| [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 22 | 22 | 22 | 22 | 22 |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [27–31 January 2022](2022-01-31-Kantar.html) | Kantar |  |  |  |  |  |
 | [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -169,19 +171,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.2% | 100% |  |
-| 24 | 0.4% | 99.8% |  |
-| 25 | 1.1% | 99.4% |  |
-| 26 | 27% | 98% |  |
-| 27 | 0.9% | 71% |  |
-| 28 | 62% | 70% | Median |
-| 29 | 2% | 8% |  |
-| 30 | 0.9% | 6% |  |
-| 31 | 2% | 5% |  |
-| 32 | 3% | 3% |  |
-| 33 | 0.1% | 0.2% |  |
-| 34 | 0% | 0.2% | Last Result |
-| 35 | 0.1% | 0.2% |  |
+| 22 | 33% | 100% |  |
+| 23 | 0.1% | 67% |  |
+| 24 | 0.4% | 67% |  |
+| 25 | 0.8% | 66% |  |
+| 26 | 18% | 66% | Median |
+| 27 | 0.6% | 47% |  |
+| 28 | 41% | 47% |  |
+| 29 | 2% | 5% |  |
+| 30 | 0.6% | 4% |  |
+| 31 | 1.0% | 3% |  |
+| 32 | 2% | 2% |  |
+| 33 | 0% | 0.2% |  |
+| 34 | 0% | 0.1% | Last Result |
+| 35 | 0% | 0.1% |  |
 | 36 | 0.1% | 0.1% |  |
 | 37 | 0% | 0% |  |
 
