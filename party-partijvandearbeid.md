@@ -10,12 +10,12 @@ Last result: **5.7%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 5.5–7.1% | 5.4–7.4% | 5.2–7.6% | 4.8–8.2% |
+| N/A | [Poll Average](average.html) | 6.3% | 5.5–7.2% | 5.3–7.5% | 5.1–7.8% | 4.8–8.4% |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 6.3% | 5.7–7.0% | 5.5–7.2% | 5.4–7.4% | 5.1–7.7% |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl | 6.0% | N/A | N/A | N/A | N/A |
-| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 6.4% | N/A | N/A | N/A | N/A |
-| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 6.0% | N/A | N/A | N/A | N/A |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 5.9% | 5.3–6.6% | 5.2–6.8% | 5.0–7.0% | 4.7–7.3% |
@@ -79,12 +79,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 10% | 99.9% |  |
-| 5.5–6.5% | 61% | 90% | Last Result, Median |
-| 6.5–7.5% | 26% | 29% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 10% | 99.8% |  |
+| 5.5–6.5% | 57% | 90% | Last Result, Median |
+| 6.5–7.5% | 28% | 33% |  |
+| 7.5–8.5% | 4% | 4% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -96,12 +96,12 @@ Last result: **9** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–12 | 6–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 7–12 | 6–13 |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 10 | 10 | 10 | 10 | 9–10 |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 9 | 9 | 9 | 9 | 9 |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar |  |  |  |  |  |
-| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 8 | 8–11 | 7–12 | 7–12 | 7–13 |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 9 | 9 | 9 | 9 | 9 |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 8–11 | 8–12 | 7–12 | 6–12 |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 9 | 9 | 9 | 9–10 | 8–11 |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 7 | 7–10 | 7–10 | 7–10 | 7–10 |
@@ -166,13 +166,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.7% | 100% |  |
-| 7 | 0.3% | 99.3% |  |
-| 8 | 15% | 99.0% |  |
-| 9 | 37% | 84% | Last Result, Median |
-| 10 | 40% | 46% |  |
-| 11 | 3% | 6% |  |
-| 12 | 3% | 3% |  |
-| 13 | 0% | 0% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 2% | 99.4% |  |
+| 8 | 23% | 97% |  |
+| 9 | 36% | 74% | Last Result, Median |
+| 10 | 31% | 39% |  |
+| 11 | 3% | 7% |  |
+| 12 | 4% | 4% |  |
+| 13 | 0.5% | 0.6% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 

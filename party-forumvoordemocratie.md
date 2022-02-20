@@ -10,12 +10,12 @@ Last result: **5.0%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 2.9–5.1% | 2.7–5.3% | 2.6–5.4% | 2.3–5.8% |
+| N/A | [Poll Average](average.html) | 4.2% | 2.9–5.0% | 2.8–5.3% | 2.6–5.4% | 2.4–5.9% |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.8% | 2.2–4.1% |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
-| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 4.1% | N/A | N/A | N/A | N/A |
-| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 3.3% | 2.9–3.9% | 2.7–4.0% | 2.7–4.2% | 2.5–4.4% |
@@ -80,9 +80,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 32% | 98% |  |
-| 3.5–4.5% | 34% | 66% | Median |
-| 4.5–5.5% | 30% | 32% | Last Result |
+| 2.5–3.5% | 28% | 98% |  |
+| 3.5–4.5% | 40% | 70% | Median |
+| 4.5–5.5% | 29% | 30% | Last Result |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -95,12 +95,12 @@ Last result: **8** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 5–7 | 3–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 4–9 | 3–9 |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 6 | 6 | 5–6 | 4–6 | 3–6 |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7 | 7 |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar |  |  |  |  |  |
-| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 6 | 5–9 | 4–9 | 4–9 | 4–9 |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 7 | 7 |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 6–7 | 6–8 | 5–8 | 4–9 |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 7 | 7 | 7 | 6–7 | 6–8 |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -165,13 +165,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.8% | 100% |  |
-| 4 | 0.8% | 99.2% |  |
-| 5 | 1.4% | 98% |  |
-| 6 | 59% | 97% | Median |
-| 7 | 36% | 38% |  |
-| 8 | 2% | 2% | Last Result |
-| 9 | 0.2% | 0.2% |  |
-| 10 | 0% | 0% |  |
+| 3 | 0.6% | 100% |  |
+| 4 | 2% | 99.4% |  |
+| 5 | 10% | 97% |  |
+| 6 | 47% | 87% | Median |
+| 7 | 28% | 40% |  |
+| 8 | 3% | 12% | Last Result |
+| 9 | 9% | 9% |  |
+| 10 | 0% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 

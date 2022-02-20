@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 17 March 2021)
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl | 0.7% | N/A | N/A | N/A | N/A |
 | [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 0.0% | N/A | N/A | N/A | N/A |
-| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 0.7% | N/A | N/A | N/A | N/A |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.4–1.3% |
@@ -97,7 +97,7 @@ Last result: **0** seats (General Election of 17 March 2021)
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [27–31 January 2022](2022-01-31-Kantar.html) | Kantar |  |  |  |  |  |
-| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 0 | 0 | 0 | 0 | 0 |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

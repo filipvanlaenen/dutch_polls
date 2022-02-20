@@ -10,12 +10,12 @@ Last result: **2.0%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.2% | 1.1–3.6% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.6% | 1.2–2.8% | 1.1–3.1% | 0.9–3.5% |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.2–2.2% | 1.0–2.4% |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
-| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 1.5% | N/A | N/A | N/A | N/A |
-| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 2.3% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.2–2.2% | 1.0–2.4% |
@@ -79,10 +79,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 72% | 86% | Last Result, Median |
-| 2.5–3.5% | 13% | 14% |  |
-| 3.5–4.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 23% | 100% |  |
+| 1.5–2.5% | 66% | 77% | Last Result, Median |
+| 2.5–3.5% | 10% | 11% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -94,12 +94,12 @@ Last result: **3** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–4 | 2–4 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 2 | 2 | 2 | 2 | 2–3 |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
 | [4–5 February 2022](2022-02-05-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar |  |  |  |  |  |
-| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [27–31 January 2022](2022-01-31-Kantar.html) | Kantar | 2 | 1–4 | 1–4 | 1–4 | 1–5 |
+| [28–29 January 2022](2022-01-29-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4 | 4 |
 | [21–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
 | [21–22 January 2022](2022-01-22-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3–4 | 2–4 |
 | [14–17 January 2022](2022-01-17-IOResearch.html) | I&O Research | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -164,12 +164,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 36% | 99.9% |  |
-| 3 | 10% | 64% | Last Result |
-| 4 | 51% | 54% | Median |
+| 1 | 12% | 100% |  |
+| 2 | 32% | 88% |  |
+| 3 | 10% | 56% | Last Result, Median |
+| 4 | 44% | 46% |  |
 | 5 | 3% | 3% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
 
 
