@@ -10,7 +10,10 @@ Last result: **15.0%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.5% | 11.1–13.8% | 10.8–14.2% | 10.5–14.4% | 9.9–15.1% |
+| N/A | [Poll Average](average.html) | 12.7% | 11.4–14.0% | 11.1–14.3% | 10.8–14.7% | 10.3–15.4% |
+| [4–5 March 2022](2022-03-05-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
+| [25–28 February 2022](2022-02-28-Ipsos.html) | Ipsos <br> EenVandaag | 12.8% | 11.5–14.2% | 11.2–14.6% | 10.9–15.0% | 10.3–15.7% |
+| [26–27 February 2022](2022-02-27-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
 | [18–19 February 2022](2022-02-19-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 11.9% | 11.1–12.8% | 10.9–13.1% | 10.7–13.3% | 10.3–13.8% |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 12.6% | 11.9–13.4% | 11.7–13.7% | 11.5–13.9% | 11.1–14.3% |
@@ -79,15 +82,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 3% | 99.8% |  |
-| 10.5–11.5% | 17% | 97% |  |
-| 11.5–12.5% | 33% | 81% | Median |
-| 12.5–13.5% | 32% | 48% |  |
-| 13.5–14.5% | 14% | 16% |  |
-| 14.5–15.5% | 2% | 2% | Last Result |
-| 15.5–16.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 1.0% | 100% |  |
+| 10.5–11.5% | 12% | 99.0% |  |
+| 11.5–12.5% | 31% | 87% |  |
+| 12.5–13.5% | 36% | 57% | Median |
+| 13.5–14.5% | 18% | 21% |  |
+| 14.5–15.5% | 3% | 3% | Last Result |
+| 15.5–16.5% | 0.3% | 0.3% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -99,7 +101,10 @@ Last result: **24** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–22 | 16–22 | 14–23 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–22 | 16–22 | 15–23 |
+| [4–5 March 2022](2022-03-05-Peilnl.html) | Peil.nl | 21 | 20–22 | 19–22 | 19–22 | 18–23 |
+| [25–28 February 2022](2022-02-28-Ipsos.html) | Ipsos <br> EenVandaag | 18 | 18–21 | 16–22 | 16–22 | 15–24 |
+| [26–27 February 2022](2022-02-27-Peilnl.html) | Peil.nl | 20 | 20 | 20 | 20 | 19–21 |
 | [18–19 February 2022](2022-02-19-Peilnl.html) | Peil.nl | 21 | 19–21 | 19–21 | 19–21 | 17–22 |
 | [11–14 February 2022](2022-02-14-IOResearch.html) | I&O Research | 19 | 19 | 19 | 19 | 15–20 |
 | [11–12 February 2022](2022-02-12-Peilnl.html) | Peil.nl | 19 | 19 | 19 | 19 | 19 |
@@ -170,19 +175,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 0% | 99.9% |  |
-| 14 | 0.8% | 99.9% |  |
-| 15 | 0.9% | 99.1% |  |
-| 16 | 1.4% | 98% |  |
-| 17 | 13% | 97% |  |
-| 18 | 3% | 84% |  |
-| 19 | 32% | 81% | Median |
-| 20 | 21% | 49% |  |
-| 21 | 21% | 28% |  |
-| 22 | 6% | 8% |  |
-| 23 | 1.3% | 1.4% |  |
-| 24 | 0.1% | 0.1% | Last Result |
+| 14 | 0.4% | 100% |  |
+| 15 | 0.4% | 99.6% |  |
+| 16 | 2% | 99.2% |  |
+| 17 | 1.2% | 97% |  |
+| 18 | 18% | 96% |  |
+| 19 | 28% | 78% |  |
+| 20 | 19% | 50% | Median |
+| 21 | 14% | 31% |  |
+| 22 | 15% | 17% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.4% | 0.5% | Last Result |
 | 25 | 0% | 0% |  |
 
 
