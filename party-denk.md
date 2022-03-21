@@ -11,6 +11,8 @@ Last result: **2.0%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.9% | 1.3–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.1% |
+| [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [11–12 March 2022](2022-03-12-Peilnl.html) | Peil.nl | 2.0% | N/A | N/A | N/A | N/A |
 | [4–5 March 2022](2022-03-05-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [25–28 February 2022](2022-02-28-Ipsos.html) | Ipsos <br> EenVandaag | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.5% |
 | [26–27 February 2022](2022-02-27-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
@@ -100,6 +102,8 @@ Last result: **3** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–6 | 1–6 | 1–6 | 1–6 |
+| [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [11–12 March 2022](2022-03-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [4–5 March 2022](2022-03-05-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [25–28 February 2022](2022-02-28-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 3–6 | 3–6 | 3–6 | 2–6 |
 | [26–27 February 2022](2022-02-27-Peilnl.html) | Peil.nl | 3 | 3 | 3 | 3 | 3 |
@@ -174,9 +178,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 12% | 100% |  |
-| 2 | 38% | 88% | Median |
-| 3 | 23% | 50% | Last Result |
-| 4 | 9% | 27% |  |
+| 2 | 47% | 88% | Median |
+| 3 | 13% | 40% | Last Result |
+| 4 | 9% | 28% |  |
 | 5 | 6% | 18% |  |
 | 6 | 12% | 12% |  |
 | 7 | 0.1% | 0.1% |  |
