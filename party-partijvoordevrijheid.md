@@ -11,6 +11,8 @@ Last result: **10.8%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.8% | 8.7–11.0% | 8.4–11.4% | 8.1–11.7% | 7.6–12.3% |
+| [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
+| [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl | 9.3% | N/A | N/A | N/A | N/A |
 | [25–27 March 2022](2022-03-27-Ipsos.html) | Ipsos <br> EenVandaag | 9.3% | 8.2–10.5% | 7.9–10.9% | 7.6–11.2% | 7.2–11.8% |
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 9.3% | 8.7–10.1% | 8.5–10.3% | 8.3–10.4% | 8.0–10.8% |
@@ -106,6 +108,8 @@ Last result: **17** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 14–16 | 12–16 | 12–17 | 11–18 |
+| [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 15 | 15–16 | 14–16 | 14–16 | 12–17 |
+| [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [25–27 March 2022](2022-03-27-Ipsos.html) | Ipsos <br> EenVandaag | 15 | 12–15 | 12–16 | 11–16 | 11–18 |
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 15 | 15 | 15 | 14–15 | 14–17 |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 15 | 15 | 15 | 14–15 | 14–17 |
@@ -185,12 +189,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
 | 11 | 0.9% | 99.9% |  |
-| 12 | 6% | 99.0% |  |
-| 13 | 2% | 93% |  |
+| 12 | 7% | 99.0% |  |
+| 13 | 2% | 92% |  |
 | 14 | 11% | 91% |  |
-| 15 | 62% | 80% | Median |
-| 16 | 15% | 18% |  |
-| 17 | 1.4% | 3% | Last Result |
+| 15 | 49% | 79% | Median |
+| 16 | 27% | 30% |  |
+| 17 | 1.3% | 3% | Last Result |
 | 18 | 2% | 2% |  |
 | 19 | 0.1% | 0.2% |  |
 | 20 | 0% | 0% |  |

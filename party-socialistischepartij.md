@@ -11,6 +11,8 @@ Last result: **6.0%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.9% | 4.2–5.8% | 4.0–6.2% | 3.8–6.5% | 3.4–7.2% |
+| [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
 | [25–27 March 2022](2022-03-27-Ipsos.html) | Ipsos <br> EenVandaag | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.5–6.0% | 3.1–6.5% |
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
@@ -105,6 +107,8 @@ Last result: **9** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–10 | 4–13 |
+| [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [25–27 March 2022](2022-03-27-Ipsos.html) | Ipsos <br> EenVandaag | 7 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
@@ -183,10 +187,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.8% | 100% |  |
-| 5 | 7% | 99.2% |  |
-| 6 | 5% | 92% |  |
-| 7 | 59% | 86% | Median |
-| 8 | 23% | 27% |  |
+| 5 | 8% | 99.2% |  |
+| 6 | 26% | 91% |  |
+| 7 | 40% | 65% | Median |
+| 8 | 21% | 26% |  |
 | 9 | 2% | 5% | Last Result |
 | 10 | 1.5% | 3% |  |
 | 11 | 0.2% | 1.3% |  |

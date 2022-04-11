@@ -11,6 +11,8 @@ Last result: **15.0%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.2% | 11.2–13.4% | 10.9–13.9% | 10.6–14.3% | 10.1–15.1% |
+| [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 12.0% | 11.2–12.8% | 11.0–13.0% | 10.9–13.2% | 10.5–13.6% |
+| [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl | 12.0% | N/A | N/A | N/A | N/A |
 | [25–27 March 2022](2022-03-27-Ipsos.html) | Ipsos <br> EenVandaag | 12.2% | 11.0–13.6% | 10.7–14.0% | 10.4–14.3% | 9.8–15.0% |
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 12.0% | 11.2–12.8% | 11.0–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 12.0% | 11.2–12.8% | 11.0–13.0% | 10.9–13.2% | 10.5–13.6% |
@@ -106,6 +108,8 @@ Last result: **24** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 16–21 | 16–22 | 16–23 | 15–24 |
+| [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 19 | 19 | 17–19 | 16–21 | 16–21 |
+| [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [25–27 March 2022](2022-03-27-Ipsos.html) | Ipsos <br> EenVandaag | 16 | 16–21 | 16–24 | 16–24 | 15–24 |
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
@@ -185,12 +189,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.4% | 100% |  |
 | 15 | 0.3% | 99.6% |  |
-| 16 | 14% | 99.3% |  |
-| 17 | 9% | 85% |  |
-| 18 | 21% | 76% |  |
-| 19 | 29% | 55% | Median |
-| 20 | 14% | 26% |  |
-| 21 | 3% | 12% |  |
+| 16 | 15% | 99.2% |  |
+| 17 | 7% | 84% |  |
+| 18 | 3% | 77% |  |
+| 19 | 48% | 74% | Median |
+| 20 | 13% | 26% |  |
+| 21 | 3% | 13% |  |
 | 22 | 6% | 9% |  |
 | 23 | 1.3% | 4% |  |
 | 24 | 2% | 2% | Last Result |
