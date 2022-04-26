@@ -11,6 +11,7 @@ Last result: **1.0%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.6–1.7% | 0.5–1.9% | 0.5–2.0% | 0.4–2.4% |
+| [22–23 April 2022](2022-04-23-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [8–11 April 2022](2022-04-11-IOResearch.html) | I&O Research | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.0% |
 | [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl | 0.7% | N/A | N/A | N/A | N/A |
@@ -105,6 +106,7 @@ Last result: **1** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [22–23 April 2022](2022-04-23-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–11 April 2022](2022-04-11-IOResearch.html) | I&O Research | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -185,8 +187,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% |  |
-| 1 | 39% | 76% | Last Result, Median |
+| 0 | 32% | 100% |  |
+| 1 | 31% | 68% | Last Result, Median |
 | 2 | 22% | 37% |  |
 | 3 | 15% | 15% |  |
 | 4 | 0.2% | 0.3% |  |

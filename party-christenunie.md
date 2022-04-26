@@ -11,6 +11,7 @@ Last result: **3.4%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.2% | 3.2–4.9% | 3.0–5.1% | 2.8–5.3% | 2.5–5.6% |
+| [22–23 April 2022](2022-04-23-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [8–11 April 2022](2022-04-11-IOResearch.html) | I&O Research | 4.3% | 3.7–4.9% | 3.6–5.0% | 3.5–5.2% | 3.3–5.5% |
 | [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl | 4.7% | N/A | N/A | N/A | N/A |
@@ -106,7 +107,8 @@ Last result: **5** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 4–8 | 2–8 |
+| N/A | [Poll Average](average.html) | 7 | 4–8 | 4–8 | 4–8 | 2–8 |
+| [22–23 April 2022](2022-04-23-Peilnl.html) | Peil.nl | 7 | 7 | 6–7 | 6–7 | 6–8 |
 | [8–11 April 2022](2022-04-11-IOResearch.html) | I&O Research | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [8–9 April 2022](2022-04-09-Peilnl.html) | Peil.nl | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [1–2 April 2022](2022-04-02-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -191,10 +193,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.2% | 99.2% |  |
 | 4 | 14% | 99.0% |  |
 | 5 | 15% | 85% | Last Result |
-| 6 | 21% | 70% | Median |
-| 7 | 34% | 49% |  |
-| 8 | 14% | 15% |  |
-| 9 | 0.3% | 0.3% |  |
+| 6 | 12% | 71% |  |
+| 7 | 46% | 58% | Median |
+| 8 | 12% | 12% |  |
+| 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 
