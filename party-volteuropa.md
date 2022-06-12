@@ -10,7 +10,8 @@ Last result: **2.4%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.4% | 2.4–4.7% | 2.3–4.9% | 2.1–5.4% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.9–4.4% | 2.8–4.7% | 2.6–4.9% | 2.4–5.4% |
+| [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 3.3% | 2.8–4.0% | 2.7–4.1% | 2.6–4.3% | 2.3–4.6% |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
@@ -95,9 +96,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 9% | 100% | Last Result |
-| 2.5–3.5% | 50% | 91% | Median |
-| 3.5–4.5% | 34% | 40% |  |
+| 1.5–2.5% | 1.5% | 100% | Last Result |
+| 2.5–3.5% | 51% | 98.5% |  |
+| 3.5–4.5% | 41% | 47% | Median |
 | 4.5–5.5% | 6% | 7% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -111,7 +112,8 @@ Last result: **3** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–7 | 3–9 |
+| N/A | [Poll Average](average.html) | 6 | 4–6 | 4–6 | 3–7 | 3–9 |
+| [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6 |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 6 | 5–6 | 4–6 | 4–7 | 3–9 |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 5 | 4–6 | 4–6 | 3–6 | 3–8 |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -197,10 +199,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 8% | 100% | Last Result |
-| 4 | 29% | 92% |  |
-| 5 | 27% | 63% | Median |
-| 6 | 33% | 36% |  |
+| 3 | 4% | 100% | Last Result |
+| 4 | 10% | 96% |  |
+| 5 | 26% | 87% |  |
+| 6 | 58% | 61% | Median |
 | 7 | 0.6% | 3% |  |
 | 8 | 1.3% | 2% |  |
 | 9 | 0.6% | 0.6% |  |
