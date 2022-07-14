@@ -10,10 +10,15 @@ Last result: **2.4%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 3.0–4.4% | 2.9–4.7% | 2.7–4.9% | 2.4–5.4% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.7–4.4% | 2.5–4.6% | 2.3–4.9% | 1.9–5.4% |
+| [8–9 July 2022](2022-07-09-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
+| [24–27 June 2022](2022-06-27-Ipsos.html) | Ipsos <br> EenVandaag | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
+| [24–25 June 2022](2022-06-25-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [17–18 June 2022](2022-06-18-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
 | [10–13 June 2022](2022-06-13-IOResearch.html) | I&O Research | 3.7% | 3.2–4.3% | 3.0–4.5% | 2.9–4.6% | 2.7–4.9% |
 | [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
+| [27–30 May 2022](2022-05-30-Ipsos.html) | Ipsos <br> EenVandaag | 3.5% | N/A | N/A | N/A | N/A |
+| [27–28 May 2022](2022-05-28-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 3.3% | 2.8–4.0% | 2.7–4.1% | 2.6–4.3% | 2.3–4.6% |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
@@ -26,6 +31,7 @@ Last result: **2.4%** (General Election of 17 March 2021)
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [11–12 March 2022](2022-03-12-Peilnl.html) | Peil.nl | 2.7% | N/A | N/A | N/A | N/A |
+| [9–11 March 2022](2022-03-11-Kantar.html) | Kantar | 3.0% | N/A | N/A | N/A | N/A |
 | [4–5 March 2022](2022-03-05-Peilnl.html) | Peil.nl | 2.7% | 2.3–3.1% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% |
 | [25–28 February 2022](2022-02-28-Ipsos.html) | Ipsos <br> EenVandaag | 3.2% | 2.6–4.1% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [26–27 February 2022](2022-02-27-Peilnl.html) | Peil.nl | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.6–4.3% |
@@ -98,10 +104,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.9% | 100% | Last Result |
-| 2.5–3.5% | 44% | 99.1% |  |
-| 3.5–4.5% | 48% | 55% | Median |
-| 4.5–5.5% | 7% | 7% |  |
+| 1.5–2.5% | 6% | 100% | Last Result |
+| 2.5–3.5% | 47% | 94% | Median |
+| 3.5–4.5% | 40% | 46% |  |
+| 4.5–5.5% | 6% | 6% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -114,10 +120,15 @@ Last result: **3** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–7 | 3–9 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 2–7 | 2–7 | 2–9 |
+| [8–9 July 2022](2022-07-09-Peilnl.html) | Peil.nl | 4 | 4 | 4 | 4–5 | 4–6 |
+| [24–27 June 2022](2022-06-27-Ipsos.html) | Ipsos <br> EenVandaag | 4 | 2–7 | 2–7 | 2–7 | 2–7 |
+| [24–25 June 2022](2022-06-25-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 4–5 |
 | [17–18 June 2022](2022-06-18-Peilnl.html) | Peil.nl | 5 | 5 | 5 | 5 | 5 |
 | [10–13 June 2022](2022-06-13-IOResearch.html) | I&O Research | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [10–11 June 2022](2022-06-11-Peilnl.html) | Peil.nl | 6 | 6 | 6 | 6 | 6 |
+| [27–30 May 2022](2022-05-30-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [27–28 May 2022](2022-05-28-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [25–27 May 2022](2022-05-27-Kantar.html) | Kantar | 6 | 5–6 | 4–6 | 4–7 | 3–9 |
 | [13–16 May 2022](2022-05-16-IOResearch.html) | I&O Research | 5 | 4–6 | 4–6 | 3–6 | 3–8 |
 | [13–14 May 2022](2022-05-14-Peilnl.html) | Peil.nl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -130,6 +141,7 @@ Last result: **3** seats (General Election of 17 March 2021)
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [11–12 March 2022](2022-03-12-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [9–11 March 2022](2022-03-11-Kantar.html) | Kantar |  |  |  |  |  |
 | [4–5 March 2022](2022-03-05-Peilnl.html) | Peil.nl | 4 | 4 | 3–4 | 3–5 | 2–5 |
 | [25–28 February 2022](2022-02-28-Ipsos.html) | Ipsos <br> EenVandaag | 6 | 4–6 | 3–6 | 3–7 | 3–8 |
 | [26–27 February 2022](2022-02-27-Peilnl.html) | Peil.nl | 5 | 5 | 4–5 | 4–5 | 4–6 |
@@ -203,13 +215,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 3% | 100% | Last Result |
-| 4 | 9% | 97% |  |
-| 5 | 49% | 88% | Median |
-| 6 | 36% | 39% |  |
-| 7 | 1.4% | 3% |  |
-| 8 | 1.1% | 2% |  |
-| 9 | 0.7% | 0.7% |  |
+| 2 | 8% | 100% |  |
+| 3 | 4% | 92% | Last Result |
+| 4 | 36% | 88% |  |
+| 5 | 9% | 52% | Median |
+| 6 | 37% | 43% |  |
+| 7 | 6% | 7% |  |
+| 8 | 0.2% | 0.7% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
 
