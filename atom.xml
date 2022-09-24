@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/dutch_polls</id>
   <title>All Registered Polls for the Tweede Kamer</title>
-  <updated>2022-09-22T21:28:34.839154+02:00</updated>
+  <updated>2022-09-24T12:00:44.167716+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 13.0–16.3%, 21–26 seats</li><li>Partij voor de Vrijheid: 9.3–12.2%, 14–17 seats</li><li>Christen-Democratisch Appèl: 3.2–5.1%, 5–8 seats</li><li>Democraten 66: 8.3–11.1%, 12–17 seats</li><li>GroenLinks: 6.7–9.2%, 11–14 seats</li><li>Socialistische Partij: 4.2–6.2%, 5–9 seats</li><li>Partij van de Arbeid: 6.2–8.7%, 10–13 seats</li><li>ChristenUnie: 2.6–4.2%, 4–7 seats</li><li>Partij voor de Dieren: 4.0–6.0%, 6–9 seats</li><li>50Plus: 0.5–1.3%, 0–1 seats</li><li>Staatkundig Gereformeerde Partij: 1.9–3.4%, 2–4 seats</li><li>DENK: 1.1–2.3%, 1–3 seats</li><li>Forum voor Democratie: 3.0–4.8%, 4–6 seats</li><li>Bij1: 0.7–1.7%, 1–2 seats</li><li>Juiste Antwoord 2021: 6.6–9.1%, 10–12 seats</li><li>Volt Europa: 2.8–4.6%, 5–6 seats</li><li>BoerBurgerBeweging: 8.6–11.4%, 13–19 seats</li><li>Belang van Nederland: 0.6–1.6%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/dutch_polls/2022-09-12-IOResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/dutch_polls/2022-09-12-IOResearch.html"/>
+    <title>Opinion Poll by I&amp;O Research, 9–12 September 2022</title>
+    <updated>2022-09-24T12:00:44.167716+02:00</updated>
+    <dc:date>2022-09-24T12:00:44.167716+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Volkspartij voor Vrijheid en Democratie: 14.9–19.5%, 22–31 seats</li><li>Partij voor de Vrijheid: 9.7–13.6%, 15–22 seats</li><li>Christen-Democratisch Appèl: 4.5–7.4%, 6–11 seats</li><li>Democraten 66: 9.5–13.4%, 14–23 seats</li><li>GroenLinks: 5.6–8.8%, 8–14 seats</li><li>Socialistische Partij: 3.6–6.3%, 4–10 seats</li><li>Partij van de Arbeid: 4.2–7.1%, 6–11 seats</li><li>ChristenUnie: 2.4–4.7%, 3–8 seats</li><li>Partij voor de Dieren: 4.5–7.4%, 6–11 seats</li><li>50Plus: 0.3–1.3%, 0–2 seats</li><li>Staatkundig Gereformeerde Partij: 1.5–3.4%, 2–6 seats</li><li>DENK: 1.4–3.3%, 2–6 seats</li><li>Forum voor Democratie: 1.8–3.9%, 2–6 seats</li><li>Bij1: 0.3–1.4%, 0–2 seats</li><li>Juiste Antwoord 2021: 4.7–7.7%, 7–11 seats</li><li>Volt Europa: 0.9–2.5%, 1–4 seats</li><li>BoerBurgerBeweging: 8.4–12.2%, 11–19 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/dutch_polls/2022-08-29-Ipsos.html</id>
@@ -511,5 +519,5 @@
     <updated>2021-04-20T15:48:54+02:00</updated>
     <dc:date>2021-04-20T15:48:54+02:00</dc:date>
   </entry>
-  <dc:date>2022-09-22T21:28:34.839154+02:00</dc:date>
+  <dc:date>2022-09-24T12:00:44.167716+02:00</dc:date>
 </feed>
