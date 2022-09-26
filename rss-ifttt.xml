@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Peil.nl, 23–24 September 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 23–24 September 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl-seating-plan.png" length="679825" type="image/png"/>
+      <pubDate>Mon, 26 Sep 2022 20:22:30 +0200</pubDate>
+      <dc:date>2022-09-26T20:22:30.317468+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 23–24 September 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl.html#seats</link>
+      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 23–24 September 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl-seats.png" length="351600" type="image/png"/>
+      <pubDate>Mon, 26 Sep 2022 20:22:30 +0200</pubDate>
+      <dc:date>2022-09-26T20:22:30.317468+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 23–24 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 23–24 September 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-09-24-Peilnl.png" length="439302" type="image/png"/>
+      <pubDate>Mon, 26 Sep 2022 20:22:30 +0200</pubDate>
+      <dc:date>2022-09-26T20:22:30.317468+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by I&amp;O Research, 9–12 September 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2022-09-12-IOResearch.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by I&O Research, 9–12 September 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-09-12-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-09-12-IOResearch-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-06-25-Peilnl.png" length="435043" type="image/png"/>
       <pubDate>Wed, 13 Jul 2022 23:41:52 +0200</pubDate>
       <dc:date>2022-07-13T23:41:52.464831+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 17–18 June 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 17–18 June 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl-seating-plan.png" length="659797" type="image/png"/>
-      <pubDate>Wed, 22 Jun 2022 22:51:32 +0200</pubDate>
-      <dc:date>2022-06-22T22:51:32.595146+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 17–18 June 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 17–18 June 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl-seats.png" length="288448" type="image/png"/>
-      <pubDate>Wed, 22 Jun 2022 22:51:32 +0200</pubDate>
-      <dc:date>2022-06-22T22:51:32.595146+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 17–18 June 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 17–18 June 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-06-18-Peilnl.png" length="437629" type="image/png"/>
-      <pubDate>Wed, 22 Jun 2022 22:51:32 +0200</pubDate>
-      <dc:date>2022-06-22T22:51:32.595146+02:00</dc:date>
     </item>
   </channel>
 </rss>
