@@ -11,6 +11,8 @@ Last result: **3.4%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.5% | 2.7–4.3% | 2.5–4.4% | 2.3–4.6% | 2.0–4.9% |
+| [14–17 October 2022](2022-10-17-IOResearch.html) | I&O Research | 3.4% | 2.9–4.0% | 2.8–4.1% | 2.7–4.3% | 2.5–4.5% |
+| [14–15 October 2022](2022-10-15-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [23–26 September 2022](2022-09-26-Ipsos.html) | Ipsos <br> EenVandaag | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
 | [23–24 September 2022](2022-09-24-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [9–12 September 2022](2022-09-12-IOResearch.html) | I&O Research | 3.3% | 2.8–3.9% | 2.7–4.1% | 2.6–4.2% | 2.3–4.5% |
@@ -113,8 +115,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 47% | 94% | Last Result, Median |
-| 3.5–4.5% | 44% | 47% |  |
+| 2.5–3.5% | 45% | 94% | Last Result |
+| 3.5–4.5% | 47% | 49% | Median |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -128,6 +130,8 @@ Last result: **5** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–7 | 4–7 | 3–7 | 3–7 |
+| [14–17 October 2022](2022-10-17-IOResearch.html) | I&O Research | 5 | 5 | 5 | 5 | 4–6 |
+| [14–15 October 2022](2022-10-15-Peilnl.html) | Peil.nl | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [23–26 September 2022](2022-09-26-Ipsos.html) | Ipsos <br> EenVandaag | 5 | 4–7 | 3–7 | 3–7 | 2–7 |
 | [23–24 September 2022](2022-09-24-Peilnl.html) | Peil.nl | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [9–12 September 2022](2022-09-12-IOResearch.html) | I&O Research | 5 | 5 | 4–5 | 4–7 | 3–7 |
@@ -231,11 +235,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% |  |
-| 3 | 4% | 99.8% |  |
-| 4 | 4% | 96% |  |
-| 5 | 50% | 92% | Last Result, Median |
-| 6 | 8% | 43% |  |
-| 7 | 35% | 35% |  |
+| 3 | 3% | 99.8% |  |
+| 4 | 3% | 97% |  |
+| 5 | 74% | 94% | Last Result, Median |
+| 6 | 8% | 19% |  |
+| 7 | 11% | 11% |  |
 | 8 | 0% | 0% |  |
 
 
