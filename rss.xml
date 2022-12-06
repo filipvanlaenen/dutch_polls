@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sat, 19 Nov 2022 21:19:16 +0100</pubDate>
+    <pubDate>Tue, 06 Dec 2022 20:18:38 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Peil.nl, 25–26 November 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2022-11-26-Peilnl.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 19–21 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 20–24 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 4–5 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 12–13 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 12–13 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 7–8 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 10–11 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 4–6 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 8 seats&lt;/li&gt;&lt;li&gt;50Plus: 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 3–4 seats&lt;/li&gt;&lt;li&gt;DENK: 2–3 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 5 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 13–16 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 5 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 14–15 seats&lt;/li&gt;&lt;li&gt;Belang van Nederland: 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-11-26-Peilnl-seats.png"
+        length="329856"
+        type="image/png"/>
+      <pubDate>Tue, 06 Dec 2022 20:18:38 +0100</pubDate>
+      <dc:date>2022-12-06T20:18:38.165173+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 25–26 November 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2022-11-26-Peilnl.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-11-26-Peilnl-coalitions-seats.png"
+        length="463150"
+        type="image/png"/>
+      <pubDate>Tue, 06 Dec 2022 20:18:38 +0100</pubDate>
+      <dc:date>2022-12-06T20:18:38.165173+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil.nl, 25–26 November 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2022-11-26-Peilnl.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 12.1–14.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 12.8–15.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Democraten 66: 7.1–9.0%&lt;/li&gt;&lt;li&gt;GroenLinks: 7.1–9.0%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.6–6.2%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 5.8–7.6%&lt;/li&gt;&lt;li&gt;ChristenUnie: 3.4–4.8%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.6–6.2%&lt;/li&gt;&lt;li&gt;50Plus: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2.1–3.3%&lt;/li&gt;&lt;li&gt;DENK: 1.6–2.6%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Bij1: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 9.0–11.1%&lt;/li&gt;&lt;li&gt;Volt Europa: 2.7–4.0%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 7.7–9.7%&lt;/li&gt;&lt;li&gt;Belang van Nederland: 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-11-26-Peilnl.png"
+        length="437125"
+        type="image/png"/>
+      <pubDate>Tue, 06 Dec 2022 20:18:38 +0100</pubDate>
+      <dc:date>2022-12-06T20:18:38.165173+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 11–14 November 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2022-11-14-IOResearch.html#seats</link>
@@ -2219,6 +2249,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54+02:00</dc:date>
     </item>
-    <dc:date>2022-11-19T21:19:16.106844+01:00</dc:date>
+    <dc:date>2022-12-06T20:18:38.165173+01:00</dc:date>
   </channel>
 </rss>
