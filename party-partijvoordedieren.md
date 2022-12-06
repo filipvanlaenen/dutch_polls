@@ -11,6 +11,7 @@ Last result: **3.8%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.5% | 4.8–6.8% | 4.7–7.2% | 4.5–7.6% | 4.2–8.2% |
+| [25–26 November 2022](2022-11-26-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
 | [11–14 November 2022](2022-11-14-IOResearch.html) | I&O Research | 5.2% | 4.6–5.9% | 4.5–6.1% | 4.3–6.3% | 4.1–6.6% |
 | [11–12 November 2022](2022-11-12-Peilnl.html) | Peil.nl | 5.3% | 4.8–5.9% | 4.7–6.1% | 4.6–6.2% | 4.4–6.5% |
 | [21–24 October 2022](2022-10-24-Ipsos.html) | Ipsos <br> EenVandaag | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.0% | 4.6–8.6% |
@@ -136,6 +137,7 @@ Last result: **6** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 8–12 | 8–12 | 7–12 | 7–12 |
+| [25–26 November 2022](2022-11-26-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8 | 7–9 |
 | [11–14 November 2022](2022-11-14-IOResearch.html) | I&O Research | 8 | 8 | 8–9 | 8–10 | 7–10 |
 | [11–12 November 2022](2022-11-12-Peilnl.html) | Peil.nl | 8 | 8 | 8 | 8 | 7–9 |
 | [21–24 October 2022](2022-10-24-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 8–12 | 7–12 | 7–12 | 7–13 |
