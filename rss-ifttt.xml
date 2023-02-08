@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Tweede Kamer</description>
     <pubDate>Mon, 5 Apr 2021 14:34:39 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 27–30 January 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 27–30 January 2023<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos-seating-plan.png" length="710218" type="image/png"/>
+      <pubDate>Wed, 8 Feb 2023 18:01:21 +0100</pubDate>
+      <dc:date>2023-02-08T18:01:21.012725+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 27–30 January 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos.html#seats</link>
+      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Ipsos for EenVandaag, 27–30 January 2023<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos-seats.png" length="399047" type="image/png"/>
+      <pubDate>Wed, 8 Feb 2023 18:01:21 +0100</pubDate>
+      <dc:date>2023-02-08T18:01:21.012725+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 27–30 January 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Ipsos for EenVandaag, 27–30 January 2023<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-01-30-Ipsos.png" length="468189" type="image/png"/>
+      <pubDate>Wed, 8 Feb 2023 18:01:21 +0100</pubDate>
+      <dc:date>2023-02-08T18:01:21.012725+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by I&amp;O Research, 13–16 January 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2023-01-16-IOResearch.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by I&O Research, 13–16 January 2023<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2023-01-16-IOResearch.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2023-01-16-IOResearch-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-11-14-IOResearch.png" length="451684" type="image/png"/>
       <pubDate>Sat, 19 Nov 2022 20:45:34 +0100</pubDate>
       <dc:date>2022-11-19T20:45:34.608731+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 11–12 November 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 11–12 November 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl-seating-plan.png" length="671679" type="image/png"/>
-      <pubDate>Sat, 19 Nov 2022 21:19:16 +0100</pubDate>
-      <dc:date>2022-11-19T21:19:16.106844+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 11–12 November 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl.html#seats</link>
-      <description><![CDATA[Seat projections for the Tweede Kamer<br/>76 seats needed for a majority<br/>Opinion poll by Peil.nl, 11–12 November 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl-seats.png" length="328872" type="image/png"/>
-      <pubDate>Sat, 19 Nov 2022 21:19:16 +0100</pubDate>
-      <dc:date>2022-11-19T21:19:16.106844+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peil.nl, 11–12 November 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl.html</link>
-      <description><![CDATA[Voting intentions for the Tweede Kamer<br/>Opinion poll by Peil.nl, 11–12 November 2022<br/>Details on https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl.html<br/><img src="https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2022-11-12-Peilnl.png" length="436129" type="image/png"/>
-      <pubDate>Sat, 19 Nov 2022 21:19:16 +0100</pubDate>
-      <dc:date>2022-11-19T21:19:16.106844+01:00</dc:date>
     </item>
   </channel>
 </rss>
