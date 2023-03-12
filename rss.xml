@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Sat, 04 Mar 2023 09:11:33 +0100</pubDate>
+    <pubDate>Sun, 12 Mar 2023 10:06:31 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 17–27 February 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-02-27-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 27–31 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 15–17 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 9–10 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 13–16 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 8–11 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 7–9 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 8–9 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 4–5 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 8–10 seats&lt;/li&gt;&lt;li&gt;50Plus: 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 3 seats&lt;/li&gt;&lt;li&gt;DENK: 3–4 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3–5 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 8–10 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 3–4 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 13–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-02-27-Ipsos-seats.png"
+        length="338509"
+        type="image/png"/>
+      <pubDate>Sun, 12 Mar 2023 10:06:31 +0100</pubDate>
+      <dc:date>2023-03-12T10:06:31.14829+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 17–27 February 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-02-27-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-02-27-Ipsos-coalitions-seats.png"
+        length="499021"
+        type="image/png"/>
+      <pubDate>Sun, 12 Mar 2023 10:06:31 +0100</pubDate>
+      <dc:date>2023-03-12T10:06:31.14829+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 17–27 February 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-02-27-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 17.5–19.6%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 9.7–11.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 5.4–6.7%&lt;/li&gt;&lt;li&gt;Democraten 66: 8.6–10.2%&lt;/li&gt;&lt;li&gt;GroenLinks: 5.7–7.1%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 4.8–6.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 5.7–7.1%&lt;/li&gt;&lt;li&gt;ChristenUnie: 2.7–3.6%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 5.1–6.4%&lt;/li&gt;&lt;li&gt;50Plus: 0.6–1.1%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.9–2.7%&lt;/li&gt;&lt;li&gt;DENK: 2.0–2.9%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.6–3.5%&lt;/li&gt;&lt;li&gt;Bij1: 0.7–1.2%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 5.1–6.4%&lt;/li&gt;&lt;li&gt;Volt Europa: 2.4–3.3%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 8.6–10.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-02-27-Ipsos.png"
+        length="402598"
+        type="image/png"/>
+      <pubDate>Sun, 12 Mar 2023 10:06:31 +0100</pubDate>
+      <dc:date>2023-03-12T10:06:31.14829+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peil.nl, 24–25 February 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2023-02-25-Peilnl.html#seats</link>
@@ -2579,6 +2609,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54+02:00</dc:date>
     </item>
-    <dc:date>2023-03-04T09:11:33.876068+01:00</dc:date>
+    <dc:date>2023-03-12T10:06:31.14829+01:00</dc:date>
   </channel>
 </rss>
