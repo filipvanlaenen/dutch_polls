@@ -10,7 +10,8 @@ Last result: **1.0%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–0.9% | 0.4–1.0% | 0.3–1.0% | 0.3–1.1% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.4% | 0.4–1.5% | 0.3–1.6% | 0.3–1.8% |
+| [23–24 March 2023](2023-03-24-Peilnl.html) | Peil.nl | 1.3% | 1.1–1.6% | 1.1–1.7% | 1.0–1.7% | 0.9–1.9% |
 | [17–27 February 2023](2023-02-27-Ipsos.html) | Ipsos <br> EenVandaag | 0.8% | 0.7–1.0% | 0.6–1.0% | 0.6–1.1% | 0.5–1.2% |
 | [24–25 February 2023](2023-02-25-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
 | [17–18 February 2023](2023-02-18-Peilnl.html) | Peil.nl | 0.7% | 0.5–0.9% | 0.5–1.0% | 0.4–1.0% | 0.4–1.2% |
@@ -131,9 +132,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 26% | 100% |  |
-| 0.5–1.5% | 74% | 74% | Last Result, Median |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 21% | 100% |  |
+| 0.5–1.5% | 75% | 79% | Last Result, Median |
+| 1.5–2.5% | 4% | 4% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -144,7 +146,8 @@ Last result: **1** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [23–24 March 2023](2023-03-24-Peilnl.html) | Peil.nl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–27 February 2023](2023-02-27-Ipsos.html) | Ipsos <br> EenVandaag | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–25 February 2023](2023-02-25-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–18 February 2023](2023-02-18-Peilnl.html) | Peil.nl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -267,8 +270,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Median |
-| 1 | 38% | 38% | Last Result |
-| 2 | 0% | 0% |  |
+| 0 | 34% | 100% |  |
+| 1 | 50% | 66% | Last Result, Median |
+| 2 | 16% | 16% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
