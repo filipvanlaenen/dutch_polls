@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Wed, 26 Apr 2023 18:10:28 +0200</pubDate>
+    <pubDate>Sun, 07 May 2023 18:03:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peil, 5–6 May 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-05-06-Peil.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 30–34 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 8–10 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 5–7 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 7–9 seats&lt;/li&gt;&lt;li&gt;GroenLinks: 11–15 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 6–7 seats&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 10–11 seats&lt;/li&gt;&lt;li&gt;ChristenUnie: 3–5 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 7–9 seats&lt;/li&gt;&lt;li&gt;50Plus: 0–1 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 2–3 seats&lt;/li&gt;&lt;li&gt;DENK: 1–2 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 3–5 seats&lt;/li&gt;&lt;li&gt;Bij1: 0–1 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 4–6 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 4–6 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 32–34 seats&lt;/li&gt;&lt;li&gt;Belang van Nederland: 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-05-06-Peil-seats.png"
+        length="344069"
+        type="image/png"/>
+      <pubDate>Sun, 07 May 2023 18:03:36 +0200</pubDate>
+      <dc:date>2023-05-07T18:03:36.599645+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil, 5–6 May 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-05-06-Peil.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-05-06-Peil-coalitions-seats.png"
+        length="503168"
+        type="image/png"/>
+      <pubDate>Sun, 07 May 2023 18:03:36 +0200</pubDate>
+      <dc:date>2023-05-07T18:03:36.599645+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peil, 5–6 May 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-05-06-Peil.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 19.5–22.4%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 5.2–6.9%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 3.5–5.0%&lt;/li&gt;&lt;li&gt;Democraten 66: 5.2–6.9%&lt;/li&gt;&lt;li&gt;GroenLinks: 7.4–9.4%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 3.5–5.0%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid: 5.7–7.5%&lt;/li&gt;&lt;li&gt;ChristenUnie: 1.9–3.0%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 4.6–6.2%&lt;/li&gt;&lt;li&gt;50Plus: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.4–2.3%&lt;/li&gt;&lt;li&gt;DENK: 0.9–1.7%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.4–3.7%&lt;/li&gt;&lt;li&gt;Bij1: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 3.0–4.3%&lt;/li&gt;&lt;li&gt;Volt Europa: 3.0–4.3%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 19.5–22.4%&lt;/li&gt;&lt;li&gt;Belang van Nederland: 0.4–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-05-06-Peil.png"
+        length="426761"
+        type="image/png"/>
+      <pubDate>Sun, 07 May 2023 18:03:36 +0200</pubDate>
+      <dc:date>2023-05-07T18:03:36.599645+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for EenVandaag, 24 April 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2023-04-24-Ipsos.html#seats</link>
@@ -2789,6 +2819,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54+02:00</dc:date>
     </item>
-    <dc:date>2023-04-26T18:10:28.856442+02:00</dc:date>
+    <dc:date>2023-05-07T18:03:36.599645+02:00</dc:date>
   </channel>
 </rss>
