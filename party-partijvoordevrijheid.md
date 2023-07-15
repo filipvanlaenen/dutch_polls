@@ -163,8 +163,8 @@ Last result: **17** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–15 | 11–15 | 11–15 | 10–16 |
-| [30 June–1 July 2023](2023-07-01-Peilnl.html) | Peil.nl | 14 | 14–15 | 14–15 | 14–15 | 14–16 |
+| N/A | [Poll Average](average.html) | 14 | 11–15 | 11–15 | 11–15 | 10–15 |
+| [30 June–1 July 2023](2023-07-01-Peilnl.html) | Peil.nl | 15 | 15 | 15 | 15 | 14–15 |
 | [23–25 June 2023](2023-06-25-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 12 | 12–13 | 12–15 | 12–15 | 12–15 |
 | [9–12 June 2023](2023-06-12-IOResearch.html) | I&O Research | 13 | 11–13 | 11–14 | 11–14 | 10–14 |
@@ -304,10 +304,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 10% | 99.4% |  |
 | 12 | 0.8% | 89% |  |
 | 13 | 36% | 89% |  |
-| 14 | 35% | 53% | Median |
-| 15 | 18% | 18% |  |
-| 16 | 0.5% | 0.6% |  |
-| 17 | 0.1% | 0.1% | Last Result |
-| 18 | 0% | 0% |  |
+| 14 | 3% | 53% | Median |
+| 15 | 50% | 50% |  |
+| 16 | 0% | 0% |  |
+| 17 | 0% | 0% | Last Result |
 
 
