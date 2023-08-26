@@ -1,21 +1,21 @@
-# GroenLinks–Partij van de Arbeid
+# Nieuw Sociaal Contract
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **10.9%** (General Election of 17 March 2021)
+Last result: **0.0%** (General Election of 17 March 2021)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.4% | 15.9–18.7% | 15.4–19.1% | 15.0–19.4% | 14.2–20.1% |
-| [23–24 August 2023](2023-08-24-IOResearch.html) | I&O Research | 18.0% | 16.8–19.2% | 16.5–19.6% | 16.2–19.9% | 15.7–20.5% |
-| [18–19 August 2023](2023-08-19-Peilnl.html) | Peil.nl | 17.3% | 16.4–18.2% | 16.2–18.4% | 15.9–18.7% | 15.5–19.1% |
-| [21 August–24 July 2023](2023-07-24-Ipsos.html) | Ipsos <br> EenVandaag | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
-| [14–17 July 2023](2023-07-17-IOResearch.html) | I&O Research | 17.0% | 15.9–18.2% | 15.6–18.5% | 15.3–18.9% | 14.8–19.4% |
-| [14–15 July 2023](2023-07-15-Peilnl.html) | Peil.nl | 16.5% | 15.7–17.4% | 15.4–17.7% | 15.2–17.9% | 14.8–18.4% |
+| N/A | [Poll Average](average.html) | 20.2% | 19.0–21.5% | 18.7–21.8% | 18.4–22.2% | 17.8–22.8% |
+| [23–24 August 2023](2023-08-24-IOResearch.html) | I&O Research | 20.2% | 19.0–21.5% | 18.7–21.8% | 18.4–22.2% | 17.8–22.8% |
+| [18–19 August 2023](2023-08-19-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
+| [21 August–24 July 2023](2023-07-24-Ipsos.html) | Ipsos <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
+| [14–17 July 2023](2023-07-17-IOResearch.html) | I&O Research | 0.0% | N/A | N/A | N/A | N/A |
+| [14–15 July 2023](2023-07-15-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–1 July 2023](2023-07-01-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 June 2023](2023-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 0.0% | N/A | N/A | N/A | N/A |
@@ -146,38 +146,52 @@ Last result: **10.9%** (General Election of 17 March 2021)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for GroenLinks–Partij van de Arbeid.
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Nieuw Sociaal Contract.
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% | Last Result |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.0% | 99.9% |  |
-| 14.5–15.5% | 5% | 98.9% |  |
-| 15.5–16.5% | 16% | 94% |  |
-| 16.5–17.5% | 35% | 78% | Median |
-| 17.5–18.5% | 30% | 42% |  |
-| 18.5–19.5% | 10% | 12% |  |
-| 19.5–20.5% | 2% | 2% |  |
-| 20.5–21.5% | 0.1% | 0.2% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 3% | 99.8% |  |
+| 18.5–19.5% | 20% | 96% |  |
+| 19.5–20.5% | 39% | 76% | Median |
+| 20.5–21.5% | 28% | 37% |  |
+| 21.5–22.5% | 8% | 9% |  |
+| 22.5–23.5% | 0.9% | 0.9% |  |
+| 23.5–24.5% | 0% | 0% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
 
-Last result: **17** seats (General Election of 17 March 2021)
+Last result: **0** seats (General Election of 17 March 2021)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 25–27 | 24–28 | 24–29 | 23–30 |
-| [23–24 August 2023](2023-08-24-IOResearch.html) | I&O Research | 25 | 25–28 | 25–29 | 25–29 | 24–31 |
-| [18–19 August 2023](2023-08-19-Peilnl.html) | Peil.nl | 26 | 26 | 26–27 | 25–27 | 24–29 |
-| [21 August–24 July 2023](2023-07-24-Ipsos.html) | Ipsos <br> EenVandaag | 27 | 24–27 | 24–27 | 23–27 | 22–28 |
-| [14–17 July 2023](2023-07-17-IOResearch.html) | I&O Research | 25 | 25 | 25–27 | 23–27 | 23–27 |
-| [14–15 July 2023](2023-07-15-Peilnl.html) | Peil.nl | 27 | 24–27 | 24–27 | 23–27 | 23–28 |
+| N/A | [Poll Average](average.html) | 34 | 28–34 | 28–34 | 27–34 | 27–36 |
+| [23–24 August 2023](2023-08-24-IOResearch.html) | I&O Research | 34 | 28–34 | 28–34 | 27–34 | 27–36 |
+| [18–19 August 2023](2023-08-19-Peilnl.html) | Peil.nl |  |  |  |  |  |
+| [21 August–24 July 2023](2023-07-24-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
+| [14–17 July 2023](2023-07-17-IOResearch.html) | I&O Research |  |  |  |  |  |
+| [14–15 July 2023](2023-07-15-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [30 June–1 July 2023](2023-07-01-Peilnl.html) | Peil.nl |  |  |  |  |  |
 | [23–25 June 2023](2023-06-25-Ipsos.html) | Ipsos <br> EenVandaag |  |  |  |  |  |
 | [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl |  |  |  |  |  |
@@ -308,27 +322,51 @@ Last result: **17** seats (General Election of 17 March 2021)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-groenlinks–partijvandearbeid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-nieuwsociaalcontract.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for GroenLinks–Partij van de Arbeid.
+The following table shows the probability mass function per seat for the [poll average](average.html) for Nieuw Sociaal Contract.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0% | 100% | Last Result |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.2% | 100% |  |
-| 23 | 1.0% | 99.8% |  |
-| 24 | 7% | 98.8% |  |
-| 25 | 19% | 91% |  |
-| 26 | 33% | 72% | Median |
-| 27 | 32% | 39% |  |
-| 28 | 4% | 8% |  |
-| 29 | 3% | 3% |  |
-| 30 | 0.3% | 0.6% |  |
-| 31 | 0.3% | 0.3% |  |
-| 32 | 0% | 0% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0% | 100% |  |
+| 24 | 0% | 100% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 5% | 99.9% |  |
+| 28 | 8% | 95% |  |
+| 29 | 13% | 87% |  |
+| 30 | 2% | 74% |  |
+| 31 | 7% | 72% |  |
+| 32 | 0.8% | 64% |  |
+| 33 | 5% | 64% |  |
+| 34 | 56% | 58% | Median |
+| 35 | 0.2% | 2% |  |
+| 36 | 1.4% | 2% |  |
+| 37 | 0% | 0.5% |  |
+| 38 | 0.5% | 0.5% |  |
+| 39 | 0% | 0% |  |
 
 
