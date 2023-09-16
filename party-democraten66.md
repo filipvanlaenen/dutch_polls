@@ -11,6 +11,7 @@ Last result: **15.0%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.9% | 4.2–7.2% | 4.0–7.6% | 3.8–8.0% | 3.5–8.7% |
+| [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 4.6% | 4.2–5.2% | 4.0–5.3% | 3.9–5.5% | 3.7–5.7% |
 | [1–4 September 2023](2023-09-04-Ipsos.html) | Ipsos <br> EenVandaag | 6.7% | 5.7–7.9% | 5.5–8.2% | 5.3–8.5% | 4.8–9.1% |
 | [1–2 September 2023](2023-09-02-Peilnl.html) | Peil.nl | 4.6% | 4.2–5.2% | 4.0–5.3% | 3.9–5.5% | 3.7–5.7% |
 | [25–26 August 2023](2023-08-26-Peilnl.html) | Peil.nl | 4.6% | 4.2–5.2% | 4.0–5.3% | 3.9–5.5% | 3.7–5.7% |
@@ -21,7 +22,7 @@ Last result: **15.0%** (General Election of 17 March 2021)
 | [14–15 July 2023](2023-07-15-Peilnl.html) | Peil.nl | 6.0% | 5.4–6.6% | 5.3–6.7% | 5.2–6.9% | 4.9–7.2% |
 | [30 June–1 July 2023](2023-07-01-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
 | [23–25 June 2023](2023-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 7.7% | 6.8–8.9% | 6.5–9.3% | 6.2–9.5% | 5.8–10.1% |
-| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 6.6% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
+| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
 | [9–12 June 2023](2023-06-12-IOResearch.html) | I&O Research | 6.6% | 6.0–7.3% | 5.8–7.5% | 5.7–7.7% | 5.4–8.0% |
 | [26–29 May 2023](2023-05-29-Ipsos.html) | Ipsos <br> EenVandaag | 7.3% | 6.3–8.4% | 6.1–8.7% | 5.8–9.0% | 5.4–9.6% |
 | [19–20 May 2023](2023-05-20-Peilnl.html) | Peil.nl | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.6% | 5.6–7.9% |
@@ -81,7 +82,7 @@ Last result: **15.0%** (General Election of 17 March 2021)
 | [25–26 March 2022](2022-03-26-Peilnl.html) | Peil.nl | 12.0% | 11.2–12.8% | 11.0–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [18–19 March 2022](2022-03-19-Peilnl.html) | Peil.nl | 12.0% | 11.2–12.8% | 11.0–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [11–12 March 2022](2022-03-12-Peilnl.html) | Peil.nl | 13.3% | N/A | N/A | N/A | N/A |
-| [9–11 March 2022](2022-03-11-Kantar.html) | Kantar | 13.1% | N/A | N/A | N/A | N/A |
+| [9–11 March 2022](2022-03-11-Kantar.html) | Kantar | 13.0% | N/A | N/A | N/A | N/A |
 | [4–5 March 2022](2022-03-05-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
 | [25–28 February 2022](2022-02-28-Ipsos.html) | Ipsos <br> EenVandaag | 12.8% | 11.5–14.2% | 11.2–14.6% | 10.9–15.0% | 10.3–15.7% |
 | [26–27 February 2022](2022-02-27-Peilnl.html) | Peil.nl | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
@@ -106,7 +107,7 @@ Last result: **15.0%** (General Election of 17 March 2021)
 | [26–27 November 2021](2021-11-27-Peilnl.html) | Peil.nl | 10.6% | 9.9–11.4% | 9.7–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [19–20 November 2021](2021-11-20-Peilnl.html) | Peil.nl | 10.6% | 9.9–11.4% | 9.7–11.6% | 9.6–11.8% | 9.3–12.2% |
 | [12–15 November 2021](2021-11-15-IOResearch.html) | I&O Research | 9.3% | 8.5–10.2% | 8.3–10.4% | 8.1–10.7% | 7.7–11.1% |
-| [5–9 November 2021](2021-11-09-Kantar.html) | Kantar | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.5–16.1% |
+| [5–9 November 2021](2021-11-09-Kantar.html) | Kantar | 13.0% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.5–16.1% |
 | [7 November 2021](2021-11-07-Peilnl.html) | Peil.nl | 12.0% | N/A | N/A | N/A | N/A |
 | [29–30 October 2021](2021-10-30-Peilnl.html) | Peil.nl | 12.0% | N/A | N/A | N/A | N/A |
 | [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
@@ -137,7 +138,7 @@ Last result: **15.0%** (General Election of 17 March 2021)
 | [21–22 May 2021](2021-05-22-Peilnl.html) | Peil.nl | 15.3% | 14.4–16.1% | 14.2–16.4% | 14.0–16.6% | 13.6–17.0% |
 | [14–15 May 2021](2021-05-15-Peilnl.html) | Peil.nl | 15.3% | 14.4–16.1% | 14.2–16.4% | 14.0–16.6% | 13.6–17.0% |
 | [7–9 May 2021](2021-05-09-Peilnl.html) | Peil.nl | 15.3% | 14.4–16.1% | 14.2–16.4% | 14.0–16.6% | 13.6–17.0% |
-| [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 14.4% | 13.4–15.5% | 13.1–15.8% | 12.9–16.0% | 12.4–16.6% |
+| [30 April–3 May 2021](2021-05-03-IOResearch.html) | I&O Research | 14.3% | 13.4–15.5% | 13.1–15.8% | 12.9–16.0% | 12.4–16.6% |
 | [30 April–1 May 2021](2021-05-01-Peilnl.html) | Peil.nl | 14.6% | 13.8–15.5% | 13.6–15.7% | 13.4–16.0% | 13.0–16.4% |
 | [23–24 April 2021](2021-04-24-Peilnl.html) | Peil.nl | 14.6% | 13.8–15.5% | 13.6–15.7% | 13.4–16.0% | 13.0–16.4% |
 | [16–19 April 2021](2021-04-19-Ipsos.html) | Ipsos | 16.7% | 15.2–18.3% | 14.8–18.7% | 14.5–19.1% | 13.8–19.9% |
@@ -177,7 +178,8 @@ Last result: **24** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–11 | 6–11 | 5–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–11 | 6–11 | 5–11 |
+| [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [1–4 September 2023](2023-09-04-Ipsos.html) | Ipsos <br> EenVandaag | 9 | 9–11 | 9–11 | 8–11 | 7–15 |
 | [1–2 September 2023](2023-09-02-Peilnl.html) | Peil.nl | 8 | 7–8 | 7–8 | 6–8 | 5–9 |
 | [25–26 August 2023](2023-08-26-Peilnl.html) | Peil.nl | 7 | 7–9 | 7–9 | 6–9 | 6–9 |
@@ -322,10 +324,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.6% | 100% |  |
-| 6 | 6% | 99.4% |  |
-| 7 | 36% | 93% |  |
-| 8 | 21% | 56% | Median |
+| 5 | 1.1% | 100% |  |
+| 6 | 18% | 98.9% |  |
+| 7 | 30% | 81% |  |
+| 8 | 15% | 51% | Median |
 | 9 | 24% | 36% |  |
 | 10 | 2% | 12% |  |
 | 11 | 9% | 10% |  |

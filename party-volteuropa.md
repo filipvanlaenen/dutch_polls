@@ -11,6 +11,7 @@ Last result: **2.4%** (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.5–3.1% | 1.3–3.5% |
+| [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [1–4 September 2023](2023-09-04-Ipsos.html) | Ipsos <br> EenVandaag | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.2–3.8% |
 | [1–2 September 2023](2023-09-02-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
 | [25–26 August 2023](2023-08-26-Peilnl.html) | Peil.nl | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
@@ -21,7 +22,7 @@ Last result: **2.4%** (General Election of 17 March 2021)
 | [14–15 July 2023](2023-07-15-Peilnl.html) | Peil.nl | 4.0% | 3.5–4.5% | 3.4–4.6% | 3.3–4.7% | 3.1–5.0% |
 | [30 June–1 July 2023](2023-07-01-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [23–25 June 2023](2023-06-25-Ipsos.html) | Ipsos <br> EenVandaag | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
-| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 4.0% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
+| [16–17 June 2023](2023-06-17-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
 | [9–12 June 2023](2023-06-12-IOResearch.html) | I&O Research | 4.7% | 4.2–5.3% | 4.0–5.5% | 3.9–5.6% | 3.7–5.9% |
 | [26–29 May 2023](2023-05-29-Ipsos.html) | Ipsos <br> EenVandaag | 2.6% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [19–20 May 2023](2023-05-20-Peilnl.html) | Peil.nl | 4.7% | 4.2–5.2% | 4.1–5.3% | 4.0–5.5% | 3.7–5.8% |
@@ -106,7 +107,7 @@ Last result: **2.4%** (General Election of 17 March 2021)
 | [26–27 November 2021](2021-11-27-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [19–20 November 2021](2021-11-20-Peilnl.html) | Peil.nl | 4.0% | 3.6–4.5% | 3.4–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [12–15 November 2021](2021-11-15-IOResearch.html) | I&O Research | 5.4% | 4.8–6.1% | 4.6–6.3% | 4.5–6.5% | 4.2–6.8% |
-| [5–9 November 2021](2021-11-09-Kantar.html) | Kantar | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
+| [5–9 November 2021](2021-11-09-Kantar.html) | Kantar | 5.0% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
 | [7 November 2021](2021-11-07-Peilnl.html) | Peil.nl | 4.0% | N/A | N/A | N/A | N/A |
 | [29–30 October 2021](2021-10-30-Peilnl.html) | Peil.nl | 4.0% | N/A | N/A | N/A | N/A |
 | [22–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> EenVandaag | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -170,6 +171,7 @@ Last result: **3** seats (General Election of 17 March 2021)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–5 |
+| [8–9 September 2023](2023-09-09-Peilnl.html) | Peil.nl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–4 September 2023](2023-09-04-Ipsos.html) | Ipsos <br> EenVandaag | 3 | 3 | 2–4 | 2–5 | 2–5 |
 | [1–2 September 2023](2023-09-02-Peilnl.html) | Peil.nl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [25–26 August 2023](2023-08-26-Peilnl.html) | Peil.nl | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
@@ -314,8 +316,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 45% | 100% |  |
-| 3 | 50% | 55% | Last Result, Median |
+| 2 | 34% | 100% |  |
+| 3 | 61% | 66% | Last Result, Median |
 | 4 | 3% | 5% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0.1% | 0.1% |  |
