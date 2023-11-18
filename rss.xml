@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Tweede Kamer</title>
     <link>https://filipvanlaenen.github.io/dutch_polls</link>
     <description>All Registered Polls for the Tweede Kamer</description>
-    <pubDate>Thu, 09 Nov 2023 22:39:46 +0100</pubDate>
+    <pubDate>Sat, 18 Nov 2023 19:55:29 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 10–13 November 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-11-13-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;ChristenUnie: 3 seats&lt;/li&gt;&lt;li&gt;Bij1: 0 seats&lt;/li&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 30 seats&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 4 seats&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 2 seats&lt;/li&gt;&lt;li&gt;Democraten 66: 9 seats&lt;/li&gt;&lt;li&gt;Socialistische Partij: 5 seats&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 4 seats&lt;/li&gt;&lt;li&gt;Volt Europa: 3 seats&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 18 seats&lt;/li&gt;&lt;li&gt;DENK: 4 seats&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 3 seats&lt;/li&gt;&lt;li&gt;Belang van Nederland: 0 seats&lt;/li&gt;&lt;li&gt;50Plus: 0 seats&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 10 seats&lt;/li&gt;&lt;li&gt;Nieuw Sociaal Contract: 26 seats&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 6 seats&lt;/li&gt;&lt;li&gt;GroenLinks–Partij van de Arbeid: 23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-11-13-Ipsos-seats.png"
+        length="277170"
+        type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 19:55:29 +0100</pubDate>
+      <dc:date>2023-11-18T19:55:29.092534+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 10–13 November 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-11-13-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-11-13-Ipsos-coalitions-seats.png"
+        length="614018"
+        type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 19:55:29 +0100</pubDate>
+      <dc:date>2023-11-18T19:55:29.092534+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for EenVandaag, 10–13 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/dutch_polls/2023-11-13-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;ChristenUnie: 2.6–4.2%&lt;/li&gt;&lt;li&gt;Bij1: 0.4–1.1%&lt;/li&gt;&lt;li&gt;Volkspartij voor Vrijheid en Democratie: 16.9–20.3%&lt;/li&gt;&lt;li&gt;Christen-Democratisch Appèl: 2.0–3.4%&lt;/li&gt;&lt;li&gt;Juiste Antwoord 2021: 0.9–1.9%&lt;/li&gt;&lt;li&gt;Democraten 66: 5.0–7.1%&lt;/li&gt;&lt;li&gt;Socialistische Partij: 2.6–4.2%&lt;/li&gt;&lt;li&gt;Forum voor Democratie: 2.0–3.4%&lt;/li&gt;&lt;li&gt;Volt Europa: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Partij voor de Vrijheid: 10.0–12.7%&lt;/li&gt;&lt;li&gt;DENK: 2.0–3.4%&lt;/li&gt;&lt;li&gt;Staatkundig Gereformeerde Partij: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Belang van Nederland: 0.0–0.4%&lt;/li&gt;&lt;li&gt;50Plus: 0.0–0.4%&lt;/li&gt;&lt;li&gt;BoerBurgerBeweging: 5.0–7.1%&lt;/li&gt;&lt;li&gt;Nieuw Sociaal Contract: 15.7–19.0%&lt;/li&gt;&lt;li&gt;Partij voor de Dieren: 3.8–5.6%&lt;/li&gt;&lt;li&gt;GroenLinks–Partij van de Arbeid: 13.8–16.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/dutch_polls/2023-11-13-Ipsos.png"
+        length="455308"
+        type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 19:55:29 +0100</pubDate>
+      <dc:date>2023-11-18T19:55:29.092534+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by I&amp;O Research, 6–7 November 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/dutch_polls/2023-11-07-IOResearch.html#seats</link>
@@ -3629,6 +3659,6 @@
       <pubDate>Tue, 20 Apr 2021 15:48:54 +0200</pubDate>
       <dc:date>2021-04-20T15:48:54+02:00</dc:date>
     </item>
-    <dc:date>2023-11-09T22:39:46.062616+01:00</dc:date>
+    <dc:date>2023-11-18T19:55:29.092534+01:00</dc:date>
   </channel>
 </rss>
