@@ -10,9 +10,9 @@ Last result: **21.9%** (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 17.5–19.7% | 17.2–20.0% | 16.9–20.3% | 16.4–20.9% |
-| [17–18 November 2023](2023-11-18-Peilnl.html) | Peil.nl | 17.3% | N/A | N/A | N/A | N/A |
-| [12–14 November 2023](2023-11-14-IOResearch.html) | I&O Research | 17.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 17.7% | 16.6–19.1% | 16.3–19.5% | 16.0–19.9% | 15.6–20.5% |
+| [17–18 November 2023](2023-11-18-Peilnl.html) | Peil.nl | 17.3% | 16.4–18.2% | 16.2–18.4% | 15.9–18.7% | 15.5–19.1% |
+| [12–14 November 2023](2023-11-14-IOResearch.html) | I&O Research | 17.3% | 16.4–18.4% | 16.1–18.7% | 15.9–18.9% | 15.4–19.5% |
 | [10–13 November 2023](2023-11-13-Ipsos.html) | Ipsos <br> EenVandaag | 18.0% | 17.5–19.7% | 17.2–20.0% | 16.9–20.3% | 16.4–20.9% |
 | [10–11 November 2023](2023-11-11-Peilnl.html) | Peil.nl | 17.9% | 17.1–18.9% | 16.8–19.1% | 16.6–19.4% | 16.2–19.8% |
 | [6–7 November 2023](2023-11-07-IOResearch.html) | I&O Research | 16.5% | 15.5–17.5% | 15.2–17.8% | 15.0–18.1% | 14.5–18.6% |
@@ -172,15 +172,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.7% | 100% |  |
-| 16.5–17.5% | 10% | 99.3% |  |
-| 17.5–18.5% | 37% | 89% |  |
-| 18.5–19.5% | 38% | 52% | Median |
-| 19.5–20.5% | 12% | 13% |  |
-| 20.5–21.5% | 1.3% | 1.3% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.4% | 100% |  |
+| 15.5–16.5% | 9% | 99.6% |  |
+| 16.5–17.5% | 35% | 90% |  |
+| 17.5–18.5% | 34% | 55% | Median |
+| 18.5–19.5% | 16% | 21% |  |
+| 19.5–20.5% | 4% | 5% |  |
+| 20.5–21.5% | 0.4% | 0.4% |  |
 | 21.5–22.5% | 0% | 0% | Last Result |
-| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -191,9 +191,9 @@ Last result: **34** seats (General Election of 17 March 2021)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 30 | 30 | 30 | 30 |
-| [17–18 November 2023](2023-11-18-Peilnl.html) | Peil.nl |  |  |  |  |  |
-| [12–14 November 2023](2023-11-14-IOResearch.html) | I&O Research |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 29 | 25–30 | 25–30 | 25–30 | 24–31 |
+| [17–18 November 2023](2023-11-18-Peilnl.html) | Peil.nl | 29 | 26–29 | 25–31 | 25–31 | 23–31 |
+| [12–14 November 2023](2023-11-14-IOResearch.html) | I&O Research | 25 | 25–28 | 25–28 | 25–29 | 24–29 |
 | [10–13 November 2023](2023-11-13-Ipsos.html) | Ipsos <br> EenVandaag | 30 | 30 | 30 | 30 | 30 |
 | [10–11 November 2023](2023-11-11-Peilnl.html) | Peil.nl | 31 | 28–31 | 27–31 | 26–31 | 25–31 |
 | [6–7 November 2023](2023-11-07-IOResearch.html) | I&O Research | 26 | 24–27 | 24–27 | 24–28 | 22–30 |
@@ -355,11 +355,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
-| 28 | 0.4% | 99.9% |  |
-| 29 | 0% | 99.5% |  |
-| 30 | 99.5% | 99.5% | Median |
-| 31 | 0% | 0% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.2% | 99.9% |  |
+| 24 | 0.9% | 99.6% |  |
+| 25 | 27% | 98.7% |  |
+| 26 | 3% | 71% |  |
+| 27 | 1.2% | 68% |  |
+| 28 | 10% | 67% |  |
+| 29 | 22% | 57% | Median |
+| 30 | 33% | 35% |  |
+| 31 | 2% | 2% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |
 | 34 | 0% | 0% | Last Result |
